@@ -1,0 +1,998 @@
+,flood_area_code,ea_area_name,is_tidal,severity,severity_level,time_raised,time_severity_changed,county,river_or_sea,latitude,longitude,time_recorded
+0,061WAF02Churn,Thames,0,Warning no longer in force,4,2025-02-09 08:52:12,2025-02-09 08:52:00,"Gloucestershire, Wiltshire","River Churn, Hilcot Brook, Daglingworth Stream, Gumstool Brook",51.68995,-1.9389,2025-02-09 18:32:01
+4,061WAF10Windrush,Thames,0,Flood alert,3,2025-02-09 08:51:58,2024-11-24 18:30:00,"Gloucestershire, Oxfordshire",River Windrush,51.8284,-1.65082,2025-02-09 18:32:01
+84,061WAF23Ginge,Thames,0,Flood alert,3,2025-02-09 08:51:19,2025-01-26 18:08:00,Oxfordshire,Ginge Brook,51.62575,-1.31402,2025-02-09 18:32:01
+139,111WAFAVOL,Wessex,0,Flood alert,3,2025-02-09 10:55:50,2025-01-23 17:32:00,"Bournemouth, Christchurch and Poole, Dorset Council, Hampshire",Avon,50.79544,-1.78686,2025-02-09 18:32:01
+220,061WAF10Dikler,Thames,0,Flood alert,3,2025-02-09 08:52:02,2025-01-26 18:07:00,Gloucestershire,River Dikler,51.899,-1.74644,2025-02-09 18:32:01
+246,061WAF29Chertsey,Thames,0,Flood alert,3,2025-02-09 09:35:46,2025-01-05 10:37:00,"Bracknell Forest, Surrey, Windsor and Maidenhead","Chertsey Bourne, The Moat, Moat",51.40163,-0.54411,2025-02-09 18:32:01
+319,112WAFYPM,Wessex,0,Flood alert,3,2025-02-09 12:32:23,2025-01-24 20:31:00,Somerset,River Yeo,51.01274,-2.81017,2025-02-09 18:32:01
+400,061WAF21PangSulm,Thames,0,Flood alert,3,2025-02-09 08:51:52,2025-01-24 13:33:00,"Oxfordshire, West Berkshire","River Pang, Sulham Brook",51.46413,-1.14301,2025-02-09 18:32:01
+482,122WAC954,Yorkshire,1,Flood alert,3,2025-02-09 17:06:25,2025-02-09 17:06:00,East Riding of Yorkshire,North Sea,54.06263,-0.17992,2025-02-09 18:32:01
+518,111FAGWDGW,Wessex,0,Flood alert,3,2025-02-05 11:33:59,2025-01-27 13:52:00,Dorset Council,Groundwater,50.76313,-2.37422,2025-02-09 18:32:01
+566,111FAGCCGW,Wessex,0,Flood alert,3,2025-02-05 11:33:51,2025-01-16 16:31:00,"Dorset Council, Hampshire, Wiltshire",Groundwater,50.94754,-1.97717,2025-02-09 18:32:01
+647,111WAFBOU,Wessex,0,Flood alert,3,2025-02-09 10:55:58,2025-01-26 13:38:00,"Hampshire, Wiltshire",River Bourne,51.11638,-1.74306,2025-02-09 18:32:01
+728,111WAFWYLE,Wessex,0,Warning no longer in force,4,2025-02-09 10:57:38,2025-02-09 10:57:00,Wiltshire,Wylye,51.1595,-2.03697,2025-02-09 18:32:01
+752,111WAFPIDD,Wessex,0,Flood alert,3,2025-02-09 10:55:44,2025-01-26 15:49:00,Dorset Council,"River Piddle, River Trent",50.72881,-2.22205,2025-02-09 18:32:01
+805,061WAF22UpperKen,Thames,0,Flood alert,3,2025-02-09 08:51:28,2025-01-26 18:07:00,"Swindon, West Berkshire, Wiltshire","River Kennet, River Og, River Aldbourne, Froxfield Stream, River Dun, River Shalbourne",51.43469,-1.844,2025-02-09 18:32:01
+886,061WAF22Lambourn,Thames,0,Flood alert,3,2025-02-09 08:51:27,2025-01-26 14:19:00,West Berkshire,"River Lambourn, Great Shefford Stream, Winterbourne Stream",51.42427,-1.34231,2025-02-09 18:32:01
+967,111FWGIWE5,Wessex,0,Flood warning,2,2025-02-05 11:10:08,2025-01-28 10:40:00,Dorset Council,Groundwater,50.91701,-2.19658,2025-02-09 18:32:01
+1015,111FAGSPGW,Wessex,0,Flood alert,3,2025-02-05 11:46:09,2024-11-28 08:59:00,"Hampshire, Wiltshire",Groundwater,51.2084,-1.9029,2025-02-09 18:32:01
+1096,111FWGSWDENE1,Wessex,0,Flood warning,2,2025-02-06 13:25:00,2025-01-30 12:23:00,Wiltshire,Groundwater,51.09749,-2.12205,2025-02-09 18:32:01
+1116,061FAG22GtSheff,Thames,0,Flood alert,3,2025-02-04 13:37:24,2024-12-10 13:24:00,West Berkshire,Groundwater,51.49656,-1.43231,2025-02-09 18:32:01
+1197,061FAG22LamVal,Thames,0,Flood alert,3,2025-02-04 13:37:28,2024-12-10 13:23:00,"Oxfordshire, West Berkshire",Groundwater,51.53046,-1.52636,2025-02-09 18:32:01
+1278,065FAG009,Solent and South Downs,0,Flood alert,3,2025-02-03 16:06:44,2024-12-17 10:50:00,Hampshire,Groundwater,51.16015,-1.15241,2025-02-09 18:32:01
+1359,062FAGFlamstdGW,Hertfordshire and North London,0,Flood alert,3,2025-02-05 17:00:50,2024-12-19 12:12:00,Hertfordshire,Groundwater,51.81632,-0.44172,2025-02-09 18:32:01
+1440,062FAGKimptonGW,Hertfordshire and North London,0,Flood alert,3,2025-02-05 16:49:40,2024-12-19 12:11:00,Hertfordshire,Groundwater,51.86138,-0.30576,2025-02-09 18:32:01
+1521,061FAG21IlsComp,Thames,0,Flood alert,3,2025-02-04 13:37:21,2024-12-30 11:57:00,West Berkshire,Groundwater,51.52859,-1.28811,2025-02-09 18:32:01
+1602,065FAG006,Solent and South Downs,0,Flood alert,3,2025-02-03 16:05:55,2025-01-20 14:45:00,Hampshire,Groundwater,51.02491,-1.39121,2025-02-09 18:32:01
+1683,065FAG003,Solent and South Downs,0,Flood alert,3,2025-02-03 15:59:24,2025-01-06 10:18:00,"Hampshire, Wiltshire",Groundwater,51.22809,-1.5584,2025-02-09 18:32:01
+1764,065FAG001,Solent and South Downs,0,Flood alert,3,2025-02-03 15:54:23,2025-01-13 14:51:00,Hampshire,Groundwater,51.24617,-1.22369,2025-02-09 18:32:01
+1845,061FAG23HenAssen,Thames,0,Flood alert,3,2025-02-04 13:37:15,2025-01-21 15:50:00,"Buckinghamshire, Oxfordshire",Groundwater,51.5669,-0.93169,2025-02-09 18:32:01
+1926,111FWGTILL1,Wessex,0,Flood warning,2,2025-02-05 11:18:41,2025-01-24 15:13:00,Wiltshire,Groundwater,51.20078,-1.92429,2025-02-09 18:32:01
+2007,111FWGCHIT1,Wessex,0,Flood warning,2,2025-02-05 11:50:25,2025-01-29 15:52:00,Wiltshire,Groundwater,51.20434,-2.03639,2025-02-09 18:32:01
+2027,111FWGWYLV101,Wessex,0,Flood warning,2,2025-02-06 13:25:04,2025-01-29 16:21:00,Wiltshire,Groundwater,51.14192,-1.98945,2025-02-09 18:32:01
+2047,062WAF47Mimram,Hertfordshire and North London,0,Flood alert,3,2025-02-09 16:50:28,2025-01-29 17:28:00,Hertfordshire,Mimram,51.8234,-0.19101,2025-02-09 18:32:01
+2128,111FWGWYLV102,Wessex,0,Flood warning,2,2025-02-07 10:42:53,2025-01-31 11:17:00,Wiltshire,Groundwater,51.19981,-2.17989,2025-02-09 18:32:01
+2148,065FAG004,Solent and South Downs,0,Flood alert,3,2025-02-03 11:30:30,2025-02-03 11:30:00,"Hampshire, Wiltshire",Groundwater,51.08458,-1.69604,2025-02-09 18:32:01
+2229,111FWGBOU3,Wessex,0,Flood warning,2,2025-02-03 16:27:47,2025-02-03 16:27:00,"Hampshire, Wiltshire",Groundwater,51.14297,-1.71344,2025-02-09 18:32:01
+9240,112WAFTUBA,Wessex,0,Flood alert,3,2025-02-10 08:41:16,2025-02-10 08:40:00,"Gloucestershire, South Gloucestershire, Wiltshire",Bristol River Avon,51.53083,-2.05331,2025-02-10 06:06:08
+9259,061WAF10Windrush,Thames,0,Flood alert,3,2025-02-10 09:31:19,2024-11-24 18:30:00,"Gloucestershire, Oxfordshire",River Windrush,51.8284,-1.65082,2025-02-10 06:06:08
+9339,061WAF23Ginge,Thames,0,Flood alert,3,2025-02-10 09:32:00,2025-01-26 18:08:00,Oxfordshire,Ginge Brook,51.62575,-1.31402,2025-02-10 06:06:08
+9394,061WAF19Thame,Thames,0,Flood alert,3,2025-02-10 09:04:18,2025-02-10 09:04:00,"Buckinghamshire, Hertfordshire, Oxfordshire","River Thame, Horsenden Stream, Chalgrove Brook",51.76251,-0.9771,2025-02-10 06:06:08
+9511,062WAF28LowColne,Hertfordshire and North London,0,Flood alert,3,2025-02-10 08:31:00,2025-02-10 08:30:00,"Buckinghamshire, Greater London, Hertfordshire, Hillingdon, Slough, Surrey, Windsor and Maidenhead",River Colne,51.52882,-0.49476,2025-02-10 06:06:08
+9553,061WAF10Dikler,Thames,0,Flood alert,3,2025-02-10 09:31:10,2025-01-26 18:07:00,Gloucestershire,River Dikler,51.899,-1.74644,2025-02-10 06:06:08
+9579,061WAF29Chertsey,Thames,0,Flood alert,3,2025-02-10 09:30:53,2025-01-05 10:37:00,"Bracknell Forest, Surrey, Windsor and Maidenhead","Chertsey Bourne, The Moat, Moat",51.40163,-0.54411,2025-02-10 06:06:08
+9733,112WAFTMBA,Wessex,0,Flood alert,3,2025-02-10 08:43:01,2025-02-10 08:42:00,"Bath and North East Somerset, Wiltshire",Bristol River Avon,51.34434,-2.13772,2025-02-10 06:06:08
+9759,061WAF21PangSulm,Thames,0,Flood alert,3,2025-02-10 09:31:42,2025-01-24 13:33:00,"Oxfordshire, West Berkshire","River Pang, Sulham Brook",51.46413,-1.14301,2025-02-10 06:06:08
+9841,122WAC954,Yorkshire,1,Flood alert,3,2025-02-10 08:16:19,2025-02-09 17:06:00,East Riding of Yorkshire,North Sea,54.06263,-0.17992,2025-02-10 06:06:08
+10087,111WAFWYLE,Wessex,0,Flood alert,3,2025-02-10 10:34:54,2025-02-10 10:34:00,Wiltshire,Wylye,51.1595,-2.03697,2025-02-10 06:06:08
+10164,061WAF22UpperKen,Thames,0,Flood alert,3,2025-02-10 09:31:31,2025-01-26 18:07:00,"Swindon, West Berkshire, Wiltshire","River Kennet, River Og, River Aldbourne, Froxfield Stream, River Dun, River Shalbourne",51.43469,-1.844,2025-02-10 06:06:08
+10245,061WAF22Lambourn,Thames,0,Flood alert,3,2025-02-10 09:31:53,2025-01-26 14:19:00,West Berkshire,"River Lambourn, Great Shefford Stream, Winterbourne Stream",51.42427,-1.34231,2025-02-10 06:06:08
+16717,112WAFTSES,Wessex,0,Flood alert,3,2025-02-10 12:22:16,2025-02-10 12:21:00,"Dorset Council, Somerset","River Yeo, River Cam, River Wriggle, Barwick Stream, West Coker Stream",50.90841,-2.59811,2025-02-10 07:54:25
+16975,112WAFYPM,Wessex,0,Flood alert,3,2025-02-10 12:08:35,2025-01-24 20:31:00,Somerset,River Yeo,51.01274,-2.81017,2025-02-10 07:54:25
+19011,061WAF10Windrush,Thames,0,Flood alert,3,2025-02-11 09:25:43,2024-11-24 18:30:00,"Gloucestershire, Oxfordshire",River Windrush,51.8284,-1.65082,2025-02-11 04:37:33
+19091,061WAF23Ginge,Thames,0,Flood alert,3,2025-02-11 09:25:15,2025-01-26 18:08:00,Oxfordshire,Ginge Brook,51.62575,-1.31402,2025-02-11 04:37:33
+19146,061WAF19Thame,Thames,0,Flood alert,3,2025-02-11 09:25:06,2025-02-10 09:04:00,"Buckinghamshire, Hertfordshire, Oxfordshire","River Thame, Horsenden Stream, Chalgrove Brook",51.76251,-0.9771,2025-02-11 04:37:33
+19299,062WAF28LowColne,Hertfordshire and North London,0,Flood alert,3,2025-02-10 16:34:04,2025-02-10 08:30:00,"Buckinghamshire, Greater London, Hertfordshire, Hillingdon, Slough, Surrey, Windsor and Maidenhead",River Colne,51.52882,-0.49476,2025-02-11 04:37:33
+19341,061WAF10Dikler,Thames,0,Flood alert,3,2025-02-11 09:25:52,2025-01-26 18:07:00,Gloucestershire,River Dikler,51.899,-1.74644,2025-02-11 04:37:33
+19521,061WAF19BearBrk,Thames,0,Flood alert,3,2025-02-11 09:25:04,2025-02-10 13:16:00,Buckinghamshire,Bear Brook,51.79109,-0.74859,2025-02-11 04:37:33
+19537,112WAFTMBA,Wessex,0,Flood alert,3,2025-02-11 09:23:00,2025-02-10 08:42:00,"Bath and North East Somerset, Wiltshire",Bristol River Avon,51.34434,-2.13772,2025-02-11 04:37:33
+19563,061WAF21PangSulm,Thames,0,Flood alert,3,2025-02-11 09:25:50,2025-01-24 13:33:00,"Oxfordshire, West Berkshire","River Pang, Sulham Brook",51.46413,-1.14301,2025-02-11 04:37:33
+19645,061WAF23BsctKngs,Thames,0,Flood alert,3,2025-02-11 09:24:58,2025-02-10 16:40:00,"Gloucestershire, Oxfordshire",River Thames,51.72269,-1.48132,2025-02-11 04:37:33
+19663,121WAC922,North East,1,Flood alert,3,2025-02-11 09:26:06,2025-02-11 09:25:00,"County Durham, Hartlepool, North Tyneside, South Tyneside, Sunderland",North Sea,54.87693,-1.34014,2025-02-11 04:37:33
+19675,122WAC954,Yorkshire,1,Flood alert,3,2025-02-11 08:23:19,2025-02-09 17:06:00,East Riding of Yorkshire,North Sea,54.06263,-0.17992,2025-02-11 04:37:33
+19711,122FWC001,Yorkshire,1,Warning no longer in force,4,2025-02-11 08:23:31,2025-02-11 08:23:00,East Riding of Yorkshire,North Sea,54.08197,-0.18741,2025-02-11 04:37:33
+20006,061WAF22UpperKen,Thames,0,Flood alert,3,2025-02-11 09:25:35,2025-01-26 18:07:00,"Swindon, West Berkshire, Wiltshire","River Kennet, River Og, River Aldbourne, Froxfield Stream, River Dun, River Shalbourne",51.43469,-1.844,2025-02-11 04:37:33
+20087,061WAF22Lambourn,Thames,0,Flood alert,3,2025-02-11 09:25:24,2025-01-26 14:19:00,West Berkshire,"River Lambourn, Great Shefford Stream, Winterbourne Stream",51.42427,-1.34231,2025-02-11 04:37:33
+20168,111WAFAVOM,Wessex,0,Flood alert,3,2025-02-11 08:08:00,2025-02-11 08:07:00,"Dorset Council, Hampshire, Wiltshire",Hampshire River Avon,50.94541,-1.77599,2025-02-11 04:37:33
+20507,065FAG009,Solent and South Downs,0,Flood alert,3,2025-02-10 17:41:29,2024-12-17 10:50:00,Hampshire,Groundwater,51.16015,-1.15241,2025-02-11 04:37:33
+20831,121WAT916,North East,1,Flood alert,3,2025-02-11 09:26:11,2025-02-11 09:25:00,"County Durham, Sunderland",River Wear,54.90278,-1.44326,2025-02-11 04:37:33
+20851,065FAG006,Solent and South Downs,0,Flood alert,3,2025-02-10 17:37:29,2025-01-20 14:45:00,Hampshire,Groundwater,51.02491,-1.39121,2025-02-11 04:37:33
+20932,065FAG003,Solent and South Downs,0,Flood alert,3,2025-02-10 17:26:52,2025-01-06 10:18:00,"Hampshire, Wiltshire",Groundwater,51.22809,-1.5584,2025-02-11 04:37:33
+21013,065FAG001,Solent and South Downs,0,Flood alert,3,2025-02-10 17:55:21,2025-01-13 14:51:00,Hampshire,Groundwater,51.24617,-1.22369,2025-02-11 04:37:33
+21296,062WAF47Mimram,Hertfordshire and North London,0,Flood alert,3,2025-02-10 16:30:01,2025-01-29 17:28:00,Hertfordshire,Mimram,51.8234,-0.19101,2025-02-11 04:37:33
+21397,065FAG004,Solent and South Downs,0,Flood alert,3,2025-02-10 17:32:03,2025-02-03 11:30:00,"Hampshire, Wiltshire",Groundwater,51.08458,-1.69604,2025-02-11 04:37:33
+21559,112WAFTUBA,Wessex,0,Warning no longer in force,4,2025-02-11 09:41:07,2025-02-11 09:41:00,"Gloucestershire, South Gloucestershire, Wiltshire",Bristol River Avon,51.53083,-2.05331,2025-02-11 05:13:01
+21866,062WAF28LowColne,Hertfordshire and North London,0,Flood alert,3,2025-02-11 09:36:40,2025-02-10 08:30:00,"Buckinghamshire, Greater London, Hertfordshire, Hillingdon, Slough, Surrey, Windsor and Maidenhead",River Colne,51.52882,-0.49476,2025-02-11 05:13:01
+21934,061WAF29Chertsey,Thames,0,Flood alert,3,2025-02-11 09:46:52,2025-01-05 10:37:00,"Bracknell Forest, Surrey, Windsor and Maidenhead","Chertsey Bourne, The Moat, Moat",51.40163,-0.54411,2025-02-11 05:13:01
+22735,111FWFAVOM510,Wessex,0,Flood warning,2,2025-02-11 09:36:50,2025-02-11 09:36:00,"Dorset Council, Hampshire, Wiltshire",Hampshire River Avon,51.03436,-1.75797,2025-02-11 05:13:01
+24589,112WAFYPM,Wessex,0,Flood alert,3,2025-02-11 10:35:22,2025-01-24 20:31:00,Somerset,River Yeo,51.01274,-2.81017,2025-02-11 05:51:01
+26913,112WAFTSES,Wessex,0,Warning no longer in force,4,2025-02-11 10:58:59,2025-02-11 10:58:00,"Dorset Council, Somerset","River Yeo, River Cam, River Wriggle, Barwick Stream, West Coker Stream",50.90841,-2.59811,2025-02-11 06:24:03
+29531,111WAFAVOL,Wessex,0,Flood alert,3,2025-02-11 12:34:30,2025-01-23 17:32:00,"Bournemouth, Christchurch and Poole, Dorset Council, Hampshire",Avon,50.79544,-1.78686,2025-02-11 15:16:49
+29612,062WAF28LowColne,Hertfordshire and North London,0,Flood alert,3,2025-02-11 17:55:30,2025-02-10 08:30:00,"Buckinghamshire, Greater London, Hertfordshire, Hillingdon, Slough, Surrey, Windsor and Maidenhead",River Colne,51.52882,-0.49476,2025-02-11 15:16:49
+29976,121WAC922,North East,1,Warning no longer in force,4,2025-02-11 18:03:04,2025-02-11 18:02:00,"County Durham, Hartlepool, North Tyneside, South Tyneside, Sunderland",North Sea,54.87693,-1.34014,2025-02-11 15:16:49
+29988,122WAC954,Yorkshire,1,Warning no longer in force,4,2025-02-11 19:44:53,2025-02-11 19:44:00,East Riding of Yorkshire,North Sea,54.06263,-0.17992,2025-02-11 15:16:49
+30032,111FAGWDGW,Wessex,0,Flood alert,3,2025-02-11 13:40:55,2025-01-27 13:52:00,Dorset Council,Groundwater,50.76313,-2.37422,2025-02-11 15:16:49
+30080,111FAGCCGW,Wessex,0,Flood alert,3,2025-02-11 13:37:35,2025-01-16 16:31:00,"Dorset Council, Hampshire, Wiltshire",Groundwater,50.94754,-1.97717,2025-02-11 15:16:49
+30161,111WAFBOU,Wessex,0,Flood alert,3,2025-02-11 12:23:36,2025-01-26 13:38:00,"Hampshire, Wiltshire",River Bourne,51.11638,-1.74306,2025-02-11 15:16:49
+30242,111WAFWYLE,Wessex,0,Flood alert,3,2025-02-11 12:39:42,2025-02-10 10:34:00,Wiltshire,Wylye,51.1595,-2.03697,2025-02-11 15:16:49
+30266,111WAFPIDD,Wessex,0,Flood alert,3,2025-02-11 12:34:24,2025-01-26 15:49:00,Dorset Council,"River Piddle, River Trent",50.72881,-2.22205,2025-02-11 15:16:49
+30524,111FWGIWE5,Wessex,0,Flood warning,2,2025-02-11 15:28:36,2025-01-28 10:40:00,Dorset Council,Groundwater,50.91701,-2.19658,2025-02-11 15:16:49
+30572,111FAGSPGW,Wessex,0,Flood alert,3,2025-02-11 13:41:02,2024-11-28 08:59:00,"Hampshire, Wiltshire",Groundwater,51.2084,-1.9029,2025-02-11 15:16:49
+30653,111FWGSWDENE1,Wessex,0,Warning no longer in force,4,2025-02-11 15:12:58,2025-02-11 15:12:00,Wiltshire,Groundwater,51.09749,-2.12205,2025-02-11 15:16:49
+30673,061FAG22GtSheff,Thames,0,Flood alert,3,2025-02-11 11:25:24,2024-12-10 13:24:00,West Berkshire,Groundwater,51.49656,-1.43231,2025-02-11 15:16:49
+30754,061FAG22LamVal,Thames,0,Flood alert,3,2025-02-11 11:25:31,2024-12-10 13:23:00,"Oxfordshire, West Berkshire",Groundwater,51.53046,-1.52636,2025-02-11 15:16:49
+31078,061FAG21IlsComp,Thames,0,Flood alert,3,2025-02-11 11:25:13,2024-12-30 11:57:00,West Berkshire,Groundwater,51.52859,-1.28811,2025-02-11 15:16:49
+31159,121WAT916,North East,1,Warning no longer in force,4,2025-02-11 18:02:58,2025-02-11 18:02:00,"County Durham, Sunderland",River Wear,54.90278,-1.44326,2025-02-11 15:16:49
+31422,061FAG23HenAssen,Thames,0,Flood alert,3,2025-02-11 11:25:18,2025-01-21 15:50:00,"Buckinghamshire, Oxfordshire",Groundwater,51.5669,-0.93169,2025-02-11 15:16:49
+31503,111FWGTILL1,Wessex,0,Flood warning,2,2025-02-11 15:28:30,2025-01-24 15:13:00,Wiltshire,Groundwater,51.20078,-1.92429,2025-02-11 15:16:49
+31584,111FWGCHIT1,Wessex,0,Warning no longer in force,4,2025-02-11 15:13:09,2025-02-11 15:12:00,Wiltshire,Groundwater,51.20434,-2.03639,2025-02-11 15:16:49
+31604,111FWGWYLV101,Wessex,0,Warning no longer in force,4,2025-02-11 15:13:11,2025-02-11 15:12:00,Wiltshire,Groundwater,51.14192,-1.98945,2025-02-11 15:16:49
+31624,062WAF47Mimram,Hertfordshire and North London,0,Flood alert,3,2025-02-11 17:55:37,2025-01-29 17:28:00,Hertfordshire,Mimram,51.8234,-0.19101,2025-02-11 15:16:49
+31705,111FWGWYLV102,Wessex,0,Warning no longer in force,4,2025-02-11 15:12:46,2025-02-11 15:12:00,Wiltshire,Groundwater,51.19981,-2.17989,2025-02-11 15:16:49
+31806,111FWGBOU3,Wessex,0,Flood warning,2,2025-02-11 15:28:24,2025-02-03 16:27:00,"Hampshire, Wiltshire",Groundwater,51.14297,-1.71344,2025-02-11 15:16:49
+39633,061WAF10Windrush,Thames,0,Flood alert,3,2025-02-12 09:53:35,2024-11-24 18:30:00,"Gloucestershire, Oxfordshire",River Windrush,51.8284,-1.65082,2025-02-12 05:53:16
+39713,061WAF23Ginge,Thames,0,Flood alert,3,2025-02-12 09:54:52,2025-01-26 18:08:00,Oxfordshire,Ginge Brook,51.62575,-1.31402,2025-02-12 05:53:16
+39768,061WAF19Thame,Thames,0,Flood alert,3,2025-02-12 09:55:10,2025-02-10 09:04:00,"Buckinghamshire, Hertfordshire, Oxfordshire","River Thame, Horsenden Stream, Chalgrove Brook",51.76251,-0.9771,2025-02-12 05:53:16
+39921,062WAF28LowColne,Hertfordshire and North London,0,Flood alert,3,2025-02-12 09:38:28,2025-02-10 08:30:00,"Buckinghamshire, Greater London, Hertfordshire, Hillingdon, Slough, Surrey, Windsor and Maidenhead",River Colne,51.52882,-0.49476,2025-02-12 05:53:16
+39963,061WAF10Dikler,Thames,0,Warning no longer in force,4,2025-02-12 10:01:02,2025-02-12 10:00:00,Gloucestershire,River Dikler,51.899,-1.74644,2025-02-12 05:53:16
+39989,061WAF29Chertsey,Thames,0,Flood alert,3,2025-02-12 08:53:05,2025-01-05 10:37:00,"Bracknell Forest, Surrey, Windsor and Maidenhead","Chertsey Bourne, The Moat, Moat",51.40163,-0.54411,2025-02-12 05:53:16
+40062,112WAFYPM,Wessex,0,Flood alert,3,2025-02-12 09:21:57,2025-01-24 20:31:00,Somerset,River Yeo,51.01274,-2.81017,2025-02-12 05:53:16
+40143,061WAF19BearBrk,Thames,0,Warning no longer in force,4,2025-02-12 10:01:45,2025-02-12 10:01:00,Buckinghamshire,Bear Brook,51.79109,-0.74859,2025-02-12 05:53:16
+40159,112WAFTMBA,Wessex,0,Warning no longer in force,4,2025-02-12 10:34:25,2025-02-12 10:34:00,"Bath and North East Somerset, Wiltshire",Bristol River Avon,51.34434,-2.13772,2025-02-12 05:53:16
+40185,061WAF21PangSulm,Thames,0,Flood alert,3,2025-02-12 09:54:15,2025-01-24 13:33:00,"Oxfordshire, West Berkshire","River Pang, Sulham Brook",51.46413,-1.14301,2025-02-12 05:53:16
+40267,061WAF23BsctKngs,Thames,0,Flood alert,3,2025-02-12 09:55:35,2025-02-10 16:40:00,"Gloucestershire, Oxfordshire",River Thames,51.72269,-1.48132,2025-02-12 05:53:16
+40543,111WAFWYLE,Wessex,0,Warning no longer in force,4,2025-02-12 08:31:15,2025-02-12 08:31:00,Wiltshire,Wylye,51.1595,-2.03697,2025-02-12 05:53:16
+40620,061WAF22UpperKen,Thames,0,Flood alert,3,2025-02-12 09:54:25,2025-01-26 18:07:00,"Swindon, West Berkshire, Wiltshire","River Kennet, River Og, River Aldbourne, Froxfield Stream, River Dun, River Shalbourne",51.43469,-1.844,2025-02-12 05:53:16
+40701,061WAF22Lambourn,Thames,0,Flood alert,3,2025-02-12 09:54:37,2025-01-26 14:19:00,West Berkshire,"River Lambourn, Great Shefford Stream, Winterbourne Stream",51.42427,-1.34231,2025-02-12 05:53:16
+40782,111FWFAVOM510,Wessex,0,Warning no longer in force,4,2025-02-12 08:34:59,2025-02-12 08:34:00,"Dorset Council, Hampshire, Wiltshire",Hampshire River Avon,51.03436,-1.75797,2025-02-12 05:53:16
+49017,121WAT916,North East,1,Flood alert,3,2025-02-12 11:52:28,2025-02-12 11:52:00,"County Durham, Sunderland",River Wear,54.90278,-1.44326,2025-02-12 07:38:23
+49997,062WAF28LowColne,Hertfordshire and North London,0,Flood alert,3,2025-02-12 16:24:03,2025-02-10 08:30:00,"Buckinghamshire, Greater London, Hertfordshire, Hillingdon, Slough, Surrey, Windsor and Maidenhead",River Colne,51.52882,-0.49476,2025-02-12 17:20:36
+50343,061WAF23BsctKngs,Thames,0,Warning no longer in force,4,2025-02-12 14:27:14,2025-02-12 14:26:00,"Gloucestershire, Oxfordshire",River Thames,51.72269,-1.48132,2025-02-12 17:20:36
+51225,062FAGFlamstdGW,Hertfordshire and North London,0,Flood alert,3,2025-02-12 16:30:19,2024-12-19 12:12:00,Hertfordshire,Groundwater,51.81632,-0.44172,2025-02-12 17:20:36
+51306,062FAGKimptonGW,Hertfordshire and North London,0,Flood alert,3,2025-02-12 16:32:04,2024-12-19 12:11:00,Hertfordshire,Groundwater,51.86138,-0.30576,2025-02-12 17:20:36
+51468,121WAT916,North East,1,Warning no longer in force,4,2025-02-12 19:14:49,2025-02-12 19:14:00,"County Durham, Sunderland",River Wear,54.90278,-1.44326,2025-02-12 17:20:36
+51893,062WAF47Mimram,Hertfordshire and North London,0,Flood alert,3,2025-02-12 16:25:11,2025-01-29 17:28:00,Hertfordshire,Mimram,51.8234,-0.19101,2025-02-12 17:20:36
+59309,061WAF10Windrush,Thames,0,Flood alert,3,2025-02-13 09:13:28,2024-11-24 18:30:00,"Gloucestershire, Oxfordshire",River Windrush,51.8284,-1.65082,2025-02-13 08:36:37
+59389,061WAF23Ginge,Thames,0,Flood alert,3,2025-02-13 09:15:21,2025-01-26 18:08:00,Oxfordshire,Ginge Brook,51.62575,-1.31402,2025-02-13 08:36:37
+59444,061WAF19Thame,Thames,0,Flood alert,3,2025-02-13 09:16:17,2025-02-10 09:04:00,"Buckinghamshire, Hertfordshire, Oxfordshire","River Thame, Horsenden Stream, Chalgrove Brook",51.76251,-0.9771,2025-02-13 08:36:37
+59480,111WAFAVOL,Wessex,0,Flood alert,3,2025-02-13 10:36:16,2025-01-23 17:32:00,"Bournemouth, Christchurch and Poole, Dorset Council, Hampshire",Avon,50.79544,-1.78686,2025-02-13 08:36:37
+59561,062WAF28LowColne,Hertfordshire and North London,0,Flood alert,3,2025-02-13 07:49:52,2025-02-10 08:30:00,"Buckinghamshire, Greater London, Hertfordshire, Hillingdon, Slough, Surrey, Windsor and Maidenhead",River Colne,51.52882,-0.49476,2025-02-13 08:36:37
+59603,061WAF29Chertsey,Thames,0,Flood alert,3,2025-02-13 09:01:42,2025-01-05 10:37:00,"Bracknell Forest, Surrey, Windsor and Maidenhead","Chertsey Bourne, The Moat, Moat",51.40163,-0.54411,2025-02-13 08:36:37
+59676,112WAFYPM,Wessex,0,Flood alert,3,2025-02-13 09:19:12,2025-01-24 20:31:00,Somerset,River Yeo,51.01274,-2.81017,2025-02-13 08:36:37
+59757,061WAF21PangSulm,Thames,0,Flood alert,3,2025-02-13 09:14:06,2025-01-24 13:33:00,"Oxfordshire, West Berkshire","River Pang, Sulham Brook",51.46413,-1.14301,2025-02-13 08:36:37
+59857,063WAT23West,"Kent, South London and East Sussex",1,Flood alert,3,2025-02-13 07:06:12,2025-02-13 07:05:00,"Greater London, Hammersmith and Fulham, Hounslow, Richmond upon Thames, Wandsworth",River Thames,51.46896,-0.28707,2025-02-13 08:36:37
+59994,111WAFBOU,Wessex,0,Flood alert,3,2025-02-13 10:32:47,2025-01-26 13:38:00,"Hampshire, Wiltshire",River Bourne,51.11638,-1.74306,2025-02-13 08:36:37
+60075,111WAFPIDD,Wessex,0,Warning no longer in force,4,2025-02-13 12:31:25,2025-02-13 12:31:00,Dorset Council,"River Piddle, River Trent",50.72881,-2.22205,2025-02-13 08:36:37
+60128,061WAF22UpperKen,Thames,0,Flood alert,3,2025-02-13 09:14:31,2025-01-26 18:07:00,"Swindon, West Berkshire, Wiltshire","River Kennet, River Og, River Aldbourne, Froxfield Stream, River Dun, River Shalbourne",51.43469,-1.844,2025-02-13 08:36:37
+60209,061WAF22Lambourn,Thames,0,Flood alert,3,2025-02-13 09:15:07,2025-01-26 14:19:00,West Berkshire,"River Lambourn, Great Shefford Stream, Winterbourne Stream",51.42427,-1.34231,2025-02-13 08:36:37
+60290,111WAFAVOM,Wessex,0,Flood alert,3,2025-02-13 10:27:15,2025-02-11 08:07:00,"Dorset Council, Hampshire, Wiltshire",Hampshire River Avon,50.94541,-1.77599,2025-02-13 08:36:37
+62205,113WACT1B,"Devon, Cornwall and the Isles of Scilly",1,Flood alert,3,2025-02-13 13:54:06,2025-02-13 13:53:00,"Devon, Torbay",South Devon Coast,50.28593,-3.64452,2025-02-13 09:09:45
+68474,061WAF10Windrush,Thames,0,Flood alert,3,2025-02-14 09:29:39,2024-11-24 18:30:00,"Gloucestershire, Oxfordshire",River Windrush,51.8284,-1.65082,2025-02-14 05:14:23
+68554,061WAF23Ginge,Thames,0,Flood alert,3,2025-02-14 09:30:49,2025-01-26 18:08:00,Oxfordshire,Ginge Brook,51.62575,-1.31402,2025-02-14 05:14:23
+68609,061WAF19Thame,Thames,0,Flood alert,3,2025-02-14 09:31:09,2025-02-10 09:04:00,"Buckinghamshire, Hertfordshire, Oxfordshire","River Thame, Horsenden Stream, Chalgrove Brook",51.76251,-0.9771,2025-02-14 05:14:23
+68726,062WAF28LowColne,Hertfordshire and North London,0,Flood alert,3,2025-02-14 09:04:42,2025-02-10 08:30:00,"Buckinghamshire, Greater London, Hertfordshire, Hillingdon, Slough, Surrey, Windsor and Maidenhead",River Colne,51.52882,-0.49476,2025-02-14 05:14:23
+68768,061WAF29Chertsey,Thames,0,Flood alert,3,2025-02-14 08:52:26,2025-01-05 10:37:00,"Bracknell Forest, Surrey, Windsor and Maidenhead","Chertsey Bourne, The Moat, Moat",51.40163,-0.54411,2025-02-14 05:14:23
+68922,061WAF21PangSulm,Thames,0,Flood alert,3,2025-02-14 09:30:11,2025-01-24 13:33:00,"Oxfordshire, West Berkshire","River Pang, Sulham Brook",51.46413,-1.14301,2025-02-14 05:14:23
+69004,063WAT23West,"Kent, South London and East Sussex",1,Warning no longer in force,4,2025-02-13 18:05:26,2025-02-13 18:05:00,"Greater London, Hammersmith and Fulham, Hounslow, Richmond upon Thames, Wandsworth",River Thames,51.46896,-0.28707,2025-02-14 05:14:23
+69286,061WAF22UpperKen,Thames,0,Flood alert,3,2025-02-14 09:30:24,2025-01-26 18:07:00,"Swindon, West Berkshire, Wiltshire","River Kennet, River Og, River Aldbourne, Froxfield Stream, River Dun, River Shalbourne",51.43469,-1.844,2025-02-14 05:14:23
+69367,061WAF22Lambourn,Thames,0,Flood alert,3,2025-02-14 09:30:37,2025-01-26 14:19:00,West Berkshire,"River Lambourn, Great Shefford Stream, Winterbourne Stream",51.42427,-1.34231,2025-02-14 05:14:23
+70496,062WAF47Mimram,Hertfordshire and North London,0,Flood alert,3,2025-02-13 16:19:14,2025-01-29 17:28:00,Hertfordshire,Mimram,51.8234,-0.19101,2025-02-14 05:14:23
+77534,061WAF10Windrush,Thames,0,Flood alert,3,2025-02-15 09:43:35,2024-11-24 18:30:00,"Gloucestershire, Oxfordshire",River Windrush,51.8284,-1.65082,2025-02-15 14:12:37
+77614,061WAF23Ginge,Thames,0,Flood alert,3,2025-02-15 09:45:06,2025-01-26 18:08:00,Oxfordshire,Ginge Brook,51.62575,-1.31402,2025-02-15 14:12:37
+77669,033WAF203,West Midlands,0,Flood alert,3,2025-02-15 16:54:41,2025-02-15 16:54:00,"Warwickshire, West Northamptonshire","River Leam, River Itchen",52.29985,-1.27623,2025-02-15 14:12:37
+77681,061WAF19Thame,Thames,0,Flood alert,3,2025-02-15 09:45:31,2025-02-10 09:04:00,"Buckinghamshire, Hertfordshire, Oxfordshire","River Thame, Horsenden Stream, Chalgrove Brook",51.76251,-0.9771,2025-02-15 14:12:37
+77717,111WAFAVOL,Wessex,0,Flood alert,3,2025-02-15 13:02:23,2025-01-23 17:32:00,"Bournemouth, Christchurch and Poole, Dorset Council, Hampshire",Avon,50.79544,-1.78686,2025-02-15 14:12:37
+77798,062WAF28LowColne,Hertfordshire and North London,0,Flood alert,3,2025-02-15 15:57:56,2025-02-10 08:30:00,"Buckinghamshire, Greater London, Hertfordshire, Hillingdon, Slough, Surrey, Windsor and Maidenhead",River Colne,51.52882,-0.49476,2025-02-15 14:12:37
+77840,033WAF201,West Midlands,0,Flood alert,3,2025-02-15 16:55:13,2025-02-15 16:54:00,"Leicestershire, Warwickshire, West Northamptonshire","Avon, Swift, Claycoton",52.40226,-1.16475,2025-02-15 14:12:37
+77854,061WAF29Chertsey,Thames,0,Flood alert,3,2025-02-15 08:58:43,2025-01-05 10:37:00,"Bracknell Forest, Surrey, Windsor and Maidenhead","Chertsey Bourne, The Moat, Moat",51.40163,-0.54411,2025-02-15 14:12:37
+77927,112WAFYPM,Wessex,0,Flood alert,3,2025-02-15 14:31:34,2025-01-24 20:31:00,Somerset,River Yeo,51.01274,-2.81017,2025-02-15 14:12:37
+78008,061WAF21PangSulm,Thames,0,Flood alert,3,2025-02-15 09:44:17,2025-01-24 13:33:00,"Oxfordshire, West Berkshire","River Pang, Sulham Brook",51.46413,-1.14301,2025-02-15 14:12:37
+78138,113WACT1B,"Devon, Cornwall and the Isles of Scilly",1,Warning no longer in force,4,2025-02-15 12:23:20,2025-02-15 12:23:00,"Devon, Torbay",South Devon Coast,50.28593,-3.64452,2025-02-15 14:12:37
+78230,111WAFBOU,Wessex,0,Flood alert,3,2025-02-15 12:57:18,2025-01-26 13:38:00,"Hampshire, Wiltshire",River Bourne,51.11638,-1.74306,2025-02-15 14:12:37
+78311,061WAF22UpperKen,Thames,0,Flood alert,3,2025-02-15 09:44:29,2025-01-26 18:07:00,"Swindon, West Berkshire, Wiltshire","River Kennet, River Og, River Aldbourne, Froxfield Stream, River Dun, River Shalbourne",51.43469,-1.844,2025-02-15 14:12:37
+78392,061WAF22Lambourn,Thames,0,Flood alert,3,2025-02-15 09:44:48,2025-01-26 14:19:00,West Berkshire,"River Lambourn, Great Shefford Stream, Winterbourne Stream",51.42427,-1.34231,2025-02-15 14:12:37
+78473,111WAFAVOM,Wessex,0,Warning no longer in force,4,2025-02-15 12:52:14,2025-02-15 12:52:00,"Dorset Council, Hampshire, Wiltshire",Hampshire River Avon,50.94541,-1.77599,2025-02-15 14:12:37
+79521,062WAF47Mimram,Hertfordshire and North London,0,Flood alert,3,2025-02-14 16:36:54,2025-01-29 17:28:00,Hertfordshire,Mimram,51.8234,-0.19101,2025-02-15 14:12:37
+86454,061WAF10Windrush,Thames,0,Flood alert,3,2025-02-16 09:22:08,2024-11-24 18:30:00,"Gloucestershire, Oxfordshire",River Windrush,51.8284,-1.65082,2025-02-16 11:05:48
+86534,061WAF23Ginge,Thames,0,Flood alert,3,2025-02-16 09:23:04,2025-01-26 18:08:00,Oxfordshire,Ginge Brook,51.62575,-1.31402,2025-02-16 11:05:48
+86589,033WAF203,West Midlands,0,Flood alert,3,2025-02-16 10:23:09,2025-02-15 16:54:00,"Warwickshire, West Northamptonshire","River Leam, River Itchen",52.29985,-1.27623,2025-02-16 11:05:48
+86601,061WAF19Thame,Thames,0,Warning no longer in force,4,2025-02-16 09:30:24,2025-02-16 09:30:00,"Buckinghamshire, Hertfordshire, Oxfordshire","River Thame, Horsenden Stream, Chalgrove Brook",51.76251,-0.9771,2025-02-16 11:05:48
+86718,062WAF28LowColne,Hertfordshire and North London,0,Flood alert,3,2025-02-16 09:12:52,2025-02-10 08:30:00,"Buckinghamshire, Greater London, Hertfordshire, Hillingdon, Slough, Surrey, Windsor and Maidenhead",River Colne,51.52882,-0.49476,2025-02-16 11:05:48
+86760,033WAF201,West Midlands,0,Flood alert,3,2025-02-16 10:23:00,2025-02-15 16:54:00,"Leicestershire, Warwickshire, West Northamptonshire","Avon, Swift, Claycoton",52.40226,-1.16475,2025-02-16 11:05:48
+86774,061WAF29Chertsey,Thames,0,Flood alert,3,2025-02-16 08:51:27,2025-01-05 10:37:00,"Bracknell Forest, Surrey, Windsor and Maidenhead","Chertsey Bourne, The Moat, Moat",51.40163,-0.54411,2025-02-16 11:05:48
+86847,112WAFYPM,Wessex,0,Flood alert,3,2025-02-16 12:39:08,2025-01-24 20:31:00,Somerset,River Yeo,51.01274,-2.81017,2025-02-16 11:05:48
+86928,061WAF21PangSulm,Thames,0,Flood alert,3,2025-02-16 09:22:38,2025-01-24 13:33:00,"Oxfordshire, West Berkshire","River Pang, Sulham Brook",51.46413,-1.14301,2025-02-16 11:05:48
+87220,061WAF22UpperKen,Thames,0,Flood alert,3,2025-02-16 09:22:45,2025-01-26 18:07:00,"Swindon, West Berkshire, Wiltshire","River Kennet, River Og, River Aldbourne, Froxfield Stream, River Dun, River Shalbourne",51.43469,-1.844,2025-02-16 11:05:48
+87301,061WAF22Lambourn,Thames,0,Flood alert,3,2025-02-16 09:22:52,2025-01-26 14:19:00,West Berkshire,"River Lambourn, Great Shefford Stream, Winterbourne Stream",51.42427,-1.34231,2025-02-16 11:05:48
+88780,033WAF203,West Midlands,0,Warning no longer in force,4,2025-02-16 16:07:22,2025-02-16 16:07:00,"Warwickshire, West Northamptonshire","River Leam, River Itchen",52.29985,-1.27623,2025-02-16 11:39:43
+88909,062WAF28LowColne,Hertfordshire and North London,0,Warning no longer in force,4,2025-02-16 16:28:38,2025-02-16 16:28:00,"Buckinghamshire, Greater London, Hertfordshire, Hillingdon, Slough, Surrey, Windsor and Maidenhead",River Colne,51.52882,-0.49476,2025-02-16 11:39:43
+88951,033WAF201,West Midlands,0,Warning no longer in force,4,2025-02-16 16:06:35,2025-02-16 16:06:00,"Leicestershire, Warwickshire, West Northamptonshire","Avon, Swift, Claycoton",52.40226,-1.16475,2025-02-16 11:39:43
+95218,061WAF10Windrush,Thames,0,Flood alert,3,2025-02-17 09:17:53,2024-11-24 18:30:00,"Gloucestershire, Oxfordshire",River Windrush,51.8284,-1.65082,2025-02-17 08:51:32
+95298,061WAF23Ginge,Thames,0,Flood alert,3,2025-02-17 09:18:56,2025-01-26 18:08:00,Oxfordshire,Ginge Brook,51.62575,-1.31402,2025-02-17 08:51:32
+95502,061WAF29Chertsey,Thames,0,Flood alert,3,2025-02-17 08:42:31,2025-01-05 10:37:00,"Bracknell Forest, Surrey, Windsor and Maidenhead","Chertsey Bourne, The Moat, Moat",51.40163,-0.54411,2025-02-17 08:51:32
+95575,112WAFYPM,Wessex,0,Flood alert,3,2025-02-17 10:54:16,2025-01-24 20:31:00,Somerset,River Yeo,51.01274,-2.81017,2025-02-17 08:51:32
+95656,061WAF21PangSulm,Thames,0,Flood alert,3,2025-02-17 09:18:19,2025-01-24 13:33:00,"Oxfordshire, West Berkshire","River Pang, Sulham Brook",51.46413,-1.14301,2025-02-17 08:51:32
+95948,061WAF22UpperKen,Thames,0,Flood alert,3,2025-02-17 09:18:27,2025-01-26 18:07:00,"Swindon, West Berkshire, Wiltshire","River Kennet, River Og, River Aldbourne, Froxfield Stream, River Dun, River Shalbourne",51.43469,-1.844,2025-02-17 08:51:32
+96029,061WAF22Lambourn,Thames,0,Flood alert,3,2025-02-17 09:18:44,2025-01-26 14:19:00,West Berkshire,"River Lambourn, Great Shefford Stream, Winterbourne Stream",51.42427,-1.34231,2025-02-17 08:51:32
+96401,065FAG009,Solent and South Downs,0,Flood alert,3,2025-02-17 12:32:33,2024-12-17 10:50:00,Hampshire,Groundwater,51.16015,-1.15241,2025-02-17 08:51:32
+96725,065FAG006,Solent and South Downs,0,Flood alert,3,2025-02-17 12:28:32,2025-01-20 14:45:00,Hampshire,Groundwater,51.02491,-1.39121,2025-02-17 08:51:32
+96806,065FAG003,Solent and South Downs,0,Flood alert,3,2025-02-17 12:19:57,2025-01-06 10:18:00,"Hampshire, Wiltshire",Groundwater,51.22809,-1.5584,2025-02-17 08:51:32
+96887,065FAG001,Solent and South Downs,0,Flood alert,3,2025-02-17 12:14:09,2025-01-13 14:51:00,Hampshire,Groundwater,51.24617,-1.22369,2025-02-17 08:51:32
+97211,065FAG004,Solent and South Downs,0,Flood alert,3,2025-02-17 12:24:42,2025-02-03 11:30:00,"Hampshire, Wiltshire",Groundwater,51.08458,-1.69604,2025-02-17 08:51:32
+103838,061WAF10Windrush,Thames,0,Flood alert,3,2025-02-18 10:04:24,2024-11-24 18:30:00,"Gloucestershire, Oxfordshire",River Windrush,51.8284,-1.65082,2025-02-18 16:49:28
+103918,061WAF23Ginge,Thames,0,Flood alert,3,2025-02-18 10:05:33,2025-01-26 18:08:00,Oxfordshire,Ginge Brook,51.62575,-1.31402,2025-02-18 16:49:28
+103973,111WAFAVOL,Wessex,0,Flood alert,3,2025-02-18 18:05:47,2025-01-23 17:32:00,"Bournemouth, Christchurch and Poole, Dorset Council, Hampshire",Avon,50.79544,-1.78686,2025-02-18 16:49:28
+104054,061WAF29Chertsey,Thames,0,Flood alert,3,2025-02-18 12:06:55,2025-01-05 10:37:00,"Bracknell Forest, Surrey, Windsor and Maidenhead","Chertsey Bourne, The Moat, Moat",51.40163,-0.54411,2025-02-18 16:49:28
+104127,112WAFYPM,Wessex,0,Flood alert,3,2025-02-18 10:37:24,2025-01-24 20:31:00,Somerset,River Yeo,51.01274,-2.81017,2025-02-18 16:49:28
+104208,061WAF21PangSulm,Thames,0,Flood alert,3,2025-02-18 10:04:50,2025-01-24 13:33:00,"Oxfordshire, West Berkshire","River Pang, Sulham Brook",51.46413,-1.14301,2025-02-18 16:49:28
+104290,111FAGWDGW,Wessex,0,Warning no longer in force,4,2025-02-18 14:59:32,2025-02-18 14:59:00,Dorset Council,Groundwater,50.76313,-2.37422,2025-02-18 16:49:28
+104419,111WAFBOU,Wessex,0,Flood alert,3,2025-02-18 18:03:24,2025-01-26 13:38:00,"Hampshire, Wiltshire",River Bourne,51.11638,-1.74306,2025-02-18 16:49:28
+104500,061WAF22UpperKen,Thames,0,Flood alert,3,2025-02-18 10:05:00,2025-01-26 18:07:00,"Swindon, West Berkshire, Wiltshire","River Kennet, River Og, River Aldbourne, Froxfield Stream, River Dun, River Shalbourne",51.43469,-1.844,2025-02-18 16:49:28
+104581,061WAF22Lambourn,Thames,0,Flood alert,3,2025-02-18 10:05:19,2025-01-26 14:19:00,West Berkshire,"River Lambourn, Great Shefford Stream, Winterbourne Stream",51.42427,-1.34231,2025-02-18 16:49:28
+104662,111FWGIWE5,Wessex,0,Warning no longer in force,4,2025-02-18 14:59:42,2025-02-18 14:59:00,Dorset Council,Groundwater,50.91701,-2.19658,2025-02-18 16:49:28
+104791,061FAG22GtSheff,Thames,0,Flood alert,3,2025-02-18 09:34:21,2024-12-10 13:24:00,West Berkshire,Groundwater,51.49656,-1.43231,2025-02-18 16:49:28
+104872,061FAG22LamVal,Thames,0,Flood alert,3,2025-02-18 09:34:08,2024-12-10 13:23:00,"Oxfordshire, West Berkshire",Groundwater,51.53046,-1.52636,2025-02-18 16:49:28
+105196,061FAG21IlsComp,Thames,0,Flood alert,3,2025-02-18 09:35:12,2024-12-30 11:57:00,West Berkshire,Groundwater,51.52859,-1.28811,2025-02-18 16:49:28
+105520,061FAG23HenAssen,Thames,0,Flood alert,3,2025-02-18 09:34:55,2025-01-21 15:50:00,"Buckinghamshire, Oxfordshire",Groundwater,51.5669,-0.93169,2025-02-18 16:49:28
+112186,061WAF10Windrush,Thames,0,Flood alert,3,2025-02-19 09:00:39,2024-11-24 18:30:00,"Gloucestershire, Oxfordshire",River Windrush,51.8284,-1.65082,2025-02-19 16:08:48
+112266,061WAF23Ginge,Thames,0,Warning no longer in force,4,2025-02-19 08:44:23,2025-02-19 08:44:00,Oxfordshire,Ginge Brook,51.62575,-1.31402,2025-02-19 16:08:48
+112402,061WAF29Chertsey,Thames,0,Warning no longer in force,4,2025-02-19 08:23:26,2025-02-19 08:23:00,"Bracknell Forest, Surrey, Windsor and Maidenhead","Chertsey Bourne, The Moat, Moat",51.40163,-0.54411,2025-02-19 16:08:48
+112475,112WAFYPM,Wessex,0,Flood alert,3,2025-02-19 10:27:51,2025-01-24 20:31:00,Somerset,River Yeo,51.01274,-2.81017,2025-02-19 16:08:48
+112556,061WAF21PangSulm,Thames,0,Flood alert,3,2025-02-19 09:01:03,2025-01-24 13:33:00,"Oxfordshire, West Berkshire","River Pang, Sulham Brook",51.46413,-1.14301,2025-02-19 16:08:48
+112638,122WAC954,Yorkshire,1,Flood alert,3,2025-02-19 09:01:30,2025-02-19 09:01:00,East Riding of Yorkshire,North Sea,54.06263,-0.17992,2025-02-19 16:08:48
+112674,111FAGCCGW,Wessex,0,Flood alert,3,2025-02-19 09:00:14,2025-01-16 16:31:00,"Dorset Council, Hampshire, Wiltshire",Groundwater,50.94754,-1.97717,2025-02-19 16:08:48
+112836,061WAF22UpperKen,Thames,0,Flood alert,3,2025-02-19 09:01:13,2025-01-26 18:07:00,"Swindon, West Berkshire, Wiltshire","River Kennet, River Og, River Aldbourne, Froxfield Stream, River Dun, River Shalbourne",51.43469,-1.844,2025-02-19 16:08:48
+112917,061WAF22Lambourn,Thames,0,Flood alert,3,2025-02-19 09:01:27,2025-01-26 14:19:00,West Berkshire,"River Lambourn, Great Shefford Stream, Winterbourne Stream",51.42427,-1.34231,2025-02-19 16:08:48
+112998,111FAGSPGW,Wessex,0,Flood alert,3,2025-02-19 09:00:30,2024-11-28 08:59:00,"Hampshire, Wiltshire",Groundwater,51.2084,-1.9029,2025-02-19 16:08:48
+113322,062FAGFlamstdGW,Hertfordshire and North London,0,Flood alert,3,2025-02-19 15:51:06,2024-12-19 12:12:00,Hertfordshire,Groundwater,51.81632,-0.44172,2025-02-19 16:08:48
+113403,062FAGKimptonGW,Hertfordshire and North London,0,Flood alert,3,2025-02-19 15:50:31,2024-12-19 12:11:00,Hertfordshire,Groundwater,51.86138,-0.30576,2025-02-19 16:08:48
+113889,111FWGTILL1,Wessex,0,Flood warning,2,2025-02-19 09:00:23,2025-01-24 15:13:00,Wiltshire,Groundwater,51.20078,-1.92429,2025-02-19 16:08:48
+114132,111FWGBOU3,Wessex,0,Flood warning,2,2025-02-19 09:00:22,2025-02-03 16:27:00,"Hampshire, Wiltshire",Groundwater,51.14297,-1.71344,2025-02-19 16:08:48
+114665,122WAC954,Yorkshire,1,Flood alert,3,2025-02-19 21:03:10,2025-02-19 09:01:00,East Riding of Yorkshire,North Sea,54.06263,-0.17992,2025-02-19 16:41:43
+122078,062WAF47Mimram,Hertfordshire and North London,0,Flood alert,3,2025-02-19 22:10:37,2025-01-29 17:28:00,Hertfordshire,Mimram,51.8234,-0.19101,2025-02-19 18:28:29
+128402,061WAF10Windrush,Thames,0,Flood alert,3,2025-02-20 07:56:07,2024-11-24 18:30:00,"Gloucestershire, Oxfordshire",River Windrush,51.8284,-1.65082,2025-02-20 14:46:29
+128482,112WAFTSES,Wessex,0,Flood alert,3,2025-02-20 18:49:21,2025-02-20 18:48:00,"Dorset Council, Somerset","River Yeo, River Cam, River Wriggle, Barwick Stream, West Coker Stream",50.90841,-2.59811,2025-02-20 14:46:29
+128518,111WAFAVOL,Wessex,0,Flood alert,3,2025-02-20 17:08:41,2025-01-23 17:32:00,"Bournemouth, Christchurch and Poole, Dorset Council, Hampshire",Avon,50.79544,-1.78686,2025-02-20 14:46:29
+128599,111WAFFROL,Wessex,0,Flood alert,3,2025-02-20 16:57:40,2025-02-20 16:57:00,Dorset Council,River Frome,50.69446,-2.26258,2025-02-20 14:46:29
+128625,112WAFYPM,Wessex,0,Flood alert,3,2025-02-20 10:46:00,2025-01-24 20:31:00,Somerset,River Yeo,51.01274,-2.81017,2025-02-20 14:46:29
+128706,061WAF21PangSulm,Thames,0,Flood alert,3,2025-02-20 07:55:58,2025-01-24 13:33:00,"Oxfordshire, West Berkshire","River Pang, Sulham Brook",51.46413,-1.14301,2025-02-20 14:46:29
+128788,122WAC954,Yorkshire,1,Flood alert,3,2025-02-20 08:37:53,2025-02-19 09:01:00,East Riding of Yorkshire,North Sea,54.06263,-0.17992,2025-02-20 14:46:29
+128905,111WAFBOU,Wessex,0,Flood alert,3,2025-02-20 17:16:57,2025-01-26 13:38:00,"Hampshire, Wiltshire",River Bourne,51.11638,-1.74306,2025-02-20 14:46:29
+128986,061WAF22UpperKen,Thames,0,Flood alert,3,2025-02-20 07:55:38,2025-01-26 18:07:00,"Swindon, West Berkshire, Wiltshire","River Kennet, River Og, River Aldbourne, Froxfield Stream, River Dun, River Shalbourne",51.43469,-1.844,2025-02-20 14:46:29
+129067,061WAF22Lambourn,Thames,0,Flood alert,3,2025-02-20 07:55:35,2025-01-26 14:19:00,West Berkshire,"River Lambourn, Great Shefford Stream, Winterbourne Stream",51.42427,-1.34231,2025-02-20 14:46:29
+130120,062WAF47Mimram,Hertfordshire and North London,0,Flood alert,3,2025-02-20 14:58:07,2025-01-29 17:28:00,Hertfordshire,Mimram,51.8234,-0.19101,2025-02-20 14:46:29
+132710,122WAC954,Yorkshire,1,Flood alert,3,2025-02-20 20:32:37,2025-02-19 09:01:00,East Riding of Yorkshire,North Sea,54.06263,-0.17992,2025-02-20 15:52:17
+136246,061WAF10Windrush,Thames,0,Flood alert,3,2025-02-21 08:55:55,2024-11-24 18:30:00,"Gloucestershire, Oxfordshire",River Windrush,51.8284,-1.65082,2025-02-21 13:43:06
+136326,112WAFTSES,Wessex,0,Flood alert,3,2025-02-21 15:56:53,2025-02-20 18:48:00,"Dorset Council, Somerset","River Yeo, River Cam, River Wriggle, Barwick Stream, West Coker Stream",50.90841,-2.59811,2025-02-21 13:43:06
+136469,112WAFYPM,Wessex,0,Flood alert,3,2025-02-21 11:50:25,2025-01-24 20:31:00,Somerset,River Yeo,51.01274,-2.81017,2025-02-21 13:43:06
+136550,061WAF21PangSulm,Thames,0,Flood alert,3,2025-02-21 08:56:04,2025-01-24 13:33:00,"Oxfordshire, West Berkshire","River Pang, Sulham Brook",51.46413,-1.14301,2025-02-21 13:43:06
+136632,122WAC954,Yorkshire,1,Warning no longer in force,4,2025-02-21 16:31:28,2025-02-21 16:31:00,East Riding of Yorkshire,North Sea,54.06263,-0.17992,2025-02-21 13:43:06
+136830,111WAFPIDD,Wessex,0,Flood alert,3,2025-02-21 11:05:40,2025-02-21 11:05:00,Dorset Council,"River Piddle, River Trent",50.72881,-2.22205,2025-02-21 13:43:06
+136883,061WAF22UpperKen,Thames,0,Flood alert,3,2025-02-21 08:55:37,2025-01-26 18:07:00,"Swindon, West Berkshire, Wiltshire","River Kennet, River Og, River Aldbourne, Froxfield Stream, River Dun, River Shalbourne",51.43469,-1.844,2025-02-21 13:43:06
+136964,061WAF22Lambourn,Thames,0,Flood alert,3,2025-02-21 08:55:29,2025-01-26 14:19:00,West Berkshire,"River Lambourn, Great Shefford Stream, Winterbourne Stream",51.42427,-1.34231,2025-02-21 13:43:06
+144302,061WAF10Windrush,Thames,0,Flood alert,3,2025-02-22 08:13:08,2024-11-24 18:30:00,"Gloucestershire, Oxfordshire",River Windrush,51.8284,-1.65082,2025-02-22 16:04:24
+144382,112WAFTSES,Wessex,0,Flood alert,3,2025-02-22 10:39:14,2025-02-20 18:48:00,"Dorset Council, Somerset","River Yeo, River Cam, River Wriggle, Barwick Stream, West Coker Stream",50.90841,-2.59811,2025-02-22 16:04:24
+144499,061WAF29Chertsey,Thames,0,Flood alert,3,2025-02-22 07:10:11,2025-02-22 07:09:00,"Bracknell Forest, Surrey, Windsor and Maidenhead","Chertsey Bourne, The Moat, Moat",51.40163,-0.54411,2025-02-22 16:04:24
+144598,064WAF32MdleMole,"Kent, South London and East Sussex",0,Flood alert,3,2025-02-22 16:10:23,2025-02-22 09:53:00,Surrey,River Mole,51.26756,-0.32897,2025-02-22 16:04:24
+144616,112WAFYPM,Wessex,0,Flood alert,3,2025-02-22 10:38:59,2025-01-24 20:31:00,Somerset,River Yeo,51.01274,-2.81017,2025-02-22 16:04:24
+144697,065WAF421,Solent and South Downs,0,Flood alert,3,2025-02-22 09:54:14,2025-02-22 09:54:00,"Hampshire, West Sussex",Western Rother,50.98655,-0.72489,2025-02-22 16:04:24
+144715,061WAF21PangSulm,Thames,0,Flood alert,3,2025-02-22 08:13:13,2025-01-24 13:33:00,"Oxfordshire, West Berkshire","River Pang, Sulham Brook",51.46413,-1.14301,2025-02-22 16:04:24
+144797,061WAF30UpperWey,Thames,0,Flood alert,3,2025-02-22 17:29:08,2025-02-22 17:28:00,"Hampshire, Surrey, West Sussex",River Wey,51.16408,-0.80601,2025-02-22 16:04:24
+144814,061WAF24LLoddon,Thames,0,Flood alert,3,2025-02-22 17:29:01,2025-02-22 17:28:00,"Windsor and Maidenhead, Wokingham",River Loddon,51.46091,-0.84273,2025-02-22 16:04:24
+145046,061WAF22UpperKen,Thames,0,Flood alert,3,2025-02-22 08:12:57,2025-01-26 18:07:00,"Swindon, West Berkshire, Wiltshire","River Kennet, River Og, River Aldbourne, Froxfield Stream, River Dun, River Shalbourne",51.43469,-1.844,2025-02-22 16:04:24
+145127,061WAF22Lambourn,Thames,0,Flood alert,3,2025-02-22 08:12:48,2025-01-26 14:19:00,West Berkshire,"River Lambourn, Great Shefford Stream, Winterbourne Stream",51.42427,-1.34231,2025-02-22 16:04:24
+145208,061WAF30Cranlgh,Thames,0,Flood alert,3,2025-02-22 07:10:14,2025-02-22 07:09:00,Surrey,"Littlemead Brook, Cranleigh Waters, Hascombe Stream",51.14154,-0.49112,2025-02-22 16:04:24
+145225,065WAF423,Solent and South Downs,0,Flood alert,3,2025-02-22 08:57:41,2025-02-22 08:57:00,"Surrey, West Sussex",Arun,51.04189,-0.4718,2025-02-22 16:04:24
+161542,034WAF428,East Midlands,0,Flood alert,3,2025-02-23 16:21:46,2025-02-23 16:21:00,"Derbyshire, Leicestershire, Nottinghamshire",River Soar,52.79207,-1.21257,2025-02-23 11:40:27
+161552,061WAF10Windrush,Thames,0,Flood alert,3,2025-02-23 08:28:42,2024-11-24 18:30:00,"Gloucestershire, Oxfordshire",River Windrush,51.8284,-1.65082,2025-02-23 11:40:27
+161632,112WAFTSES,Wessex,0,Flood alert,3,2025-02-23 10:22:01,2025-02-20 18:48:00,"Dorset Council, Somerset","River Yeo, River Cam, River Wriggle, Barwick Stream, West Coker Stream",50.90841,-2.59811,2025-02-23 11:40:27
+161749,031WAF104,West Midlands,0,Flood alert,3,2025-02-23 14:33:10,2025-02-23 14:32:00,"Shropshire, Staffordshire, Telford and Wrekin","River Tern, River Perry",52.76361,-2.52261,2025-02-23 11:40:27
+161759,061WAF29Chertsey,Thames,0,Flood alert,3,2025-02-23 09:44:29,2025-02-22 07:09:00,"Bracknell Forest, Surrey, Windsor and Maidenhead","Chertsey Bourne, The Moat, Moat",51.40163,-0.54411,2025-02-23 11:40:27
+161858,031WAF116,West Midlands,0,Flood alert,3,2025-02-23 14:33:26,2025-02-23 14:33:00,Herefordshire,River Lugg,52.11056,-2.68563,2025-02-23 11:40:27
+161868,064WAF32MdleMole,"Kent, South London and East Sussex",0,Flood alert,3,2025-02-23 16:28:15,2025-02-22 09:53:00,Surrey,River Mole,51.26756,-0.32897,2025-02-23 11:40:27
+161886,112WAFYPM,Wessex,0,Flood alert,3,2025-02-23 10:22:06,2025-01-24 20:31:00,Somerset,River Yeo,51.01274,-2.81017,2025-02-23 11:40:27
+161967,065WAF421,Solent and South Downs,0,Flood alert,3,2025-02-23 10:35:55,2025-02-22 09:54:00,"Hampshire, West Sussex",Western Rother,50.98655,-0.72489,2025-02-23 11:40:27
+161985,061WAF21PangSulm,Thames,0,Flood alert,3,2025-02-23 08:28:51,2025-01-24 13:33:00,"Oxfordshire, West Berkshire","River Pang, Sulham Brook",51.46413,-1.14301,2025-02-23 11:40:27
+162067,034WAF430,East Midlands,0,Flood alert,3,2025-02-23 16:20:00,2025-02-23 16:19:00,Nottinghamshire,River Maun,53.19738,-1.05888,2025-02-23 11:40:27
+162077,114WAFT1W10A00,"Devon, Cornwall and the Isles of Scilly",0,Flood alert,3,2025-02-23 11:31:47,2025-02-23 11:31:00,"Cornwall, Devon","River Tamar, River Strat, River Neet, River Ottery, River Kensey",50.72813,-4.39732,2025-02-23 11:40:27
+162086,031WAF117,West Midlands,0,Flood alert,3,2025-02-23 14:33:53,2025-02-23 14:33:00,Herefordshire,River Arrow,52.21248,-2.86905,2025-02-23 11:40:27
+162095,031WAF112,West Midlands,0,Flood alert,3,2025-02-23 14:34:12,2025-02-23 14:33:00,"Herefordshire, Shropshire","River Teme, River Onny, River Corve",52.40735,-2.8852,2025-02-23 11:40:27
+162104,113WAFTW13,"Devon, Cornwall and the Isles of Scilly",0,Flood alert,3,2025-02-23 10:22:39,2025-02-23 10:22:00,"Devon, Torbay","River Teign, River Bovey, River Lemon, River Kenn",50.61404,-3.68379,2025-02-23 11:40:27
+162113,111WAFWDRS,Wessex,0,Flood alert,3,2025-02-23 13:15:39,2025-02-23 13:15:00,"Devon, Dorset Council","River Asker, River Brit, River Bride, River Char, River Lim",50.75397,-2.74036,2025-02-23 11:40:27
+162122,061WAF30UpperWey,Thames,0,Warning no longer in force,4,2025-02-23 09:44:38,2025-02-23 09:44:00,"Hampshire, Surrey, West Sussex",River Wey,51.16408,-0.80601,2025-02-23 11:40:27
+162139,114WAFT1W12A00,"Devon, Cornwall and the Isles of Scilly",0,Flood alert,3,2025-02-23 16:15:27,2025-02-23 16:15:00,"Devon, Plymouth","River Plym, Tory Brook, Long Brook",50.44456,-4.05435,2025-02-23 11:40:27
+162148,114WAFT1W01A00,"Devon, Cornwall and the Isles of Scilly",0,Flood alert,3,2025-02-23 11:30:58,2025-02-23 11:30:00,Cornwall,"River Hayle, Perrancoombe Stream, Bolingey Stream, Portreath Stream, Newlyn Coombe River",50.15847,-5.40613,2025-02-23 11:40:27
+162157,114WAFT1W03A00,"Devon, Cornwall and the Isles of Scilly",0,Flood alert,3,2025-02-23 11:31:13,2025-02-23 11:30:00,Cornwall,"River Camel, River Allen, Bodmin Town Leat, River Valency",50.53015,-4.73563,2025-02-23 11:40:27
+162166,114WAFT1W07A00,"Devon, Cornwall and the Isles of Scilly",0,Flood alert,3,2025-02-23 11:31:34,2025-02-23 11:31:00,Cornwall,River Lynher,50.50719,-4.37839,2025-02-23 11:40:27
+162175,114WAFT1W13A00,"Devon, Cornwall and the Isles of Scilly",0,Flood alert,3,2025-02-23 11:31:16,2025-02-23 11:30:00,"Devon, Plymouth",River Yealm,50.38712,-3.973,2025-02-23 11:40:27
+162184,061WAF24LLoddon,Thames,0,Flood alert,3,2025-02-23 09:44:20,2025-02-22 17:28:00,"Windsor and Maidenhead, Wokingham",River Loddon,51.46091,-0.84273,2025-02-23 11:40:27
+162201,011WAFDU,Cumbria and Lancashire,0,Flood alert,3,2025-02-23 15:03:04,2025-02-23 15:02:00,"Cumberland, Westmorland and Furness","River Duddon, River Crake, Mill Beck",54.30575,-3.21857,2025-02-23 11:40:27
+162210,031WAF114,West Midlands,0,Flood alert,3,2025-02-23 14:35:21,2025-02-23 14:33:00,Shropshire,"River Severn, River Vyrnwy",52.7687,-2.9956,2025-02-23 11:40:27
+162219,113WABTW15,"Devon, Cornwall and the Isles of Scilly",0,Flood alert,3,2025-02-23 10:22:49,2025-02-23 10:22:00,Devon,"River Avon, River Erme, River Harbourne",50.36763,-3.81669,2025-02-23 11:40:27
+162228,011WAFUE,Cumbria and Lancashire,0,Flood alert,3,2025-02-23 12:29:45,2025-02-23 12:29:00,"North Yorkshire, Westmorland and Furness",River Eden,54.54408,-2.45919,2025-02-23 11:40:27
+162237,031WAF119,West Midlands,0,Flood alert,3,2025-02-23 14:33:29,2025-02-23 14:33:00,"Gloucestershire, Herefordshire",River Wye,51.94972,-2.62833,2025-02-23 11:40:27
+162246,011WAFLE,Cumbria and Lancashire,0,Flood alert,3,2025-02-23 12:52:25,2025-02-23 12:52:00,"Cumberland, Westmorland and Furness",River Eden,54.91623,-2.92479,2025-02-23 11:40:27
+162255,113WABTW14,"Devon, Cornwall and the Isles of Scilly",0,Flood alert,3,2025-02-23 10:23:15,2025-02-23 10:22:00,"Devon, Torbay",River Dart,50.50858,-3.80442,2025-02-23 11:40:27
+162264,011WAFBR,Cumbria and Lancashire,0,Flood alert,3,2025-02-23 12:25:47,2025-02-23 12:25:00,Westmorland and Furness,"River Brathay, River Rothay, River Winster",54.38244,-2.97249,2025-02-23 11:40:27
+162273,011WAFDW,Cumbria and Lancashire,0,Flood alert,3,2025-02-23 12:39:42,2025-02-23 12:39:00,Cumberland,"Derwent, Stonethwaite Beck",54.55941,-3.1482,2025-02-23 11:40:27
+162363,114WAFT1W11A00,"Devon, Cornwall and the Isles of Scilly",0,Flood alert,3,2025-02-23 11:31:52,2025-02-23 11:31:00,"Devon, Plymouth","River Tavy, River Walkham",50.54623,-4.11538,2025-02-23 11:40:27
+162506,061WAF22UpperKen,Thames,0,Flood alert,3,2025-02-23 08:28:32,2025-01-26 18:07:00,"Swindon, West Berkshire, Wiltshire","River Kennet, River Og, River Aldbourne, Froxfield Stream, River Dun, River Shalbourne",51.43469,-1.844,2025-02-23 11:40:27
+162587,061WAF22Lambourn,Thames,0,Flood alert,3,2025-02-23 08:28:23,2025-01-26 14:19:00,West Berkshire,"River Lambourn, Great Shefford Stream, Winterbourne Stream",51.42427,-1.34231,2025-02-23 11:40:27
+162668,061WAF30Cranlgh,Thames,0,Warning no longer in force,4,2025-02-23 09:44:40,2025-02-23 09:44:00,Surrey,"Littlemead Brook, Cranleigh Waters, Hascombe Stream",51.14154,-0.49112,2025-02-23 11:40:27
+162685,065WAF423,Solent and South Downs,0,Flood alert,3,2025-02-23 10:36:10,2025-02-22 08:57:00,"Surrey, West Sussex",Arun,51.04189,-0.4718,2025-02-23 11:40:27
+162783,011WAFED,Cumbria and Lancashire,0,Flood alert,3,2025-02-23 12:24:16,2025-02-23 12:23:00,Cumberland,"River Ehen, Rive Calder, River Irt, River Esk",54.5053,-3.44839,2025-02-23 11:40:27
+162792,011WAFPC,Cumbria and Lancashire,0,Flood alert,3,2025-02-23 12:43:34,2025-02-23 12:43:00,"Cumberland, Westmorland and Furness","River Caldew, River Petteril",54.78782,-2.97514,2025-02-23 11:40:27
+164225,064WAF32UpprMole,"Kent, South London and East Sussex",0,Flood alert,3,2025-02-23 16:54:33,2025-02-23 16:54:00,"Surrey, West Sussex","Ifield Brook, River Mole, Gatwick Stream, Burstow Stream",51.15541,-0.17359,2025-02-23 12:14:22
+164387,031WAF213,West Midlands,0,Flood alert,3,2025-02-23 16:59:27,2025-02-23 16:59:00,"Gloucestershire, Herefordshire, Worcestershire","Leadon, Glynch",51.9776,-2.39645,2025-02-23 12:14:22
+164657,031WAF215,West Midlands,0,Flood alert,3,2025-02-23 16:59:15,2025-02-23 16:59:00,Gloucestershire,"Lyd, Cinderford Brook",51.69461,-2.56531,2025-02-23 12:14:22
+164791,114WAFT1W06A00,"Devon, Cornwall and the Isles of Scilly",0,Flood alert,3,2025-02-23 16:34:00,2025-02-23 16:33:00,Cornwall,"River Seaton, River Pol",50.44026,-4.42339,2025-02-23 12:14:22
+165095,064WAF7Darent,"Kent, South London and East Sussex",0,Flood alert,3,2025-02-23 16:49:07,2025-02-23 16:48:00,"Bexley, Greater London, Kent",River Darent,51.40036,0.20947,2025-02-23 12:14:22
+166660,052WAFTOVE,East Anglia,0,Flood alert,3,2025-02-23 17:08:55,2025-02-23 17:08:00,"Milton Keynes, West Northamptonshire",River Tove,52.11898,-0.95986,2025-02-23 12:52:44
+166812,065WAF451,Solent and South Downs,0,Flood alert,3,2025-02-23 17:07:13,2025-02-23 17:06:00,East Sussex,Cuckmere River,50.85065,0.19718,2025-02-23 12:52:44
+166929,065WAF433,Solent and South Downs,0,Flood alert,3,2025-02-23 17:07:26,2025-02-23 17:07:00,"East Sussex, West Sussex",Adur,50.96028,-0.21887,2025-02-23 12:52:44
+167554,065WAF422,Solent and South Downs,0,Flood alert,3,2025-02-23 17:07:42,2025-02-23 17:07:00,"Surrey, West Sussex",Loxwood Stream,51.09398,-0.56227,2025-02-23 12:52:44
+167561,065WAF432,Solent and South Downs,0,Flood alert,3,2025-02-23 17:07:40,2025-02-23 17:07:00,West Sussex,Adur,50.97643,-0.3592,2025-02-23 12:52:44
+168843,112WAFTUBA,Wessex,0,Flood alert,3,2025-02-23 18:14:53,2025-02-23 18:14:00,"Gloucestershire, South Gloucestershire, Wiltshire",Bristol River Avon,51.53083,-2.05331,2025-02-23 13:26:06
+171354,034WAF428,East Midlands,0,Flood alert,3,2025-02-23 20:36:18,2025-02-23 16:21:00,"Derbyshire, Leicestershire, Nottinghamshire",River Soar,52.79207,-1.21257,2025-02-23 20:51:42
+171687,112WAFTSSR,Wessex,0,Flood alert,3,2025-02-23 19:44:29,2025-02-23 19:44:00,"Dorset Council, Somerset","River Parrett, River Isle",50.96685,-2.85611,2025-02-23 20:51:42
+171802,112WAFTMBA,Wessex,0,Flood alert,3,2025-02-23 18:21:15,2025-02-23 18:20:00,"Bath and North East Somerset, Wiltshire",Bristol River Avon,51.34434,-2.13772,2025-02-23 20:51:42
+171828,065WAF113,Solent and South Downs,0,Flood alert,3,2025-02-23 18:18:48,2025-02-23 18:18:00,"Hampshire, Wiltshire",River Blackwater,50.95824,-1.56668,2025-02-23 20:51:42
+171842,031WAF218,West Midlands,0,Flood alert,3,2025-02-23 19:17:50,2025-02-23 19:17:00,"Gloucestershire, Worcestershire",,51.9865,-2.09566,2025-02-23 20:51:42
+171848,065WAF442,Solent and South Downs,0,Flood alert,3,2025-02-23 19:58:27,2025-02-23 19:58:00,East Sussex,Uck,50.96537,0.11121,2025-02-23 20:51:42
+171872,033FWF3GOG,West Midlands,0,Flood warning,2,2025-02-23 22:38:02,2025-02-23 22:37:00,Warwickshire,,52.27259,-1.6014,2025-02-23 20:51:42
+171878,112WAFRYP,Wessex,0,Flood alert,3,2025-02-23 20:16:17,2025-02-23 20:15:00,"Dorset Council, Somerset","River Parrett, River Yeo, Cary, Sowy, Kings Sedgemoor Drain",51.0787,-2.84285,2025-02-23 20:51:42
+171975,112WAFTRCC,Wessex,0,Flood alert,3,2025-02-23 20:26:14,2025-02-23 20:25:00,"Bath and North East Somerset, North Somerset, Somerset","River Chew, Chew Stoke Stream, Winford Brook",51.34459,-2.59745,2025-02-23 20:51:42
+171999,061WAF07Cole,Thames,0,Flood alert,3,2025-02-23 19:44:36,2025-02-23 19:44:00,"Oxfordshire, Swindon",River Cole,51.6096,-1.69256,2025-02-23 20:51:42
+172013,113WAFTW05,"Devon, Cornwall and the Isles of Scilly",0,Flood alert,3,2025-02-23 19:12:01,2025-02-23 19:11:00,"Devon, Somerset","River Barle, River Exe, River Lyn, River Mole, River Bray",51.02296,-3.82479,2025-02-23 20:51:42
+172045,112WAFTWSS,Wessex,0,Flood alert,3,2025-02-23 20:20:39,2025-02-23 20:20:00,Somerset,"Horner Water, River Aller, Washford River, Hawkcombe Stream, Monksilver Stream, Doniford Stream",51.15203,-3.3772,2025-02-23 20:51:42
+172050,112WAFRTC,Wessex,0,Flood alert,3,2025-02-23 20:23:31,2025-02-23 20:23:00,"Devon, Somerset","Hillfarrance Brook, Halsewater Stream, River Tone",51.01079,-3.22163,2025-02-23 20:51:42
+172099,114WAFT1W09A00,"Devon, Cornwall and the Isles of Scilly",0,Flood alert,3,2025-02-23 19:11:01,2025-02-23 19:10:00,"Cornwall, Devon","River Tamar, River Lyd, River Thrushel",50.62406,-4.2789,2025-02-23 20:51:42
+172104,114WAFT1W03A00,"Devon, Cornwall and the Isles of Scilly",0,Flood alert,3,2025-02-23 20:24:35,2025-02-23 11:30:00,Cornwall,"River Camel, River Allen, Bodmin Town Leat, River Valency",50.53015,-4.73563,2025-02-23 20:51:42
+172318,113WAFTW01,"Devon, Cornwall and the Isles of Scilly",0,Flood alert,3,2025-02-23 19:28:14,2025-02-23 19:27:00,Devon,"River Torridge, River Waldon, River Lew",50.84928,-4.19873,2025-02-23 20:51:42
+172332,114WAFT1W08A00,"Devon, Cornwall and the Isles of Scilly",0,Flood alert,3,2025-02-23 21:42:50,2025-02-23 21:42:00,"Cornwall, Devon",River Tamar,50.50207,-4.20859,2025-02-23 20:51:42
+172337,114WAFCOBER,"Devon, Cornwall and the Isles of Scilly",0,Flood alert,3,2025-02-23 19:42:05,2025-02-23 19:41:00,Cornwall,River Cober,50.11707,-5.26557,2025-02-23 20:51:42
+172342,113WABTW02,"Devon, Cornwall and the Isles of Scilly",0,Flood alert,3,2025-02-23 23:48:00,2025-02-23 23:47:00,Devon,"River Torridge, Kenwith Stream",50.91666,-4.1166,2025-02-23 20:51:42
+172436,062WAF28UpColne,Hertfordshire and North London,0,Flood alert,3,2025-02-23 19:09:20,2025-02-23 19:09:00,Hertfordshire,River Colne,51.71518,-0.28398,2025-02-23 20:51:42
+172441,113FWF2D0C,"Devon, Cornwall and the Isles of Scilly",0,Flood warning,2,2025-02-23 23:51:14,2025-02-23 23:50:00,Devon,River Torridge,50.9389,-4.12674,2025-02-23 20:51:42
+172446,113FWF2C0C,"Devon, Cornwall and the Isles of Scilly",0,Flood warning,2,2025-02-23 20:43:23,2025-02-23 20:43:00,Devon,River Dart,50.45821,-3.71763,2025-02-23 20:51:42
+172451,113FWF2D1A,"Devon, Cornwall and the Isles of Scilly",0,Flood warning,2,2025-02-23 21:59:01,2025-02-23 21:58:00,Devon,River Lew,50.81201,-4.0787,2025-02-23 20:51:42
+172727,065WAF424,Solent and South Downs,0,Flood alert,3,2025-02-23 19:58:14,2025-02-23 19:57:00,West Sussex,Arun,50.89017,-0.54055,2025-02-23 20:51:42
+173317,113FWF2B0A,"Devon, Cornwall and the Isles of Scilly",0,Flood warning,2,2025-02-23 21:25:20,2025-02-23 21:25:00,Devon,River Avon,50.3655,-3.79156,2025-02-23 20:51:42
+173970,114FWF1G0CA00,"Devon, Cornwall and the Isles of Scilly",0,Flood warning,2,2025-02-23 21:27:12,2025-02-23 21:26:00,Cornwall,"River Strat, River Bush",50.80678,-4.53094,2025-02-23 20:51:42
+176932,111WAFFROU,Wessex,0,Flood alert,3,2025-02-24 02:42:07,2025-02-24 02:41:00,Dorset Council,"Frome, Hooke, Sydling Water, Cerne",50.75128,-2.50868,2025-02-23 22:07:35
+177503,113FWF2J2A,"Devon, Cornwall and the Isles of Scilly",0,Flood warning,2,2025-02-24 02:31:10,2025-02-24 02:30:00,"Devon, Dorset Council, Somerset",River Axe,50.81709,-2.95621,2025-02-23 22:07:35
+177738,111FWFFROU211,Wessex,0,Flood warning,2,2025-02-24 02:32:58,2025-02-24 02:32:00,Dorset Council,Dorset Frome,50.77798,-2.57505,2025-02-23 22:07:35
+181915,033WAF205,West Midlands,0,Warning no longer in force,4,2025-02-24 12:01:01,2025-02-24 12:00:00,"Warwickshire, Worcestershire","Arrow, Alne",52.26389,-1.84348,2025-02-24 14:11:43
+181917,112WAFTUBA,Wessex,0,Flood alert,3,2025-02-24 17:20:57,2025-02-23 18:14:00,"Gloucestershire, South Gloucestershire, Wiltshire",Bristol River Avon,51.53083,-2.05331,2025-02-24 14:11:43
+181936,034WAF428,East Midlands,0,Flood alert,3,2025-02-24 17:06:19,2025-02-23 16:21:00,"Derbyshire, Leicestershire, Nottinghamshire",River Soar,52.79207,-1.21257,2025-02-24 14:11:43
+181946,061WAF10Windrush,Thames,0,Flood alert,3,2025-02-24 08:26:20,2024-11-24 18:30:00,"Gloucestershire, Oxfordshire",River Windrush,51.8284,-1.65082,2025-02-24 14:11:43
+182026,061WAF12Evenlode,Thames,0,Flood alert,3,2025-02-24 06:50:59,2025-02-24 06:50:00,"Gloucestershire, Oxfordshire, Warwickshire","River Evenlode, River Glyme",51.87967,-1.51878,2025-02-24 14:11:43
+182028,112WAFTSES,Wessex,0,Flood alert,3,2025-02-24 10:42:03,2025-02-20 18:48:00,"Dorset Council, Somerset","River Yeo, River Cam, River Wriggle, Barwick Stream, West Coker Stream",50.90841,-2.59811,2025-02-24 14:11:43
+182145,062WAF28LowColne,Hertfordshire and North London,0,Flood alert,3,2025-02-24 16:55:08,2025-02-24 07:54:00,"Buckinghamshire, Greater London, Hertfordshire, Hillingdon, Slough, Surrey, Windsor and Maidenhead",River Colne,51.52882,-0.49476,2025-02-24 14:11:43
+182187,031WAF104,West Midlands,0,Warning no longer in force,4,2025-02-24 15:46:29,2025-02-24 15:45:00,"Shropshire, Staffordshire, Telford and Wrekin","River Tern, River Perry",52.76361,-2.52261,2025-02-24 14:11:43
+182197,061WAF10Dikler,Thames,0,Flood alert,3,2025-02-24 06:45:39,2025-02-24 06:45:00,Gloucestershire,River Dikler,51.899,-1.74644,2025-02-24 14:11:43
+182223,033WAF201,West Midlands,0,Flood alert,3,2025-02-24 08:12:43,2025-02-24 08:12:00,"Leicestershire, Warwickshire, West Northamptonshire","Avon, Swift, Claycoton",52.40226,-1.16475,2025-02-24 14:11:43
+182237,061WAF29Chertsey,Thames,0,Flood alert,3,2025-02-24 09:55:50,2025-02-22 07:09:00,"Bracknell Forest, Surrey, Windsor and Maidenhead","Chertsey Bourne, The Moat, Moat",51.40163,-0.54411,2025-02-24 14:11:43
+182310,052WAFTOVE,East Anglia,0,Flood alert,3,2025-02-24 16:02:01,2025-02-23 17:08:00,"Milton Keynes, West Northamptonshire",River Tove,52.11898,-0.95986,2025-02-24 14:11:43
+182318,111WAFSTOU,Wessex,0,Flood alert,3,2025-02-24 07:40:07,2025-02-24 07:39:00,"Dorset Council, Somerset, Wiltshire","River Stour, River Lodden, River Shreen",50.93909,-2.33431,2025-02-24 14:11:43
+182320,061WAF23UpThTrbs,Thames,0,Flood alert,3,2025-02-24 13:01:56,2025-02-24 13:01:00,"Gloucestershire, Wiltshire","Flagham Brook, Swill Brook, Hankerton Brook, Hykemeres Stream, Derry Brook, River Key",51.61711,-1.87391,2025-02-24 14:11:43
+182326,064WAF32UpprMole,"Kent, South London and East Sussex",0,Warning no longer in force,4,2025-02-24 16:27:40,2025-02-24 16:27:00,"Surrey, West Sussex","Ifield Brook, River Mole, Gatwick Stream, Burstow Stream",51.15541,-0.17359,2025-02-24 14:11:43
+182335,111WAFFROL,Wessex,0,Flood alert,3,2025-02-24 11:33:42,2025-02-20 16:57:00,Dorset Council,River Frome,50.69446,-2.26258,2025-02-24 14:11:43
+182361,112WAFTSSR,Wessex,0,Flood alert,3,2025-02-24 10:37:03,2025-02-23 19:44:00,"Dorset Council, Somerset","River Parrett, River Isle",50.96685,-2.85611,2025-02-24 14:11:43
+182367,031WAF116,West Midlands,0,Flood alert,3,2025-02-24 15:09:57,2025-02-23 14:33:00,Herefordshire,River Lugg,52.11056,-2.68563,2025-02-24 14:11:43
+182377,064WAF32MdleMole,"Kent, South London and East Sussex",0,Flood alert,3,2025-02-24 16:27:31,2025-02-22 09:53:00,Surrey,River Mole,51.26756,-0.32897,2025-02-24 14:11:43
+182395,064WAF321,"Kent, South London and East Sussex",0,Flood alert,3,2025-02-24 17:15:50,2025-02-24 09:39:00,"East Sussex, Kent, Surrey, West Sussex",River Medway,51.11298,0.12008,2025-02-24 14:11:43
+182397,112WAFYPM,Wessex,0,Flood alert,3,2025-02-24 11:02:41,2025-01-24 20:31:00,Somerset,River Yeo,51.01274,-2.81017,2025-02-24 14:11:43
+182478,111WAFCALE,Wessex,0,Warning no longer in force,4,2025-02-24 17:25:55,2025-02-24 17:25:00,"Dorset Council, Somerset",River Cale,51.01262,-2.37685,2025-02-24 14:11:43
+182480,112WAFTMBA,Wessex,0,Flood alert,3,2025-02-24 17:27:46,2025-02-23 18:20:00,"Bath and North East Somerset, Wiltshire",Bristol River Avon,51.34434,-2.13772,2025-02-24 14:11:43
+182506,111FWFSTOM710,Wessex,0,Flood warning,2,2025-02-24 12:05:39,2025-02-24 12:05:00,Dorset Council,River Stour,50.89033,-2.21596,2025-02-24 14:11:43
+182508,065WAF113,Solent and South Downs,0,Flood alert,3,2025-02-24 07:52:59,2025-02-23 18:18:00,"Hampshire, Wiltshire",River Blackwater,50.95824,-1.56668,2025-02-24 14:11:43
+182514,112WAFTESR,Wessex,0,Flood alert,3,2025-02-24 08:19:57,2025-02-24 08:19:00,Somerset,"River Brue, River Sheppey, North Drain, South Drain",51.19369,-2.82658,2025-02-24 14:11:43
+182516,111FWFSTOM711,Wessex,0,Flood warning,2,2025-02-24 12:05:23,2025-02-24 12:05:00,Dorset Council,River Stour,50.88498,-2.20247,2025-02-24 14:11:43
+182518,065FWF3101,Solent and South Downs,0,Flood warning,2,2025-02-24 10:40:17,2025-02-24 10:40:00,"Hampshire, Wiltshire",River Blackwater,50.97044,-1.56718,2025-02-24 14:11:43
+182520,064WAF324,"Kent, South London and East Sussex",0,Flood alert,3,2025-02-24 17:13:27,2025-02-24 09:26:00,"Kent, Surrey, West Sussex","Eden, Eden Brook",51.19359,0.04002,2025-02-24 14:11:43
+182522,065WAF451,Solent and South Downs,0,Flood alert,3,2025-02-24 12:14:46,2025-02-23 17:06:00,East Sussex,Cuckmere River,50.85065,0.19718,2025-02-24 14:11:43
+182530,031WAF218,West Midlands,0,Warning no longer in force,4,2025-02-24 08:39:54,2025-02-24 08:39:00,"Gloucestershire, Worcestershire",,51.9865,-2.09566,2025-02-24 14:11:43
+182536,065WAF442,Solent and South Downs,0,Warning no longer in force,4,2025-02-24 17:09:29,2025-02-24 17:09:00,East Sussex,Uck,50.96537,0.11121,2025-02-24 14:11:43
+182542,065WAF421,Solent and South Downs,0,Flood alert,3,2025-02-24 11:04:59,2025-02-22 09:54:00,"Hampshire, West Sussex",Western Rother,50.98655,-0.72489,2025-02-24 14:11:43
+182560,113WAFTW07,"Devon, Cornwall and the Isles of Scilly",0,Flood alert,3,2025-02-24 09:48:31,2025-02-24 09:48:00,"Devon, Somerset","River Clyst, River Culm",50.83944,-3.41868,2025-02-24 14:11:43
+182562,033FWF3GOG,West Midlands,0,Warning no longer in force,4,2025-02-24 08:02:02,2025-02-24 08:01:00,Warwickshire,,52.27259,-1.6014,2025-02-24 14:11:43
+182568,031WAF214,West Midlands,0,Flood alert,3,2025-02-24 11:40:26,2025-02-24 11:40:00,"Gloucestershire, Worcestershire",Severn Estuary,51.91768,-2.23172,2025-02-24 14:11:43
+182570,112WAFRYP,Wessex,0,Flood alert,3,2025-02-24 10:45:11,2025-02-23 20:15:00,"Dorset Council, Somerset","River Parrett, River Yeo, Cary, Sowy, Kings Sedgemoor Drain",51.0787,-2.84285,2025-02-24 14:11:43
+182576,031WAF213,West Midlands,0,Flood alert,3,2025-02-24 08:28:31,2025-02-23 16:59:00,"Gloucestershire, Herefordshire, Worcestershire","Leadon, Glynch",51.9776,-2.39645,2025-02-24 14:11:43
+182585,061WAF21PangSulm,Thames,0,Flood alert,3,2025-02-24 08:26:22,2025-01-24 13:33:00,"Oxfordshire, West Berkshire","River Pang, Sulham Brook",51.46413,-1.14301,2025-02-24 14:11:43
+182667,112WAFTRCC,Wessex,0,Flood alert,3,2025-02-24 17:32:31,2025-02-23 20:25:00,"Bath and North East Somerset, North Somerset, Somerset","River Chew, Chew Stoke Stream, Winford Brook",51.34459,-2.59745,2025-02-24 14:11:43
+182673,065WAF433,Solent and South Downs,0,Flood alert,3,2025-02-24 13:23:37,2025-02-23 17:07:00,"East Sussex, West Sussex",Adur,50.96028,-0.21887,2025-02-24 14:11:43
+182681,065WAF441,Solent and South Downs,0,Flood alert,3,2025-02-24 10:21:44,2025-02-24 10:21:00,"East Sussex, West Sussex",River Ouse,50.97866,-0.00701,2025-02-24 14:11:43
+182683,111WAFSTOM,Wessex,0,Flood alert,3,2025-02-24 07:44:42,2025-02-24 07:44:00,Dorset Council,"River Stour, River Lodden",50.81799,-2.12433,2025-02-24 14:11:43
+182685,113WABTW09,"Devon, Cornwall and the Isles of Scilly",0,Flood alert,3,2025-02-24 09:54:47,2025-02-24 09:54:00,"Devon, Dorset Council, Somerset","River Coly, River Yarty, Umborne Brook",50.78851,-3.01594,2025-02-24 14:11:43
+182687,064WAF351,"Kent, South London and East Sussex",0,Flood alert,3,2025-02-24 17:21:30,2025-02-24 11:26:00,"East Sussex, Kent",River Rother,51.0179,0.65248,2025-02-24 14:11:43
+182689,034WAF430,East Midlands,0,Warning no longer in force,4,2025-02-24 08:12:07,2025-02-24 08:11:00,Nottinghamshire,River Maun,53.19738,-1.05888,2025-02-24 14:11:43
+182699,061WAF07Cole,Thames,0,Warning no longer in force,4,2025-02-24 08:25:43,2025-02-24 08:25:00,"Oxfordshire, Swindon",River Cole,51.6096,-1.69256,2025-02-24 14:11:43
+182704,033WAF206,West Midlands,0,Flood alert,3,2025-02-24 09:03:53,2025-02-24 09:03:00,Warwickshire,Dene,52.16363,-1.53509,2025-02-24 14:11:43
+182705,112FWFBRU30A,Wessex,0,Warning no longer in force,4,2025-02-24 17:25:02,2025-02-24 17:24:00,Somerset,"River Brue, Glastonbury Millstream",51.11498,-2.68197,2025-02-24 14:11:43
+182706,054WATBT2,East Anglia,1,Flood alert,3,2025-02-24 14:47:39,2025-02-24 14:47:00,Norfolk,River Yare,52.58357,1.56703,2025-02-24 14:11:43
+182707,054WATBT3,East Anglia,1,Flood alert,3,2025-02-24 14:56:38,2025-02-24 14:56:00,"Norfolk, Suffolk",Waveney,52.49058,1.61928,2025-02-24 14:11:43
+182708,111WAFSTOL,Wessex,0,Flood alert,3,2025-02-24 17:55:50,2025-02-24 17:55:00,"Bournemouth, Christchurch and Poole, Dorset Council, Hampshire","River Allen, River Stour",50.79411,-1.90855,2025-02-24 14:11:43
+182709,061WAF24BlkWater,Thames,0,Flood alert,3,2025-02-24 06:55:00,2025-02-24 06:54:00,"Bracknell Forest, Hampshire, Surrey, Wokingham","River Blackwater, Cove Brook",51.34357,-0.83247,2025-02-24 14:11:43
+182710,114WAFT1W10A00,"Devon, Cornwall and the Isles of Scilly",0,Flood alert,3,2025-02-24 16:35:40,2025-02-23 11:31:00,"Cornwall, Devon","River Tamar, River Strat, River Neet, River Ottery, River Kensey",50.72813,-4.39732,2025-02-24 14:11:43
+182719,113WAFTW05,"Devon, Cornwall and the Isles of Scilly",0,Warning no longer in force,4,2025-02-24 12:27:56,2025-02-24 12:27:00,"Devon, Somerset","River Barle, River Exe, River Lyn, River Mole, River Bray",51.02296,-3.82479,2025-02-24 14:11:43
+182724,031WAF117,West Midlands,0,Warning no longer in force,4,2025-02-24 09:07:59,2025-02-24 09:07:00,Herefordshire,River Arrow,52.21248,-2.86905,2025-02-24 14:11:43
+182733,031WAF112,West Midlands,0,Flood alert,3,2025-02-24 15:10:08,2025-02-23 14:33:00,"Herefordshire, Shropshire","River Teme, River Onny, River Corve",52.40735,-2.8852,2025-02-24 14:11:43
+182742,113WAFTW13,"Devon, Cornwall and the Isles of Scilly",0,Warning no longer in force,4,2025-02-24 12:27:49,2025-02-24 12:27:00,"Devon, Torbay","River Teign, River Bovey, River Lemon, River Kenn",50.61404,-3.68379,2025-02-24 14:11:43
+182751,112WAFTWSS,Wessex,0,Warning no longer in force,4,2025-02-24 10:54:33,2025-02-24 10:54:00,Somerset,"Horner Water, River Aller, Washford River, Hawkcombe Stream, Monksilver Stream, Doniford Stream",51.15203,-3.3772,2025-02-24 14:11:43
+182756,112WAFRTC,Wessex,0,Warning no longer in force,4,2025-02-24 10:52:55,2025-02-24 10:52:00,"Devon, Somerset","Hillfarrance Brook, Halsewater Stream, River Tone",51.01079,-3.22163,2025-02-24 14:11:43
+182761,111WAFWDRS,Wessex,0,Warning no longer in force,4,2025-02-24 17:20:13,2025-02-24 17:20:00,"Devon, Dorset Council","River Asker, River Brit, River Bride, River Char, River Lim",50.75397,-2.74036,2025-02-24 14:11:43
+182770,061WAF30UpperWey,Thames,0,Flood alert,3,2025-02-24 07:47:38,2025-02-24 07:47:00,"Hampshire, Surrey, West Sussex",River Wey,51.16408,-0.80601,2025-02-24 14:11:43
+182787,064WAF32Redhill,"Kent, South London and East Sussex",0,Warning no longer in force,4,2025-02-24 16:27:37,2025-02-24 16:27:00,Surrey,"Redhill Brook, Salfords Stream",51.21348,-0.14041,2025-02-24 14:11:43
+182788,061WAF30Hoestrm,Thames,0,Flood alert,3,2025-02-24 16:30:52,2025-02-24 16:30:00,Surrey,Hoe Stream,51.29005,-0.59523,2025-02-24 14:11:43
+182789,114WAFT1W12A00,"Devon, Cornwall and the Isles of Scilly",0,Warning no longer in force,4,2025-02-24 11:09:06,2025-02-24 11:09:00,"Devon, Plymouth","River Plym, Tory Brook, Long Brook",50.44456,-4.05435,2025-02-24 14:11:43
+182798,114WAFT1W01A00,"Devon, Cornwall and the Isles of Scilly",0,Warning no longer in force,4,2025-02-24 11:09:14,2025-02-24 11:09:00,Cornwall,"River Hayle, Perrancoombe Stream, Bolingey Stream, Portreath Stream, Newlyn Coombe River",50.15847,-5.40613,2025-02-24 14:11:43
+182807,114WAFT1W09A00,"Devon, Cornwall and the Isles of Scilly",0,Warning no longer in force,4,2025-02-24 11:08:54,2025-02-24 11:08:00,"Cornwall, Devon","River Tamar, River Lyd, River Thrushel",50.62406,-4.2789,2025-02-24 14:11:43
+182812,114WAFT1W03A00,"Devon, Cornwall and the Isles of Scilly",0,Warning no longer in force,4,2025-02-24 11:09:22,2025-02-24 11:09:00,Cornwall,"River Camel, River Allen, Bodmin Town Leat, River Valency",50.53015,-4.73563,2025-02-24 14:11:43
+182821,114WAFT1W07A00,"Devon, Cornwall and the Isles of Scilly",0,Warning no longer in force,4,2025-02-24 11:09:38,2025-02-24 11:09:00,Cornwall,River Lynher,50.50719,-4.37839,2025-02-24 14:11:43
+182830,114WAFT1W13A00,"Devon, Cornwall and the Isles of Scilly",0,Warning no longer in force,4,2025-02-24 11:09:30,2025-02-24 11:09:00,"Devon, Plymouth",River Yealm,50.38712,-3.973,2025-02-24 14:11:43
+182839,061WAF24LLoddon,Thames,0,Flood alert,3,2025-02-24 09:55:41,2025-02-22 17:28:00,"Windsor and Maidenhead, Wokingham",River Loddon,51.46091,-0.84273,2025-02-24 14:11:43
+182856,011WAFDU,Cumbria and Lancashire,0,Warning no longer in force,4,2025-02-24 09:22:30,2025-02-24 09:22:00,"Cumberland, Westmorland and Furness","River Duddon, River Crake, Mill Beck",54.30575,-3.21857,2025-02-24 14:11:43
+182865,031WAF114,West Midlands,0,Flood alert,3,2025-02-24 15:10:21,2025-02-23 14:33:00,Shropshire,"River Severn, River Vyrnwy",52.7687,-2.9956,2025-02-24 14:11:43
+182874,113WABTW15,"Devon, Cornwall and the Isles of Scilly",0,Warning no longer in force,4,2025-02-24 09:40:47,2025-02-24 09:40:00,Devon,"River Avon, River Erme, River Harbourne",50.36763,-3.81669,2025-02-24 14:11:43
+182883,011WAFUE,Cumbria and Lancashire,0,Warning no longer in force,4,2025-02-24 09:18:11,2025-02-24 09:18:00,"North Yorkshire, Westmorland and Furness",River Eden,54.54408,-2.45919,2025-02-24 14:11:43
+182892,031WAF119,West Midlands,0,Flood alert,3,2025-02-24 15:09:55,2025-02-23 14:33:00,"Gloucestershire, Herefordshire",River Wye,51.94972,-2.62833,2025-02-24 14:11:43
+182901,031WAF215,West Midlands,0,Warning no longer in force,4,2025-02-24 08:39:56,2025-02-24 08:39:00,Gloucestershire,"Lyd, Cinderford Brook",51.69461,-2.56531,2025-02-24 14:11:43
+182909,111WAFNADD,Wessex,0,Flood alert,3,2025-02-24 07:48:25,2025-02-24 07:47:00,Wiltshire,River Nadder,51.07297,-1.91354,2025-02-24 14:11:43
+182910,031WAF120,West Midlands,0,Flood alert,3,2025-02-24 15:09:46,2025-02-24 08:39:00,"Gloucestershire, Herefordshire",River Wye,51.8509,-2.59943,2025-02-24 14:11:43
+182911,013WAFDEE,"Greater Manchester, Merseyside and Cheshire",0,Flood alert,3,2025-02-24 13:48:53,2025-02-24 13:48:00,"Cheshire West and Chester, Shropshire",River Dee,53.10712,-2.86029,2025-02-24 14:11:43
+182912,011WAFLE,Cumbria and Lancashire,0,Warning no longer in force,4,2025-02-24 09:19:26,2025-02-24 09:19:00,"Cumberland, Westmorland and Furness",River Eden,54.91623,-2.92479,2025-02-24 14:11:43
+182921,031WAF103,West Midlands,0,Flood alert,3,2025-02-24 15:29:17,2025-02-24 14:37:00,"Shropshire, Telford and Wrekin, Worcestershire",River Severn,52.68705,-2.6954,2025-02-24 14:11:43
+182922,113WABTW14,"Devon, Cornwall and the Isles of Scilly",0,Warning no longer in force,4,2025-02-24 09:40:37,2025-02-24 09:40:00,"Devon, Torbay",River Dart,50.50858,-3.80442,2025-02-24 14:11:43
+182931,113FWF2J2A,"Devon, Cornwall and the Isles of Scilly",0,Warning no longer in force,4,2025-02-24 09:40:19,2025-02-24 09:40:00,"Devon, Dorset Council, Somerset",River Axe,50.81709,-2.95621,2025-02-24 14:11:43
+182934,111WAFEBBL,Wessex,0,Flood alert,3,2025-02-24 07:52:33,2025-02-24 07:52:00,Wiltshire,Ebble,51.03321,-1.86315,2025-02-24 14:11:43
+182935,011WAFBR,Cumbria and Lancashire,0,Warning no longer in force,4,2025-02-24 09:23:55,2025-02-24 09:23:00,Westmorland and Furness,"River Brathay, River Rothay, River Winster",54.38244,-2.97249,2025-02-24 14:11:43
+182944,011WAFDW,Cumbria and Lancashire,0,Flood alert,3,2025-02-24 09:40:56,2025-02-23 12:39:00,Cumberland,"Derwent, Stonethwaite Beck",54.55941,-3.1482,2025-02-24 14:11:43
+183034,113WAFTW01,"Devon, Cornwall and the Isles of Scilly",0,Warning no longer in force,4,2025-02-24 16:07:01,2025-02-24 16:06:00,Devon,"River Torridge, River Waldon, River Lew",50.84928,-4.19873,2025-02-24 14:11:43
+183039,114WAFT1W11A00,"Devon, Cornwall and the Isles of Scilly",0,Warning no longer in force,4,2025-02-24 11:09:36,2025-02-24 11:09:00,"Devon, Plymouth","River Tavy, River Walkham",50.54623,-4.11538,2025-02-24 14:11:43
+183048,114WAFT1W08A00,"Devon, Cornwall and the Isles of Scilly",0,Warning no longer in force,4,2025-02-24 11:08:36,2025-02-24 11:08:00,"Cornwall, Devon",River Tamar,50.50207,-4.20859,2025-02-24 14:11:43
+183053,114WAFCOBER,"Devon, Cornwall and the Isles of Scilly",0,Warning no longer in force,4,2025-02-24 11:38:31,2025-02-24 11:38:00,Cornwall,River Cober,50.11707,-5.26557,2025-02-24 14:11:43
+183058,113WABTW02,"Devon, Cornwall and the Isles of Scilly",0,Warning no longer in force,4,2025-02-24 16:07:09,2025-02-24 16:07:00,Devon,"River Torridge, Kenwith Stream",50.91666,-4.1166,2025-02-24 14:11:43
+183063,114WAFT1W06A00,"Devon, Cornwall and the Isles of Scilly",0,Warning no longer in force,4,2025-02-24 11:09:00,2025-02-24 11:08:00,Cornwall,"River Seaton, River Pol",50.44026,-4.42339,2025-02-24 14:11:43
+183152,111WAFAVOU,Wessex,0,Flood alert,3,2025-02-24 08:37:32,2025-02-24 08:37:00,Wiltshire,Hampshire River Avon,51.22919,-1.82004,2025-02-24 14:11:43
+183153,062WAF28UpColne,Hertfordshire and North London,0,Flood alert,3,2025-02-24 17:01:06,2025-02-23 19:09:00,Hertfordshire,River Colne,51.71518,-0.28398,2025-02-24 14:11:43
+183158,113FWF2D0C,"Devon, Cornwall and the Isles of Scilly",0,Warning no longer in force,4,2025-02-24 16:07:22,2025-02-24 16:07:00,Devon,River Torridge,50.9389,-4.12674,2025-02-24 14:11:43
+183163,113FWF2C0C,"Devon, Cornwall and the Isles of Scilly",0,Warning no longer in force,4,2025-02-24 09:33:22,2025-02-24 09:33:00,Devon,River Dart,50.45821,-3.71763,2025-02-24 14:11:43
+183168,112FWFYEO10A,Wessex,0,Warning no longer in force,4,2025-02-24 17:11:58,2025-02-24 17:11:00,"Dorset Council, Somerset",River Yeo,50.93188,-2.5856,2025-02-24 14:11:43
+183169,112FWFPAR10A,Wessex,0,Flood warning,2,2025-02-24 11:09:20,2025-02-24 05:43:00,"Dorset Council, Somerset",River Parrett,50.98667,-2.79542,2025-02-24 14:11:43
+183170,065WAF114,Solent and South Downs,0,Flood alert,3,2025-02-24 10:03:11,2025-02-24 10:02:00,Hampshire,Bartley Water,50.90667,-1.5172,2025-02-24 14:11:43
+183171,111FWFFROU211,Wessex,0,Warning no longer in force,4,2025-02-24 17:30:53,2025-02-24 17:30:00,Dorset Council,Dorset Frome,50.77798,-2.57505,2025-02-24 14:11:43
+183174,113FWF2D1A,"Devon, Cornwall and the Isles of Scilly",0,Warning no longer in force,4,2025-02-24 09:33:34,2025-02-24 09:33:00,Devon,River Lew,50.81201,-4.0787,2025-02-24 14:11:43
+183179,111WAFPIDD,Wessex,0,Flood alert,3,2025-02-24 11:29:22,2025-02-21 11:05:00,Dorset Council,"River Piddle, River Trent",50.72881,-2.22205,2025-02-24 14:11:43
+183232,061WAF22UpperKen,Thames,0,Flood alert,3,2025-02-24 08:25:56,2025-01-26 18:07:00,"Swindon, West Berkshire, Wiltshire","River Kennet, River Og, River Aldbourne, Froxfield Stream, River Dun, River Shalbourne",51.43469,-1.844,2025-02-24 14:11:43
+183313,061WAF22Lambourn,Thames,0,Flood alert,3,2025-02-24 08:25:50,2025-01-26 14:19:00,West Berkshire,"River Lambourn, Great Shefford Stream, Winterbourne Stream",51.42427,-1.34231,2025-02-24 14:11:43
+183394,111FWFFROL320,Wessex,0,Flood warning,2,2025-02-24 16:36:04,2025-02-24 16:35:00,Dorset Council,Dorset Frome,50.68044,-2.10956,2025-02-24 14:11:43
+183395,111FWFFROL310,Wessex,0,Flood warning,2,2025-02-24 18:32:25,2025-02-24 18:32:00,Dorset Council,Dorset Frome,50.70799,-2.3183,2025-02-24 14:11:43
+183396,065WAF422,Solent and South Downs,0,Flood alert,3,2025-02-24 13:09:33,2025-02-23 17:07:00,"Surrey, West Sussex",Loxwood Stream,51.09398,-0.56227,2025-02-24 14:11:43
+183403,065WAF432,Solent and South Downs,0,Flood alert,3,2025-02-24 13:12:27,2025-02-23 17:07:00,West Sussex,Adur,50.97643,-0.3592,2025-02-24 14:11:43
+183410,064WAF7Darent,"Kent, South London and East Sussex",0,Warning no longer in force,4,2025-02-24 16:27:49,2025-02-24 16:27:00,"Bexley, Greater London, Kent",River Darent,51.40036,0.20947,2025-02-24 14:11:43
+183418,061WAF30Cranlgh,Thames,0,Flood alert,3,2025-02-24 11:05:05,2025-02-24 11:04:00,Surrey,"Littlemead Brook, Cranleigh Waters, Hascombe Stream",51.14154,-0.49112,2025-02-24 14:11:43
+183435,051WAFEF6BC,East Anglia,0,Flood alert,3,2025-02-24 16:16:03,2025-02-24 16:15:00,Essex,"River Wid, River Can",51.70373,0.40498,2025-02-24 14:11:43
+183436,065WAF423,Solent and South Downs,0,Flood alert,3,2025-02-24 13:38:58,2025-02-22 08:57:00,"Surrey, West Sussex",Arun,51.04189,-0.4718,2025-02-24 14:11:43
+183453,064WAF8LowMed,"Kent, South London and East Sussex",0,Flood alert,3,2025-02-24 16:00:31,2025-02-24 16:00:00,"Kent, Medway",River Medway,51.29468,0.45715,2025-02-24 14:11:43
+183454,065WAF424,Solent and South Downs,0,Flood alert,3,2025-02-24 14:37:25,2025-02-23 19:57:00,West Sussex,Arun,50.89017,-0.54055,2025-02-24 14:11:43
+183459,065FWF5103,Solent and South Downs,0,Flood warning,2,2025-02-24 16:40:53,2025-02-24 16:40:00,West Sussex,West Sussex River Rother,50.97183,-0.64236,2025-02-24 14:11:43
+183460,062WAF28Colnbrk,Hertfordshire and North London,0,Flood alert,3,2025-02-24 16:48:59,2025-02-24 16:48:00,"Buckinghamshire, Greater London, Hillingdon, Slough, Surrey, Windsor and Maidenhead",Colne Brook,51.4759,-0.53823,2025-02-24 14:11:43
+183461,064WAF8MidMed,"Kent, South London and East Sussex",0,Flood alert,3,2025-02-24 17:46:15,2025-02-24 17:45:00,Kent,River Medway,51.19962,0.32995,2025-02-24 14:11:43
+183462,061WAF26Cut,Thames,0,Flood alert,3,2025-02-24 16:30:41,2025-02-24 16:30:00,"Bracknell Forest, Windsor and Maidenhead",The Cut,51.44299,-0.74725,2025-02-24 14:11:43
+183544,011WAFED,Cumbria and Lancashire,0,Warning no longer in force,4,2025-02-24 09:25:11,2025-02-24 09:25:00,Cumberland,"River Ehen, Rive Calder, River Irt, River Esk",54.5053,-3.44839,2025-02-24 14:11:43
+183553,011WAFPC,Cumbria and Lancashire,0,Warning no longer in force,4,2025-02-24 09:21:13,2025-02-24 09:21:00,"Cumberland, Westmorland and Furness","River Caldew, River Petteril",54.78782,-2.97514,2025-02-24 14:11:43
+183724,065FAG009,Solent and South Downs,0,Flood alert,3,2025-02-24 16:29:45,2024-12-17 10:50:00,Hampshire,Groundwater,51.16015,-1.15241,2025-02-24 14:11:43
+184048,113FWF2B0A,"Devon, Cornwall and the Isles of Scilly",0,Warning no longer in force,4,2025-02-24 09:33:27,2025-02-24 09:33:00,Devon,River Avon,50.3655,-3.79156,2025-02-24 14:11:43
+184053,065FAG006,Solent and South Downs,0,Flood alert,3,2025-02-24 16:15:15,2025-01-20 14:45:00,Hampshire,Groundwater,51.02491,-1.39121,2025-02-24 14:11:43
+184134,065FAG003,Solent and South Downs,0,Flood alert,3,2025-02-24 15:59:27,2025-01-06 10:18:00,"Hampshire, Wiltshire",Groundwater,51.22809,-1.5584,2025-02-24 14:11:43
+184215,065FAG001,Solent and South Downs,0,Flood alert,3,2025-02-24 15:44:10,2025-01-13 14:51:00,Hampshire,Groundwater,51.24617,-1.22369,2025-02-24 14:11:43
+184458,111FWFWYL110,Wessex,0,Flood warning,2,2025-02-24 04:19:53,2025-02-24 04:19:00,Wiltshire,River Wylye,51.15033,-2.21476,2025-02-24 14:11:43
+184459,111FWFWYL120,Wessex,0,Flood warning,2,2025-02-24 04:29:57,2025-02-24 04:29:00,Wiltshire,River Wylye,51.14666,-2.01862,2025-02-24 14:11:43
+184541,065FAG004,Solent and South Downs,0,Flood alert,3,2025-02-24 16:07:49,2025-02-03 11:30:00,"Hampshire, Wiltshire",Groundwater,51.08458,-1.69604,2025-02-24 14:11:43
+184703,114FWF1G0CA00,"Devon, Cornwall and the Isles of Scilly",0,Warning no longer in force,4,2025-02-24 16:27:58,2025-02-24 16:27:00,Cornwall,"River Strat, River Bush",50.80678,-4.53094,2025-02-24 14:11:43
+185962,112FWFPAR10A,Wessex,0,Warning no longer in force,4,2025-02-24 19:41:23,2025-02-24 19:41:00,"Dorset Council, Somerset",River Parrett,50.98667,-2.79542,2025-02-24 15:03:25
+188497,013WAFDEE,"Greater Manchester, Merseyside and Cheshire",0,Warning no longer in force,4,2025-02-24 19:56:39,2025-02-24 19:56:00,"Cheshire West and Chester, Shropshire",River Dee,53.10712,-2.86029,2025-02-24 15:57:15
+207052,112WAFTUBA,Wessex,0,Flood alert,3,2025-02-25 15:47:43,2025-02-23 18:14:00,"Gloucestershire, South Gloucestershire, Wiltshire",Bristol River Avon,51.53083,-2.05331,2025-02-25 12:22:15
+207071,034WAF428,East Midlands,0,Flood alert,3,2025-02-25 08:50:58,2025-02-23 16:21:00,"Derbyshire, Leicestershire, Nottinghamshire",River Soar,52.79207,-1.21257,2025-02-25 12:22:15
+207081,061WAF10Windrush,Thames,0,Flood alert,3,2025-02-25 07:28:35,2024-11-24 18:30:00,"Gloucestershire, Oxfordshire",River Windrush,51.8284,-1.65082,2025-02-25 12:22:15
+207161,061WAF12Evenlode,Thames,0,Flood alert,3,2025-02-25 07:28:28,2025-02-24 06:50:00,"Gloucestershire, Oxfordshire, Warwickshire","River Evenlode, River Glyme",51.87967,-1.51878,2025-02-25 12:22:15
+207163,061WAF19Thame,Thames,0,Flood alert,3,2025-02-25 08:00:52,2025-02-25 07:04:00,"Buckinghamshire, Hertfordshire, Oxfordshire","River Thame, Horsenden Stream, Chalgrove Brook",51.76251,-0.9771,2025-02-25 12:22:15
+207199,112WAFTSES,Wessex,0,Flood alert,3,2025-02-25 11:09:56,2025-02-20 18:48:00,"Dorset Council, Somerset","River Yeo, River Cam, River Wriggle, Barwick Stream, West Coker Stream",50.90841,-2.59811,2025-02-25 12:22:15
+207235,111WAFAVOL,Wessex,0,Flood alert,3,2025-02-25 14:06:01,2025-01-23 17:32:00,"Bournemouth, Christchurch and Poole, Dorset Council, Hampshire",Avon,50.79544,-1.78686,2025-02-25 12:22:15
+207316,062WAF28LowColne,Hertfordshire and North London,0,Flood alert,3,2025-02-25 17:02:24,2025-02-24 07:54:00,"Buckinghamshire, Greater London, Hertfordshire, Hillingdon, Slough, Surrey, Windsor and Maidenhead",River Colne,51.52882,-0.49476,2025-02-25 12:22:15
+207358,061WAF10Dikler,Thames,0,Flood alert,3,2025-02-25 07:28:03,2025-02-24 06:45:00,Gloucestershire,River Dikler,51.899,-1.74644,2025-02-25 12:22:15
+207384,033WAF201,West Midlands,0,Flood alert,3,2025-02-25 08:08:59,2025-02-24 08:12:00,"Leicestershire, Warwickshire, West Northamptonshire","Avon, Swift, Claycoton",52.40226,-1.16475,2025-02-25 12:22:15
+207398,061WAF29Chertsey,Thames,0,Flood alert,3,2025-02-25 08:44:41,2025-02-22 07:09:00,"Bracknell Forest, Surrey, Windsor and Maidenhead","Chertsey Bourne, The Moat, Moat",51.40163,-0.54411,2025-02-25 12:22:15
+207471,052WAFTOVE,East Anglia,0,Warning no longer in force,4,2025-02-25 09:33:22,2025-02-25 09:33:00,"Milton Keynes, West Northamptonshire",River Tove,52.11898,-0.95986,2025-02-25 12:22:15
+207481,061WAF23UpThTrbs,Thames,0,Flood alert,3,2025-02-25 07:45:03,2025-02-24 13:01:00,"Gloucestershire, Wiltshire","Flagham Brook, Swill Brook, Hankerton Brook, Hykemeres Stream, Derry Brook, River Key",51.61711,-1.87391,2025-02-25 12:22:15
+207483,111WAFFROU,Wessex,0,Warning no longer in force,4,2025-02-25 11:47:44,2025-02-25 11:47:00,Dorset Council,"Frome, Hooke, Sydling Water, Cerne",50.75128,-2.50868,2025-02-25 12:22:15
+207513,112WAFTSSR,Wessex,0,Warning no longer in force,4,2025-02-25 09:10:27,2025-02-25 09:10:00,"Dorset Council, Somerset","River Parrett, River Isle",50.96685,-2.85611,2025-02-25 12:22:15
+207519,031WAF116,West Midlands,0,Flood alert,3,2025-02-25 09:41:24,2025-02-23 14:33:00,Herefordshire,River Lugg,52.11056,-2.68563,2025-02-25 12:22:15
+207529,064WAF32MdleMole,"Kent, South London and East Sussex",0,Flood alert,3,2025-02-25 16:52:14,2025-02-22 09:53:00,Surrey,River Mole,51.26756,-0.32897,2025-02-25 12:22:15
+207547,064WAF321,"Kent, South London and East Sussex",0,Warning no longer in force,4,2025-02-25 08:33:54,2025-02-25 08:33:00,"East Sussex, Kent, Surrey, West Sussex",River Medway,51.11298,0.12008,2025-02-25 12:22:15
+207549,112WAFYPM,Wessex,0,Flood alert,3,2025-02-25 11:09:41,2025-01-24 20:31:00,Somerset,River Yeo,51.01274,-2.81017,2025-02-25 12:22:15
+207632,112WAFTMBA,Wessex,0,Flood alert,3,2025-02-25 15:46:17,2025-02-23 18:20:00,"Bath and North East Somerset, Wiltshire",Bristol River Avon,51.34434,-2.13772,2025-02-25 12:22:15
+207660,065WAF113,Solent and South Downs,0,Warning no longer in force,4,2025-02-25 09:17:44,2025-02-25 09:17:00,"Hampshire, Wiltshire",River Blackwater,50.95824,-1.56668,2025-02-25 12:22:15
+207666,112WAFTESR,Wessex,0,Warning no longer in force,4,2025-02-25 08:39:40,2025-02-25 08:39:00,Somerset,"River Brue, River Sheppey, North Drain, South Drain",51.19369,-2.82658,2025-02-25 12:22:15
+207670,065FWF3101,Solent and South Downs,0,Warning no longer in force,4,2025-02-25 09:17:58,2025-02-25 09:17:00,"Hampshire, Wiltshire",River Blackwater,50.97044,-1.56718,2025-02-25 12:22:15
+207672,064WAF324,"Kent, South London and East Sussex",0,Flood alert,3,2025-02-25 15:58:00,2025-02-24 09:26:00,"Kent, Surrey, West Sussex","Eden, Eden Brook",51.19359,0.04002,2025-02-25 12:22:15
+207674,065WAF451,Solent and South Downs,0,Flood alert,3,2025-02-25 11:49:21,2025-02-23 17:06:00,East Sussex,Cuckmere River,50.85065,0.19718,2025-02-25 12:22:15
+207682,065WAF421,Solent and South Downs,0,Flood alert,3,2025-02-25 08:46:13,2025-02-22 09:54:00,"Hampshire, West Sussex",Western Rother,50.98655,-0.72489,2025-02-25 12:22:15
+207700,113WAFTW07,"Devon, Cornwall and the Isles of Scilly",0,Warning no longer in force,4,2025-02-25 16:29:38,2025-02-25 16:29:00,"Devon, Somerset","River Clyst, River Culm",50.83944,-3.41868,2025-02-25 12:22:15
+207702,031WAF214,West Midlands,0,Flood alert,3,2025-02-25 16:05:04,2025-02-24 11:40:00,"Gloucestershire, Worcestershire",Severn Estuary,51.91768,-2.23172,2025-02-25 12:22:15
+207704,112WAFRYP,Wessex,0,Warning no longer in force,4,2025-02-25 10:55:10,2025-02-25 10:55:00,"Dorset Council, Somerset","River Parrett, River Yeo, Cary, Sowy, Kings Sedgemoor Drain",51.0787,-2.84285,2025-02-25 12:22:15
+207710,031WAF213,West Midlands,0,Warning no longer in force,4,2025-02-25 16:15:05,2025-02-25 16:14:00,"Gloucestershire, Herefordshire, Worcestershire","Leadon, Glynch",51.9776,-2.39645,2025-02-25 12:22:15
+207719,061WAF21PangSulm,Thames,0,Flood alert,3,2025-02-25 07:28:25,2025-01-24 13:33:00,"Oxfordshire, West Berkshire","River Pang, Sulham Brook",51.46413,-1.14301,2025-02-25 12:22:15
+207801,112WAFTRCC,Wessex,0,Warning no longer in force,4,2025-02-25 15:47:34,2025-02-25 15:46:00,"Bath and North East Somerset, North Somerset, Somerset","River Chew, Chew Stoke Stream, Winford Brook",51.34459,-2.59745,2025-02-25 12:22:15
+207807,065WAF433,Solent and South Downs,0,Flood alert,3,2025-02-25 11:34:09,2025-02-23 17:07:00,"East Sussex, West Sussex",Adur,50.96028,-0.21887,2025-02-25 12:22:15
+207815,065WAF441,Solent and South Downs,0,Flood alert,3,2025-02-25 08:46:04,2025-02-24 10:21:00,"East Sussex, West Sussex",River Ouse,50.97866,-0.00701,2025-02-25 12:22:15
+207819,113WABTW09,"Devon, Cornwall and the Isles of Scilly",0,Warning no longer in force,4,2025-02-25 10:17:37,2025-02-25 10:17:00,"Devon, Dorset Council, Somerset","River Coly, River Yarty, Umborne Brook",50.78851,-3.01594,2025-02-25 12:22:15
+207821,064WAF351,"Kent, South London and East Sussex",0,Warning no longer in force,4,2025-02-25 08:48:23,2025-02-25 08:47:00,"East Sussex, Kent",River Rother,51.0179,0.65248,2025-02-25 12:22:15
+207823,061WAF23BsctKngs,Thames,0,Flood alert,3,2025-02-25 11:06:46,2025-02-25 11:06:00,"Gloucestershire, Oxfordshire",River Thames,51.72269,-1.48132,2025-02-25 12:22:15
+207841,033WAF206,West Midlands,0,Warning no longer in force,4,2025-02-25 08:05:40,2025-02-25 08:05:00,Warwickshire,Dene,52.16363,-1.53509,2025-02-25 12:22:15
+207843,054WATBT2,East Anglia,1,Warning no longer in force,4,2025-02-25 12:57:40,2025-02-25 12:57:00,Norfolk,River Yare,52.58357,1.56703,2025-02-25 12:22:15
+207844,054WATBT3,East Anglia,1,Warning no longer in force,4,2025-02-25 12:57:34,2025-02-25 12:57:00,"Norfolk, Suffolk",Waveney,52.49058,1.61928,2025-02-25 12:22:15
+207846,061WAF24BlkWater,Thames,0,Flood alert,3,2025-02-25 08:44:28,2025-02-24 06:54:00,"Bracknell Forest, Hampshire, Surrey, Wokingham","River Blackwater, Cove Brook",51.34357,-0.83247,2025-02-25 12:22:15
+207847,114WAFT1W10A00,"Devon, Cornwall and the Isles of Scilly",0,Warning no longer in force,4,2025-02-25 10:17:52,2025-02-25 10:17:00,"Cornwall, Devon","River Tamar, River Strat, River Neet, River Ottery, River Kensey",50.72813,-4.39732,2025-02-25 12:22:15
+207856,031WAF112,West Midlands,0,Warning no longer in force,4,2025-02-25 09:20:25,2025-02-25 09:20:00,"Herefordshire, Shropshire","River Teme, River Onny, River Corve",52.40735,-2.8852,2025-02-25 12:22:15
+207874,061WAF30UpperWey,Thames,0,Flood alert,3,2025-02-25 12:33:41,2025-02-24 07:47:00,"Hampshire, Surrey, West Sussex",River Wey,51.16408,-0.80601,2025-02-25 12:22:15
+207891,061WAF30Hoestrm,Thames,0,Flood alert,3,2025-02-25 10:14:01,2025-02-24 16:30:00,Surrey,Hoe Stream,51.29005,-0.59523,2025-02-25 12:22:15
+207892,061WAF24LLoddon,Thames,0,Flood alert,3,2025-02-25 08:44:33,2025-02-22 17:28:00,"Windsor and Maidenhead, Wokingham",River Loddon,51.46091,-0.84273,2025-02-25 12:22:15
+207909,031WAF114,West Midlands,0,Flood alert,3,2025-02-25 09:41:13,2025-02-23 14:33:00,Shropshire,"River Severn, River Vyrnwy",52.7687,-2.9956,2025-02-25 12:22:15
+207918,031WAF119,West Midlands,0,Flood alert,3,2025-02-25 09:41:05,2025-02-23 14:33:00,"Gloucestershire, Herefordshire",River Wye,51.94972,-2.62833,2025-02-25 12:22:15
+207927,111WAFNADD,Wessex,0,Warning no longer in force,4,2025-02-25 11:32:38,2025-02-25 11:32:00,Wiltshire,River Nadder,51.07297,-1.91354,2025-02-25 12:22:15
+207928,031WAF120,West Midlands,0,Flood alert,3,2025-02-25 15:39:39,2025-02-24 08:39:00,"Gloucestershire, Herefordshire",River Wye,51.8509,-2.59943,2025-02-25 12:22:15
+207930,031WAF103,West Midlands,0,Warning no longer in force,4,2025-02-25 14:49:38,2025-02-25 14:49:00,"Shropshire, Telford and Wrekin, Worcestershire",River Severn,52.68705,-2.6954,2025-02-25 12:22:15
+207931,111WAFEBBL,Wessex,0,Warning no longer in force,4,2025-02-25 11:34:59,2025-02-25 11:34:00,Wiltshire,Ebble,51.03321,-1.86315,2025-02-25 12:22:15
+207932,011WAFDW,Cumbria and Lancashire,0,Flood alert,3,2025-02-25 08:20:59,2025-02-23 12:39:00,Cumberland,"Derwent, Stonethwaite Beck",54.55941,-3.1482,2025-02-25 12:22:15
+207941,111FAGCCGW,Wessex,0,Flood alert,3,2025-02-25 10:53:03,2025-01-16 16:31:00,"Dorset Council, Hampshire, Wiltshire",Groundwater,50.94754,-1.97717,2025-02-25 12:22:15
+208022,111WAFBOU,Wessex,0,Flood alert,3,2025-02-25 14:08:36,2025-01-26 13:38:00,"Hampshire, Wiltshire",River Bourne,51.11638,-1.74306,2025-02-25 12:22:15
+208103,111WAFAVOU,Wessex,0,Warning no longer in force,4,2025-02-25 11:40:37,2025-02-25 11:40:00,Wiltshire,Hampshire River Avon,51.22919,-1.82004,2025-02-25 12:22:15
+208104,062WAF28UpColne,Hertfordshire and North London,0,Warning no longer in force,4,2025-02-25 08:11:33,2025-02-25 08:11:00,Hertfordshire,River Colne,51.71518,-0.28398,2025-02-25 12:22:15
+208110,065WAF114,Solent and South Downs,0,Warning no longer in force,4,2025-02-25 09:17:37,2025-02-25 09:17:00,Hampshire,Bartley Water,50.90667,-1.5172,2025-02-25 12:22:15
+208167,061WAF22UpperKen,Thames,0,Flood alert,3,2025-02-25 07:45:30,2025-01-26 18:07:00,"Swindon, West Berkshire, Wiltshire","River Kennet, River Og, River Aldbourne, Froxfield Stream, River Dun, River Shalbourne",51.43469,-1.844,2025-02-25 12:22:15
+208248,061WAF22Lambourn,Thames,0,Flood alert,3,2025-02-25 07:45:19,2025-01-26 14:19:00,West Berkshire,"River Lambourn, Great Shefford Stream, Winterbourne Stream",51.42427,-1.34231,2025-02-25 12:22:15
+208330,111FWFAVOM510,Wessex,0,Flood warning,2,2025-02-25 09:44:51,2025-02-25 09:44:00,"Dorset Council, Hampshire, Wiltshire",Hampshire River Avon,51.03436,-1.75797,2025-02-25 12:22:15
+208346,065WAF422,Solent and South Downs,0,Flood alert,3,2025-02-25 11:14:19,2025-02-23 17:07:00,"Surrey, West Sussex",Loxwood Stream,51.09398,-0.56227,2025-02-25 12:22:15
+208353,065WAF432,Solent and South Downs,0,Flood alert,3,2025-02-25 11:25:45,2025-02-23 17:07:00,West Sussex,Adur,50.97643,-0.3592,2025-02-25 12:22:15
+208360,111WAFAVOM,Wessex,0,Flood alert,3,2025-02-25 09:33:29,2025-02-25 09:33:00,"Dorset Council, Hampshire, Wiltshire",Hampshire River Avon,50.94541,-1.77599,2025-02-25 12:22:15
+208388,061WAF30Cranlgh,Thames,0,Warning no longer in force,4,2025-02-25 13:55:31,2025-02-25 13:55:00,Surrey,"Littlemead Brook, Cranleigh Waters, Hascombe Stream",51.14154,-0.49112,2025-02-25 12:22:15
+208405,051WAFEF6BC,East Anglia,0,Warning no longer in force,4,2025-02-25 09:01:03,2025-02-25 09:00:00,Essex,"River Wid, River Can",51.70373,0.40498,2025-02-25 12:22:15
+208406,065WAF423,Solent and South Downs,0,Flood alert,3,2025-02-25 10:59:27,2025-02-22 08:57:00,"Surrey, West Sussex",Arun,51.04189,-0.4718,2025-02-25 12:22:15
+208423,064WAF8LowMed,"Kent, South London and East Sussex",0,Warning no longer in force,4,2025-02-25 15:42:35,2025-02-25 15:42:00,"Kent, Medway",River Medway,51.29468,0.45715,2025-02-25 12:22:15
+208424,065WAF424,Solent and South Downs,0,Flood alert,3,2025-02-25 12:02:23,2025-02-23 19:57:00,West Sussex,Arun,50.89017,-0.54055,2025-02-25 12:22:15
+208429,065FWF5103,Solent and South Downs,0,Warning no longer in force,4,2025-02-25 12:13:21,2025-02-25 12:13:00,West Sussex,West Sussex River Rother,50.97183,-0.64236,2025-02-25 12:22:15
+208430,062WAF28Colnbrk,Hertfordshire and North London,0,Flood alert,3,2025-02-25 17:02:15,2025-02-24 16:48:00,"Buckinghamshire, Greater London, Hillingdon, Slough, Surrey, Windsor and Maidenhead",Colne Brook,51.4759,-0.53823,2025-02-25 12:22:15
+208431,064WAF8MidMed,"Kent, South London and East Sussex",0,Warning no longer in force,4,2025-02-25 15:48:34,2025-02-25 15:47:00,Kent,River Medway,51.19962,0.32995,2025-02-25 12:22:15
+208432,061WAF26Cut,Thames,0,Flood alert,3,2025-02-25 08:44:00,2025-02-24 16:30:00,"Bracknell Forest, Windsor and Maidenhead",The Cut,51.44299,-0.74725,2025-02-25 12:22:15
+208433,111FAGSPGW,Wessex,0,Flood alert,3,2025-02-25 10:49:53,2024-11-28 08:59:00,"Hampshire, Wiltshire",Groundwater,51.2084,-1.9029,2025-02-25 12:22:15
+208514,061FAG22GtSheff,Thames,0,Flood alert,3,2025-02-25 15:06:26,2024-12-10 13:24:00,West Berkshire,Groundwater,51.49656,-1.43231,2025-02-25 12:22:15
+208595,061FAG22LamVal,Thames,0,Flood alert,3,2025-02-25 15:06:35,2024-12-10 13:23:00,"Oxfordshire, West Berkshire",Groundwater,51.53046,-1.52636,2025-02-25 12:22:15
+208919,061FAG21IlsComp,Thames,0,Flood alert,3,2025-02-25 15:06:14,2024-12-30 11:57:00,West Berkshire,Groundwater,51.52859,-1.28811,2025-02-25 12:22:15
+209243,061FAG23HenAssen,Thames,0,Flood alert,3,2025-02-25 15:06:14,2025-01-21 15:50:00,"Buckinghamshire, Oxfordshire",Groundwater,51.5669,-0.93169,2025-02-25 12:22:15
+209324,111FWGTILL1,Wessex,0,Warning no longer in force,4,2025-02-25 11:00:34,2025-02-25 11:00:00,Wiltshire,Groundwater,51.20078,-1.92429,2025-02-25 12:22:15
+209405,111FWFWYL110,Wessex,0,Warning no longer in force,4,2025-02-25 10:45:23,2025-02-25 10:45:00,Wiltshire,River Wylye,51.15033,-2.21476,2025-02-25 12:22:15
+209406,111FWFWYL120,Wessex,0,Warning no longer in force,4,2025-02-25 10:46:40,2025-02-25 10:46:00,Wiltshire,River Wylye,51.14666,-2.01862,2025-02-25 12:22:15
+209569,111FWGBOU3,Wessex,0,Flood warning,2,2025-02-25 10:55:33,2025-02-03 16:27:00,"Hampshire, Wiltshire",Groundwater,51.14297,-1.71344,2025-02-25 12:22:15
+217418,034WAF428,East Midlands,0,Flood alert,3,2025-02-25 20:04:20,2025-02-23 16:21:00,"Derbyshire, Leicestershire, Nottinghamshire",River Soar,52.79207,-1.21257,2025-02-25 23:00:42
+218226,061WAF30Hoestrm,Thames,0,Warning no longer in force,4,2025-02-25 20:21:33,2025-02-25 20:21:00,Surrey,Hoe Stream,51.29005,-0.59523,2025-02-25 23:00:42
+218762,061WAF26Cut,Thames,0,Warning no longer in force,4,2025-02-25 20:21:28,2025-02-25 20:21:00,"Bracknell Forest, Windsor and Maidenhead",The Cut,51.44299,-0.74725,2025-02-25 23:00:42
+227723,112WAFTUBA,Wessex,0,Flood alert,3,2025-02-26 15:59:36,2025-02-23 18:14:00,"Gloucestershire, South Gloucestershire, Wiltshire",Bristol River Avon,51.53083,-2.05331,2025-02-26 15:31:47
+227742,034WAF428,East Midlands,0,Flood alert,3,2025-02-26 16:01:07,2025-02-23 16:21:00,"Derbyshire, Leicestershire, Nottinghamshire",River Soar,52.79207,-1.21257,2025-02-26 15:31:47
+227752,061WAF10Windrush,Thames,0,Flood alert,3,2025-02-26 08:03:10,2024-11-24 18:30:00,"Gloucestershire, Oxfordshire",River Windrush,51.8284,-1.65082,2025-02-26 15:31:47
+227832,061WAF12Evenlode,Thames,0,Warning no longer in force,4,2025-02-26 08:26:34,2025-02-26 08:26:00,"Gloucestershire, Oxfordshire, Warwickshire","River Evenlode, River Glyme",51.87967,-1.51878,2025-02-26 15:31:47
+227834,061WAF19Thame,Thames,0,Flood alert,3,2025-02-26 08:14:36,2025-02-25 07:04:00,"Buckinghamshire, Hertfordshire, Oxfordshire","River Thame, Horsenden Stream, Chalgrove Brook",51.76251,-0.9771,2025-02-26 15:31:47
+227870,112WAFTSES,Wessex,0,Flood alert,3,2025-02-26 12:02:45,2025-02-20 18:48:00,"Dorset Council, Somerset","River Yeo, River Cam, River Wriggle, Barwick Stream, West Coker Stream",50.90841,-2.59811,2025-02-26 15:31:47
+227987,062WAF28LowColne,Hertfordshire and North London,0,Flood alert,3,2025-02-26 17:55:40,2025-02-24 07:54:00,"Buckinghamshire, Greater London, Hertfordshire, Hillingdon, Slough, Surrey, Windsor and Maidenhead",River Colne,51.52882,-0.49476,2025-02-26 15:31:47
+228029,061WAF10Dikler,Thames,0,Flood alert,3,2025-02-26 08:02:49,2025-02-24 06:45:00,Gloucestershire,River Dikler,51.899,-1.74644,2025-02-26 15:31:47
+228055,033WAF201,West Midlands,0,Flood alert,3,2025-02-26 15:03:43,2025-02-26 15:03:00,"Leicestershire, Warwickshire, West Northamptonshire","Avon, Swift, Claycoton",52.40226,-1.16475,2025-02-26 15:31:47
+228069,061WAF29Chertsey,Thames,0,Flood alert,3,2025-02-26 08:50:18,2025-02-22 07:09:00,"Bracknell Forest, Surrey, Windsor and Maidenhead","Chertsey Bourne, The Moat, Moat",51.40163,-0.54411,2025-02-26 15:31:47
+228142,052WAFTOVE,East Anglia,0,Flood alert,3,2025-02-26 16:21:38,2025-02-26 16:21:00,"Milton Keynes, West Northamptonshire",River Tove,52.11898,-0.95986,2025-02-26 15:31:47
+228150,111WAFSTOU,Wessex,0,Flood alert,3,2025-02-26 14:11:40,2025-02-26 14:11:00,"Dorset Council, Somerset, Wiltshire","River Stour, River Lodden, River Shreen",50.93909,-2.33431,2025-02-26 15:31:47
+228152,061WAF23UpThTrbs,Thames,0,Warning no longer in force,4,2025-02-26 08:26:31,2025-02-26 08:26:00,"Gloucestershire, Wiltshire","Flagham Brook, Swill Brook, Hankerton Brook, Hykemeres Stream, Derry Brook, River Key",51.61711,-1.87391,2025-02-26 15:31:47
+228154,111WAFFROU,Wessex,0,Warning no longer in force,4,2025-02-26 19:11:48,2025-02-26 19:11:00,Dorset Council,"Frome, Hooke, Sydling Water, Cerne",50.75128,-2.50868,2025-02-26 15:31:47
+228184,112WAFTSSR,Wessex,0,Flood alert,3,2025-02-26 10:09:18,2025-02-26 10:08:00,"Dorset Council, Somerset","River Parrett, River Isle",50.96685,-2.85611,2025-02-26 15:31:47
+228190,031WAF116,West Midlands,0,Flood alert,3,2025-02-26 08:21:30,2025-02-23 14:33:00,Herefordshire,River Lugg,52.11056,-2.68563,2025-02-26 15:31:47
+228200,064WAF32MdleMole,"Kent, South London and East Sussex",0,Warning no longer in force,4,2025-02-26 08:20:53,2025-02-26 08:20:00,Surrey,River Mole,51.26756,-0.32897,2025-02-26 15:31:47
+228218,112WAFYPM,Wessex,0,Flood alert,3,2025-02-26 11:31:59,2025-01-24 20:31:00,Somerset,River Yeo,51.01274,-2.81017,2025-02-26 15:31:47
+228299,111WAFCALE,Wessex,0,Warning no longer in force,4,2025-02-26 19:05:49,2025-02-26 19:05:00,"Dorset Council, Somerset",River Cale,51.01262,-2.37685,2025-02-26 15:31:47
+228301,061WAF19BearBrk,Thames,0,Flood alert,3,2025-02-26 10:58:49,2025-02-26 10:58:00,Buckinghamshire,Bear Brook,51.79109,-0.74859,2025-02-26 15:31:47
+228317,112WAFTMBA,Wessex,0,Flood alert,3,2025-02-26 15:47:05,2025-02-23 18:20:00,"Bath and North East Somerset, Wiltshire",Bristol River Avon,51.34434,-2.13772,2025-02-26 15:31:47
+228343,111FWFSTOM710,Wessex,0,Warning no longer in force,4,2025-02-26 19:29:09,2025-02-26 19:28:00,Dorset Council,River Stour,50.89033,-2.21596,2025-02-26 15:31:47
+228345,112WAFTESR,Wessex,0,Flood alert,3,2025-02-26 11:00:40,2025-02-26 10:59:00,Somerset,"River Brue, River Sheppey, North Drain, South Drain",51.19369,-2.82658,2025-02-26 15:31:47
+228347,111FWFSTOM711,Wessex,0,Warning no longer in force,4,2025-02-26 19:28:52,2025-02-26 19:28:00,Dorset Council,River Stour,50.88498,-2.20247,2025-02-26 15:31:47
+228349,064WAF324,"Kent, South London and East Sussex",0,Warning no longer in force,4,2025-02-26 08:20:12,2025-02-26 08:20:00,"Kent, Surrey, West Sussex","Eden, Eden Brook",51.19359,0.04002,2025-02-26 15:31:47
+228351,065WAF451,Solent and South Downs,0,Flood alert,3,2025-02-26 08:52:18,2025-02-23 17:06:00,East Sussex,Cuckmere River,50.85065,0.19718,2025-02-26 15:31:47
+228359,065WAF421,Solent and South Downs,0,Flood alert,3,2025-02-26 08:08:58,2025-02-22 09:54:00,"Hampshire, West Sussex",Western Rother,50.98655,-0.72489,2025-02-26 15:31:47
+228377,113WAFTW07,"Devon, Cornwall and the Isles of Scilly",0,Flood alert,3,2025-02-26 11:02:08,2025-02-26 11:01:00,"Devon, Somerset","River Clyst, River Culm",50.83944,-3.41868,2025-02-26 15:31:47
+228379,031WAF214,West Midlands,0,Flood alert,3,2025-02-26 16:34:32,2025-02-24 11:40:00,"Gloucestershire, Worcestershire",Severn Estuary,51.91768,-2.23172,2025-02-26 15:31:47
+228381,112WAFRYP,Wessex,0,Flood alert,3,2025-02-26 15:12:17,2025-02-26 15:11:00,"Dorset Council, Somerset","River Parrett, River Yeo, Cary, Sowy, Kings Sedgemoor Drain",51.0787,-2.84285,2025-02-26 15:31:47
+228387,061WAF21PangSulm,Thames,0,Flood alert,3,2025-02-26 08:02:57,2025-01-24 13:33:00,"Oxfordshire, West Berkshire","River Pang, Sulham Brook",51.46413,-1.14301,2025-02-26 15:31:47
+228469,065WAF433,Solent and South Downs,0,Flood alert,3,2025-02-26 09:48:31,2025-02-23 17:07:00,"East Sussex, West Sussex",Adur,50.96028,-0.21887,2025-02-26 15:31:47
+228477,065WAF441,Solent and South Downs,0,Flood alert,3,2025-02-26 08:52:06,2025-02-24 10:21:00,"East Sussex, West Sussex",River Ouse,50.97866,-0.00701,2025-02-26 15:31:47
+228481,113WABTW09,"Devon, Cornwall and the Isles of Scilly",0,Flood alert,3,2025-02-26 09:02:38,2025-02-26 09:02:00,"Devon, Dorset Council, Somerset","River Coly, River Yarty, Umborne Brook",50.78851,-3.01594,2025-02-26 15:31:47
+228483,061WAF23BsctKngs,Thames,0,Flood alert,3,2025-02-26 08:21:18,2025-02-25 11:06:00,"Gloucestershire, Oxfordshire",River Thames,51.72269,-1.48132,2025-02-26 15:31:47
+228501,112FWFBRU30A,Wessex,0,Flood warning,2,2025-02-26 16:25:30,2025-02-26 16:25:00,Somerset,"River Brue, Glastonbury Millstream",51.11498,-2.68197,2025-02-26 15:31:47
+228503,061WAF24BlkWater,Thames,0,Flood alert,3,2025-02-26 08:50:00,2025-02-24 06:54:00,"Bracknell Forest, Hampshire, Surrey, Wokingham","River Blackwater, Cove Brook",51.34357,-0.83247,2025-02-26 15:31:47
+228504,112WAFRTC,Wessex,0,Flood alert,3,2025-02-26 12:02:25,2025-02-26 12:01:00,"Devon, Somerset","Hillfarrance Brook, Halsewater Stream, River Tone",51.01079,-3.22163,2025-02-26 15:31:47
+228509,111WAFWDRS,Wessex,0,Warning no longer in force,4,2025-02-26 19:00:40,2025-02-26 19:00:00,"Devon, Dorset Council","River Asker, River Brit, River Bride, River Char, River Lim",50.75397,-2.74036,2025-02-26 15:31:47
+228518,061WAF30UpperWey,Thames,0,Flood alert,3,2025-02-26 08:49:57,2025-02-24 07:47:00,"Hampshire, Surrey, West Sussex",River Wey,51.16408,-0.80601,2025-02-26 15:31:47
+228536,061WAF24LLoddon,Thames,0,Flood alert,3,2025-02-26 08:50:10,2025-02-22 17:28:00,"Windsor and Maidenhead, Wokingham",River Loddon,51.46091,-0.84273,2025-02-26 15:31:47
+228553,031WAF114,West Midlands,0,Flood alert,3,2025-02-26 08:21:43,2025-02-23 14:33:00,Shropshire,"River Severn, River Vyrnwy",52.7687,-2.9956,2025-02-26 15:31:47
+228562,031WAF119,West Midlands,0,Warning no longer in force,4,2025-02-26 08:01:43,2025-02-26 08:01:00,"Gloucestershire, Herefordshire",River Wye,51.94972,-2.62833,2025-02-26 15:31:47
+228571,111WAFNADD,Wessex,0,Flood alert,3,2025-02-26 15:43:26,2025-02-26 15:43:00,Wiltshire,River Nadder,51.07297,-1.91354,2025-02-26 15:31:47
+228572,031WAF120,West Midlands,0,Warning no longer in force,4,2025-02-26 08:01:34,2025-02-26 08:01:00,"Gloucestershire, Herefordshire",River Wye,51.8509,-2.59943,2025-02-26 15:31:47
+228573,111WAFEBBL,Wessex,0,Warning no longer in force,4,2025-02-26 19:03:07,2025-02-26 19:03:00,Wiltshire,Ebble,51.03321,-1.86315,2025-02-26 15:31:47
+228574,011WAFDW,Cumbria and Lancashire,0,Warning no longer in force,4,2025-02-26 09:10:59,2025-02-26 09:10:00,Cumberland,"Derwent, Stonethwaite Beck",54.55941,-3.1482,2025-02-26 15:31:47
+228745,111WAFAVOU,Wessex,0,Flood alert,3,2025-02-26 15:51:33,2025-02-26 15:51:00,Wiltshire,Hampshire River Avon,51.22919,-1.82004,2025-02-26 15:31:47
+228746,111FWFFROU211,Wessex,0,Warning no longer in force,4,2025-02-26 19:11:59,2025-02-26 19:11:00,Dorset Council,Dorset Frome,50.77798,-2.57505,2025-02-26 15:31:47
+228749,111WAFWYLE,Wessex,0,Flood alert,3,2025-02-26 10:54:51,2025-02-26 10:54:00,Wiltshire,Wylye,51.1595,-2.03697,2025-02-26 15:31:47
+228826,061WAF22UpperKen,Thames,0,Flood alert,3,2025-02-26 08:02:30,2025-01-26 18:07:00,"Swindon, West Berkshire, Wiltshire","River Kennet, River Og, River Aldbourne, Froxfield Stream, River Dun, River Shalbourne",51.43469,-1.844,2025-02-26 15:31:47
+228907,061WAF22Lambourn,Thames,0,Flood alert,3,2025-02-26 08:02:17,2025-01-26 14:19:00,West Berkshire,"River Lambourn, Great Shefford Stream, Winterbourne Stream",51.42427,-1.34231,2025-02-26 15:31:47
+228988,111FWFFROL320,Wessex,0,Warning no longer in force,4,2025-02-26 08:59:49,2025-02-26 08:59:00,Dorset Council,Dorset Frome,50.68044,-2.10956,2025-02-26 15:31:47
+229004,111FWFFROL310,Wessex,0,Warning no longer in force,4,2025-02-26 09:01:12,2025-02-26 09:01:00,Dorset Council,Dorset Frome,50.70799,-2.3183,2025-02-26 15:31:47
+229005,065WAF422,Solent and South Downs,0,Flood alert,3,2025-02-26 09:38:44,2025-02-23 17:07:00,"Surrey, West Sussex",Loxwood Stream,51.09398,-0.56227,2025-02-26 15:31:47
+229012,065WAF432,Solent and South Downs,0,Flood alert,3,2025-02-26 09:45:47,2025-02-23 17:07:00,West Sussex,Adur,50.97643,-0.3592,2025-02-26 15:31:47
+229047,065WAF423,Solent and South Downs,0,Flood alert,3,2025-02-26 08:08:48,2025-02-22 08:57:00,"Surrey, West Sussex",Arun,51.04189,-0.4718,2025-02-26 15:31:47
+229064,065WAF424,Solent and South Downs,0,Flood alert,3,2025-02-26 09:42:03,2025-02-23 19:57:00,West Sussex,Arun,50.89017,-0.54055,2025-02-26 15:31:47
+229069,062WAF28Colnbrk,Hertfordshire and North London,0,Flood alert,3,2025-02-26 17:55:33,2025-02-24 16:48:00,"Buckinghamshire, Greater London, Hillingdon, Slough, Surrey, Windsor and Maidenhead",Colne Brook,51.4759,-0.53823,2025-02-26 15:31:47
+229395,062FAGFlamstdGW,Hertfordshire and North London,0,Flood alert,3,2025-02-26 15:20:53,2024-12-19 12:12:00,Hertfordshire,Groundwater,51.81632,-0.44172,2025-02-26 15:31:47
+229476,062FAGKimptonGW,Hertfordshire and North London,0,Flood alert,3,2025-02-26 15:20:50,2024-12-19 12:11:00,Hertfordshire,Groundwater,51.86138,-0.30576,2025-02-26 15:31:47
+229962,111FWFWYL110,Wessex,0,Flood warning,2,2025-02-26 13:28:10,2025-02-26 13:27:00,Wiltshire,River Wylye,51.15033,-2.21476,2025-02-26 15:31:47
+229963,111FWFWYL120,Wessex,0,Flood warning,2,2025-02-26 13:35:33,2025-02-26 13:35:00,Wiltshire,River Wylye,51.14666,-2.01862,2025-02-26 15:31:47
+229964,062WAF47Mimram,Hertfordshire and North London,0,Flood alert,3,2025-02-26 15:20:43,2025-01-29 17:28:00,Hertfordshire,Mimram,51.8234,-0.19101,2025-02-26 15:31:47
+237653,112WAFTUBA,Wessex,0,Warning no longer in force,4,2025-02-27 10:54:34,2025-02-27 10:54:00,"Gloucestershire, South Gloucestershire, Wiltshire",Bristol River Avon,51.53083,-2.05331,2025-02-27 16:33:34
+237672,034WAF428,East Midlands,0,Warning no longer in force,4,2025-02-27 08:30:44,2025-02-27 08:30:00,"Derbyshire, Leicestershire, Nottinghamshire",River Soar,52.79207,-1.21257,2025-02-27 16:33:34
+237682,061WAF10Windrush,Thames,0,Flood alert,3,2025-02-27 09:48:47,2024-11-24 18:30:00,"Gloucestershire, Oxfordshire",River Windrush,51.8284,-1.65082,2025-02-27 16:33:34
+237762,061WAF19Thame,Thames,0,Flood alert,3,2025-02-27 09:47:29,2025-02-25 07:04:00,"Buckinghamshire, Hertfordshire, Oxfordshire","River Thame, Horsenden Stream, Chalgrove Brook",51.76251,-0.9771,2025-02-27 16:33:34
+237798,112WAFTSES,Wessex,0,Warning no longer in force,4,2025-02-27 09:09:52,2025-02-27 09:08:00,"Dorset Council, Somerset","River Yeo, River Cam, River Wriggle, Barwick Stream, West Coker Stream",50.90841,-2.59811,2025-02-27 16:33:34
+237834,111WAFAVOL,Wessex,0,Flood alert,3,2025-02-27 19:29:11,2025-01-23 17:32:00,"Bournemouth, Christchurch and Poole, Dorset Council, Hampshire",Avon,50.79544,-1.78686,2025-02-27 16:33:34
+237915,062WAF28LowColne,Hertfordshire and North London,0,Flood alert,3,2025-02-27 17:53:10,2025-02-24 07:54:00,"Buckinghamshire, Greater London, Hertfordshire, Hillingdon, Slough, Surrey, Windsor and Maidenhead",River Colne,51.52882,-0.49476,2025-02-27 16:33:34
+237957,061WAF10Dikler,Thames,0,Flood alert,3,2025-02-27 09:48:29,2025-02-24 06:45:00,Gloucestershire,River Dikler,51.899,-1.74644,2025-02-27 16:33:34
+237983,033WAF201,West Midlands,0,Warning no longer in force,4,2025-02-27 09:12:49,2025-02-27 09:12:00,"Leicestershire, Warwickshire, West Northamptonshire","Avon, Swift, Claycoton",52.40226,-1.16475,2025-02-27 16:33:34
+237997,061WAF29Chertsey,Thames,0,Flood alert,3,2025-02-27 10:08:17,2025-02-22 07:09:00,"Bracknell Forest, Surrey, Windsor and Maidenhead","Chertsey Bourne, The Moat, Moat",51.40163,-0.54411,2025-02-27 16:33:34
+238070,052WAFTOVE,East Anglia,0,Flood alert,3,2025-02-27 15:53:25,2025-02-26 16:21:00,"Milton Keynes, West Northamptonshire",River Tove,52.11898,-0.95986,2025-02-27 16:33:34
+238078,111WAFSTOU,Wessex,0,Warning no longer in force,4,2025-02-27 18:43:21,2025-02-27 18:43:00,"Dorset Council, Somerset, Wiltshire","River Stour, River Lodden, River Shreen",50.93909,-2.33431,2025-02-27 16:33:34
+238080,111WAFFROL,Wessex,0,Flood alert,3,2025-02-27 19:29:03,2025-02-20 16:57:00,Dorset Council,River Frome,50.69446,-2.26258,2025-02-27 16:33:34
+238106,112WAFTSSR,Wessex,0,Warning no longer in force,4,2025-02-27 09:09:51,2025-02-27 09:07:00,"Dorset Council, Somerset","River Parrett, River Isle",50.96685,-2.85611,2025-02-27 16:33:34
+238112,031WAF116,West Midlands,0,Flood alert,3,2025-02-27 09:12:30,2025-02-23 14:33:00,Herefordshire,River Lugg,52.11056,-2.68563,2025-02-27 16:33:34
+238122,112WAFYPM,Wessex,0,Flood alert,3,2025-02-27 09:38:39,2025-01-24 20:31:00,Somerset,River Yeo,51.01274,-2.81017,2025-02-27 16:33:34
+238203,061WAF19BearBrk,Thames,0,Flood alert,3,2025-02-27 09:45:57,2025-02-26 10:58:00,Buckinghamshire,Bear Brook,51.79109,-0.74859,2025-02-27 16:33:34
+238219,112WAFTMBA,Wessex,0,Flood alert,3,2025-02-27 15:09:34,2025-02-23 18:20:00,"Bath and North East Somerset, Wiltshire",Bristol River Avon,51.34434,-2.13772,2025-02-27 16:33:34
+238245,112WAFTESR,Wessex,0,Flood alert,3,2025-02-27 16:29:03,2025-02-26 10:59:00,Somerset,"River Brue, River Sheppey, North Drain, South Drain",51.19369,-2.82658,2025-02-27 16:33:34
+238247,065WAF451,Solent and South Downs,0,Warning no longer in force,4,2025-02-27 09:48:59,2025-02-27 09:48:00,East Sussex,Cuckmere River,50.85065,0.19718,2025-02-27 16:33:34
+238255,065WAF421,Solent and South Downs,0,Warning no longer in force,4,2025-02-27 08:45:50,2025-02-27 08:45:00,"Hampshire, West Sussex",Western Rother,50.98655,-0.72489,2025-02-27 16:33:34
+238273,113WAFTW07,"Devon, Cornwall and the Isles of Scilly",0,Warning no longer in force,4,2025-02-27 09:49:01,2025-02-27 09:48:00,"Devon, Somerset","River Clyst, River Culm",50.83944,-3.41868,2025-02-27 16:33:34
+238275,031WAF214,West Midlands,0,Flood alert,3,2025-02-27 08:48:03,2025-02-24 11:40:00,"Gloucestershire, Worcestershire",Severn Estuary,51.91768,-2.23172,2025-02-27 16:33:34
+238277,112WAFRYP,Wessex,0,Flood alert,3,2025-02-27 16:31:47,2025-02-26 15:11:00,"Dorset Council, Somerset","River Parrett, River Yeo, Cary, Sowy, Kings Sedgemoor Drain",51.0787,-2.84285,2025-02-27 16:33:34
+238283,061WAF21PangSulm,Thames,0,Flood alert,3,2025-02-27 09:48:30,2025-01-24 13:33:00,"Oxfordshire, West Berkshire","River Pang, Sulham Brook",51.46413,-1.14301,2025-02-27 16:33:34
+238365,065WAF433,Solent and South Downs,0,Warning no longer in force,4,2025-02-27 09:40:41,2025-02-27 09:40:00,"East Sussex, West Sussex",Adur,50.96028,-0.21887,2025-02-27 16:33:34
+238373,065WAF441,Solent and South Downs,0,Warning no longer in force,4,2025-02-27 09:43:49,2025-02-27 09:43:00,"East Sussex, West Sussex",River Ouse,50.97866,-0.00701,2025-02-27 16:33:34
+238375,111WAFSTOM,Wessex,0,Warning no longer in force,4,2025-02-27 18:48:02,2025-02-27 18:47:00,Dorset Council,"River Stour, River Lodden",50.81799,-2.12433,2025-02-27 16:33:34
+238377,113WABTW09,"Devon, Cornwall and the Isles of Scilly",0,Warning no longer in force,4,2025-02-27 09:48:39,2025-02-27 09:48:00,"Devon, Dorset Council, Somerset","River Coly, River Yarty, Umborne Brook",50.78851,-3.01594,2025-02-27 16:33:34
+238379,061WAF23BsctKngs,Thames,0,Flood alert,3,2025-02-27 09:46:56,2025-02-25 11:06:00,"Gloucestershire, Oxfordshire",River Thames,51.72269,-1.48132,2025-02-27 16:33:34
+238397,112FWFBRU30A,Wessex,0,Warning no longer in force,4,2025-02-27 08:48:29,2025-02-27 08:48:00,Somerset,"River Brue, Glastonbury Millstream",51.11498,-2.68197,2025-02-27 16:33:34
+238398,111WAFSTOL,Wessex,0,Warning no longer in force,4,2025-02-27 19:34:21,2025-02-27 19:34:00,"Bournemouth, Christchurch and Poole, Dorset Council, Hampshire","River Allen, River Stour",50.79411,-1.90855,2025-02-27 16:33:34
+238399,061WAF24BlkWater,Thames,0,Flood alert,3,2025-02-27 10:08:00,2025-02-24 06:54:00,"Bracknell Forest, Hampshire, Surrey, Wokingham","River Blackwater, Cove Brook",51.34357,-0.83247,2025-02-27 16:33:34
+238400,112WAFRTC,Wessex,0,Warning no longer in force,4,2025-02-27 08:55:44,2025-02-27 08:55:00,"Devon, Somerset","Hillfarrance Brook, Halsewater Stream, River Tone",51.01079,-3.22163,2025-02-27 16:33:34
+238405,061WAF30UpperWey,Thames,0,Flood alert,3,2025-02-27 10:07:50,2025-02-24 07:47:00,"Hampshire, Surrey, West Sussex",River Wey,51.16408,-0.80601,2025-02-27 16:33:34
+238422,063WAT23West,"Kent, South London and East Sussex",1,Flood alert,3,2025-02-27 18:13:13,2025-02-27 08:31:00,"Greater London, Hammersmith and Fulham, Hounslow, Richmond upon Thames, Wandsworth",River Thames,51.46896,-0.28707,2025-02-27 16:33:34
+238430,061WAF24LLoddon,Thames,0,Flood alert,3,2025-02-27 10:08:10,2025-02-22 17:28:00,"Windsor and Maidenhead, Wokingham",River Loddon,51.46091,-0.84273,2025-02-27 16:33:34
+238447,031WAF114,West Midlands,0,Warning no longer in force,4,2025-02-27 09:12:42,2025-02-27 09:12:00,Shropshire,"River Severn, River Vyrnwy",52.7687,-2.9956,2025-02-27 16:33:34
+238456,111WAFNADD,Wessex,0,Warning no longer in force,4,2025-02-27 18:29:44,2025-02-27 18:29:00,Wiltshire,River Nadder,51.07297,-1.91354,2025-02-27 16:33:34
+238538,111WAFBOU,Wessex,0,Flood alert,3,2025-02-27 19:29:19,2025-01-26 13:38:00,"Hampshire, Wiltshire",River Bourne,51.11638,-1.74306,2025-02-27 16:33:34
+238619,111WAFAVOU,Wessex,0,Warning no longer in force,4,2025-02-27 11:44:39,2025-02-27 11:44:00,Wiltshire,Hampshire River Avon,51.22919,-1.82004,2025-02-27 16:33:34
+238620,111WAFWYLE,Wessex,0,Warning no longer in force,4,2025-02-27 11:44:39,2025-02-27 11:44:00,Wiltshire,Wylye,51.1595,-2.03697,2025-02-27 16:33:34
+238644,111WAFPIDD,Wessex,0,Flood alert,3,2025-02-27 19:28:56,2025-02-21 11:05:00,Dorset Council,"River Piddle, River Trent",50.72881,-2.22205,2025-02-27 16:33:34
+238697,061WAF22UpperKen,Thames,0,Flood alert,3,2025-02-27 09:48:17,2025-01-26 18:07:00,"Swindon, West Berkshire, Wiltshire","River Kennet, River Og, River Aldbourne, Froxfield Stream, River Dun, River Shalbourne",51.43469,-1.844,2025-02-27 16:33:34
+238778,061WAF22Lambourn,Thames,0,Flood alert,3,2025-02-27 09:48:04,2025-01-26 14:19:00,West Berkshire,"River Lambourn, Great Shefford Stream, Winterbourne Stream",51.42427,-1.34231,2025-02-27 16:33:34
+238859,111FWFFROL320,Wessex,0,Warning no longer in force,4,2025-02-27 18:20:50,2025-02-27 18:20:00,Dorset Council,Dorset Frome,50.68044,-2.10956,2025-02-27 16:33:34
+238860,111FWFAVOM510,Wessex,0,Flood warning,2,2025-02-27 19:01:44,2025-02-25 09:44:00,"Dorset Council, Hampshire, Wiltshire",Hampshire River Avon,51.03436,-1.75797,2025-02-27 16:33:34
+238875,065WAF422,Solent and South Downs,0,Warning no longer in force,4,2025-02-27 08:52:01,2025-02-27 08:51:00,"Surrey, West Sussex",Loxwood Stream,51.09398,-0.56227,2025-02-27 16:33:34
+238882,065WAF432,Solent and South Downs,0,Warning no longer in force,4,2025-02-27 09:36:33,2025-02-27 09:36:00,West Sussex,Adur,50.97643,-0.3592,2025-02-27 16:33:34
+238889,111WAFAVOM,Wessex,0,Flood alert,3,2025-02-27 19:01:34,2025-02-25 09:33:00,"Dorset Council, Hampshire, Wiltshire",Hampshire River Avon,50.94541,-1.77599,2025-02-27 16:33:34
+238917,065WAF423,Solent and South Downs,0,Warning no longer in force,4,2025-02-27 08:48:48,2025-02-27 08:48:00,"Surrey, West Sussex",Arun,51.04189,-0.4718,2025-02-27 16:33:34
+238934,065WAF424,Solent and South Downs,0,Warning no longer in force,4,2025-02-27 08:55:16,2025-02-27 08:55:00,West Sussex,Arun,50.89017,-0.54055,2025-02-27 16:33:34
+238939,062WAF28Colnbrk,Hertfordshire and North London,0,Flood alert,3,2025-02-27 17:53:17,2025-02-24 16:48:00,"Buckinghamshire, Greater London, Hillingdon, Slough, Surrey, Windsor and Maidenhead",Colne Brook,51.4759,-0.53823,2025-02-27 16:33:34
+239831,111FWFWYL110,Wessex,0,Warning no longer in force,4,2025-02-27 11:44:51,2025-02-27 11:44:00,Wiltshire,River Wylye,51.15033,-2.21476,2025-02-27 16:33:34
+239832,111FWFWYL120,Wessex,0,Warning no longer in force,4,2025-02-27 11:45:03,2025-02-27 11:44:00,Wiltshire,River Wylye,51.14666,-2.01862,2025-02-27 16:33:34
+247345,061WAF10Windrush,Thames,0,Flood alert,3,2025-02-28 10:24:18,2024-11-24 18:30:00,"Gloucestershire, Oxfordshire",River Windrush,51.8284,-1.65082,2025-02-28 06:23:14
+247425,061WAF19Thame,Thames,0,Flood alert,3,2025-02-28 10:23:25,2025-02-25 07:04:00,"Buckinghamshire, Hertfordshire, Oxfordshire","River Thame, Horsenden Stream, Chalgrove Brook",51.76251,-0.9771,2025-02-28 06:23:14
+247542,062WAF28LowColne,Hertfordshire and North London,0,Flood alert,3,2025-02-28 09:50:41,2025-02-24 07:54:00,"Buckinghamshire, Greater London, Hertfordshire, Hillingdon, Slough, Surrey, Windsor and Maidenhead",River Colne,51.52882,-0.49476,2025-02-28 06:23:14
+247584,061WAF10Dikler,Thames,0,Warning no longer in force,4,2025-02-28 10:09:56,2025-02-28 10:09:00,Gloucestershire,River Dikler,51.899,-1.74644,2025-02-28 06:23:14
+247610,061WAF29Chertsey,Thames,0,Flood alert,3,2025-02-28 09:45:50,2025-02-22 07:09:00,"Bracknell Forest, Surrey, Windsor and Maidenhead","Chertsey Bourne, The Moat, Moat",51.40163,-0.54411,2025-02-28 06:23:14
+247683,052WAFTOVE,East Anglia,0,Warning no longer in force,4,2025-02-28 08:00:00,2025-02-28 07:59:00,"Milton Keynes, West Northamptonshire",River Tove,52.11898,-0.95986,2025-02-28 06:23:14
+247719,031WAF116,West Midlands,0,Flood alert,3,2025-02-28 09:41:34,2025-02-23 14:33:00,Herefordshire,River Lugg,52.11056,-2.68563,2025-02-28 06:23:14
+247810,061WAF19BearBrk,Thames,0,Flood alert,3,2025-02-28 10:22:58,2025-02-26 10:58:00,Buckinghamshire,Bear Brook,51.79109,-0.74859,2025-02-28 06:23:14
+247854,031WAF214,West Midlands,0,Warning no longer in force,4,2025-02-28 09:49:02,2025-02-28 09:48:00,"Gloucestershire, Worcestershire",Severn Estuary,51.91768,-2.23172,2025-02-28 06:23:14
+247862,061WAF21PangSulm,Thames,0,Flood alert,3,2025-02-28 10:24:12,2025-01-24 13:33:00,"Oxfordshire, West Berkshire","River Pang, Sulham Brook",51.46413,-1.14301,2025-02-28 06:23:14
+247946,061WAF23BsctKngs,Thames,0,Flood alert,3,2025-02-28 10:23:14,2025-02-25 11:06:00,"Gloucestershire, Oxfordshire",River Thames,51.72269,-1.48132,2025-02-28 06:23:14
+247965,061WAF24BlkWater,Thames,0,Flood alert,3,2025-02-28 09:45:16,2025-02-24 06:54:00,"Bracknell Forest, Hampshire, Surrey, Wokingham","River Blackwater, Cove Brook",51.34357,-0.83247,2025-02-28 06:23:14
+247966,061WAF30UpperWey,Thames,0,Flood alert,3,2025-02-28 09:45:00,2025-02-24 07:47:00,"Hampshire, Surrey, West Sussex",River Wey,51.16408,-0.80601,2025-02-28 06:23:14
+247983,063WAT23West,"Kent, South London and East Sussex",1,Flood alert,3,2025-02-28 07:30:55,2025-02-27 08:31:00,"Greater London, Hammersmith and Fulham, Hounslow, Richmond upon Thames, Wandsworth",River Thames,51.46896,-0.28707,2025-02-28 06:23:14
+247991,061WAF24LLoddon,Thames,0,Flood alert,3,2025-02-28 09:45:34,2025-02-22 17:28:00,"Windsor and Maidenhead, Wokingham",River Loddon,51.46091,-0.84273,2025-02-28 06:23:14
+248249,061WAF22UpperKen,Thames,0,Flood alert,3,2025-02-28 10:23:48,2025-01-26 18:07:00,"Swindon, West Berkshire, Wiltshire","River Kennet, River Og, River Aldbourne, Froxfield Stream, River Dun, River Shalbourne",51.43469,-1.844,2025-02-28 06:23:14
+248330,061WAF22Lambourn,Thames,0,Flood alert,3,2025-02-28 10:23:45,2025-01-26 14:19:00,West Berkshire,"River Lambourn, Great Shefford Stream, Winterbourne Stream",51.42427,-1.34231,2025-02-28 06:23:14
+248455,062WAF28Colnbrk,Hertfordshire and North London,0,Flood alert,3,2025-02-28 09:50:33,2025-02-24 16:48:00,"Buckinghamshire, Greater London, Hillingdon, Slough, Surrey, Windsor and Maidenhead",Colne Brook,51.4759,-0.53823,2025-02-28 06:23:14
+256449,062WAF28LowColne,Hertfordshire and North London,0,Flood alert,3,2025-02-28 17:17:19,2025-02-24 07:54:00,"Buckinghamshire, Greater London, Hertfordshire, Hillingdon, Slough, Surrey, Windsor and Maidenhead",River Colne,51.52882,-0.49476,2025-02-28 16:08:03
+256634,112WAFYPM,Wessex,0,Flood alert,3,2025-02-28 16:24:27,2025-01-24 20:31:00,Somerset,River Yeo,51.01274,-2.81017,2025-02-28 16:08:03
+256731,112WAFTMBA,Wessex,0,Flood alert,3,2025-02-28 14:20:35,2025-02-23 18:20:00,"Bath and North East Somerset, Wiltshire",Bristol River Avon,51.34434,-2.13772,2025-02-28 16:08:03
+256757,112WAFTESR,Wessex,0,Warning no longer in force,4,2025-02-28 17:06:02,2025-02-28 17:05:00,Somerset,"River Brue, River Sheppey, North Drain, South Drain",51.19369,-2.82658,2025-02-28 16:08:03
+256761,112WAFRYP,Wessex,0,Warning no longer in force,4,2025-02-28 15:28:03,2025-02-28 15:27:00,"Dorset Council, Somerset","River Parrett, River Yeo, Cary, Sowy, Kings Sedgemoor Drain",51.0787,-2.84285,2025-02-28 16:08:03
+257287,111FWFAVOM510,Wessex,0,Warning no longer in force,4,2025-02-28 16:37:47,2025-02-28 16:37:00,"Dorset Council, Hampshire, Wiltshire",Hampshire River Avon,51.03436,-1.75797,2025-02-28 16:08:03
+257302,111WAFAVOM,Wessex,0,Warning no longer in force,4,2025-02-28 16:37:34,2025-02-28 16:37:00,"Dorset Council, Hampshire, Wiltshire",Hampshire River Avon,50.94541,-1.77599,2025-02-28 16:08:03
+257330,062WAF28Colnbrk,Hertfordshire and North London,0,Flood alert,3,2025-02-28 17:17:27,2025-02-24 16:48:00,"Buckinghamshire, Greater London, Hillingdon, Slough, Surrey, Windsor and Maidenhead",Colne Brook,51.4759,-0.53823,2025-02-28 16:08:03
+265301,062WAF28LowColne,Hertfordshire and North London,0,Flood alert,3,2025-03-01 10:03:20,2025-02-24 07:54:00,"Buckinghamshire, Greater London, Hertfordshire, Hillingdon, Slough, Surrey, Windsor and Maidenhead",River Colne,51.52882,-0.49476,2025-03-01 05:44:30
+265343,061WAF29Chertsey,Thames,0,Flood alert,3,2025-03-01 09:24:25,2025-02-22 07:09:00,"Bracknell Forest, Surrey, Windsor and Maidenhead","Chertsey Bourne, The Moat, Moat",51.40163,-0.54411,2025-03-01 05:44:30
+265442,031WAF116,West Midlands,0,Flood alert,3,2025-03-01 08:13:32,2025-02-23 14:33:00,Herefordshire,River Lugg,52.11056,-2.68563,2025-03-01 05:44:30
+265533,061WAF19BearBrk,Thames,0,Warning no longer in force,4,2025-03-01 10:02:39,2025-03-01 10:02:00,Buckinghamshire,Bear Brook,51.79109,-0.74859,2025-03-01 05:44:30
+265665,061WAF23BsctKngs,Thames,0,Warning no longer in force,4,2025-03-01 10:02:50,2025-03-01 10:02:00,"Gloucestershire, Oxfordshire",River Thames,51.72269,-1.48132,2025-03-01 05:44:30
+265683,061WAF24BlkWater,Thames,0,Warning no longer in force,4,2025-03-01 09:25:09,2025-03-01 09:25:00,"Bracknell Forest, Hampshire, Surrey, Wokingham","River Blackwater, Cove Brook",51.34357,-0.83247,2025-03-01 05:44:30
+265684,061WAF30UpperWey,Thames,0,Warning no longer in force,4,2025-03-01 09:25:06,2025-03-01 09:24:00,"Hampshire, Surrey, West Sussex",River Wey,51.16408,-0.80601,2025-03-01 05:44:30
+265701,063WAT23West,"Kent, South London and East Sussex",1,Flood alert,3,2025-03-01 08:47:56,2025-02-27 08:31:00,"Greater London, Hammersmith and Fulham, Hounslow, Richmond upon Thames, Wandsworth",River Thames,51.46896,-0.28707,2025-03-01 05:44:30
+265709,061WAF24LLoddon,Thames,0,Flood alert,3,2025-03-01 09:24:16,2025-02-22 17:28:00,"Windsor and Maidenhead, Wokingham",River Loddon,51.46091,-0.84273,2025-03-01 05:44:30
+266146,062WAF28Colnbrk,Hertfordshire and North London,0,Flood alert,3,2025-03-01 10:03:11,2025-02-24 16:48:00,"Buckinghamshire, Greater London, Hillingdon, Slough, Surrey, Windsor and Maidenhead",Colne Brook,51.4759,-0.53823,2025-03-01 05:44:30
+267281,061WAF10Windrush,Thames,0,Flood alert,3,2025-03-01 11:05:44,2024-11-24 18:30:00,"Gloucestershire, Oxfordshire",River Windrush,51.8284,-1.65082,2025-03-01 06:21:13
+267361,061WAF19Thame,Thames,0,Flood alert,3,2025-03-01 11:05:17,2025-02-25 07:04:00,"Buckinghamshire, Hertfordshire, Oxfordshire","River Thame, Horsenden Stream, Chalgrove Brook",51.76251,-0.9771,2025-03-01 06:21:13
+267726,112WAFTMBA,Wessex,0,Warning no longer in force,4,2025-03-01 11:10:24,2025-03-01 11:10:00,"Bath and North East Somerset, Wiltshire",Bristol River Avon,51.34434,-2.13772,2025-03-01 06:21:13
+267760,061WAF21PangSulm,Thames,0,Flood alert,3,2025-03-01 11:05:57,2025-01-24 13:33:00,"Oxfordshire, West Berkshire","River Pang, Sulham Brook",51.46413,-1.14301,2025-03-01 06:21:13
+268118,061WAF22UpperKen,Thames,0,Flood alert,3,2025-03-01 11:05:33,2025-01-26 18:07:00,"Swindon, West Berkshire, Wiltshire","River Kennet, River Og, River Aldbourne, Froxfield Stream, River Dun, River Shalbourne",51.43469,-1.844,2025-03-01 06:21:13
+268199,061WAF22Lambourn,Thames,0,Flood alert,3,2025-03-01 11:05:23,2025-01-26 14:19:00,West Berkshire,"River Lambourn, Great Shefford Stream, Winterbourne Stream",51.42427,-1.34231,2025-03-01 06:21:13
+273812,061WAF10Windrush,Thames,0,Flood alert,3,2025-03-02 09:14:21,2024-11-24 18:30:00,"Gloucestershire, Oxfordshire",River Windrush,51.8284,-1.65082,2025-03-02 04:48:09
+273892,061WAF19Thame,Thames,0,Flood alert,3,2025-03-02 09:13:52,2025-02-25 07:04:00,"Buckinghamshire, Hertfordshire, Oxfordshire","River Thame, Horsenden Stream, Chalgrove Brook",51.76251,-0.9771,2025-03-02 04:48:09
+274009,062WAF28LowColne,Hertfordshire and North London,0,Flood alert,3,2025-03-02 09:17:08,2025-02-24 07:54:00,"Buckinghamshire, Greater London, Hertfordshire, Hillingdon, Slough, Surrey, Windsor and Maidenhead",River Colne,51.52882,-0.49476,2025-03-02 04:48:09
+274150,031WAF116,West Midlands,0,Warning no longer in force,4,2025-03-01 19:05:52,2025-03-01 19:05:00,Herefordshire,River Lugg,52.11056,-2.68563,2025-03-02 04:48:09
+274160,112WAFYPM,Wessex,0,Flood alert,3,2025-03-01 17:51:28,2025-01-24 20:31:00,Somerset,River Yeo,51.01274,-2.81017,2025-03-02 04:48:09
+274283,061WAF21PangSulm,Thames,0,Flood alert,3,2025-03-02 09:14:35,2025-01-24 13:33:00,"Oxfordshire, West Berkshire","River Pang, Sulham Brook",51.46413,-1.14301,2025-03-02 04:48:09
+274383,063WAT23West,"Kent, South London and East Sussex",1,Flood alert,3,2025-03-02 08:53:18,2025-02-27 08:31:00,"Greater London, Hammersmith and Fulham, Hounslow, Richmond upon Thames, Wandsworth",River Thames,51.46896,-0.28707,2025-03-02 04:48:09
+274391,061WAF24LLoddon,Thames,0,Warning no longer in force,4,2025-03-02 09:16:20,2025-03-02 09:16:00,"Windsor and Maidenhead, Wokingham",River Loddon,51.46091,-0.84273,2025-03-02 04:48:09
+274623,061WAF22UpperKen,Thames,0,Flood alert,3,2025-03-02 09:14:12,2025-01-26 18:07:00,"Swindon, West Berkshire, Wiltshire","River Kennet, River Og, River Aldbourne, Froxfield Stream, River Dun, River Shalbourne",51.43469,-1.844,2025-03-02 04:48:09
+274704,061WAF22Lambourn,Thames,0,Flood alert,3,2025-03-02 09:14:02,2025-01-26 14:19:00,West Berkshire,"River Lambourn, Great Shefford Stream, Winterbourne Stream",51.42427,-1.34231,2025-03-02 04:48:09
+274785,062WAF28Colnbrk,Hertfordshire and North London,0,Warning no longer in force,4,2025-03-01 16:57:14,2025-03-01 16:57:00,"Buckinghamshire, Greater London, Hillingdon, Slough, Surrey, Windsor and Maidenhead",Colne Brook,51.4759,-0.53823,2025-03-02 04:48:09
+276159,061WAF29Chertsey,Thames,0,Flood alert,3,2025-03-02 09:37:47,2025-02-22 07:09:00,"Bracknell Forest, Surrey, Windsor and Maidenhead","Chertsey Bourne, The Moat, Moat",51.40163,-0.54411,2025-03-02 05:24:51
+282116,061WAF10Windrush,Thames,0,Flood alert,3,2025-03-03 10:01:21,2024-11-24 18:30:00,"Gloucestershire, Oxfordshire",River Windrush,51.8284,-1.65082,2025-03-03 05:35:06
+282196,061WAF19Thame,Thames,0,Flood alert,3,2025-03-03 10:00:35,2025-02-25 07:04:00,"Buckinghamshire, Hertfordshire, Oxfordshire","River Thame, Horsenden Stream, Chalgrove Brook",51.76251,-0.9771,2025-03-03 05:35:06
+282232,111WAFAVOL,Wessex,0,Flood alert,3,2025-03-02 11:38:30,2025-01-23 17:32:00,"Bournemouth, Christchurch and Poole, Dorset Council, Hampshire",Avon,50.79544,-1.78686,2025-03-03 05:35:06
+282313,062WAF28LowColne,Hertfordshire and North London,0,Flood alert,3,2025-03-03 10:02:05,2025-02-24 07:54:00,"Buckinghamshire, Greater London, Hertfordshire, Hillingdon, Slough, Surrey, Windsor and Maidenhead",River Colne,51.52882,-0.49476,2025-03-03 05:35:06
+282355,061WAF29Chertsey,Thames,0,Flood alert,3,2025-03-03 09:09:57,2025-02-22 07:09:00,"Bracknell Forest, Surrey, Windsor and Maidenhead","Chertsey Bourne, The Moat, Moat",51.40163,-0.54411,2025-03-03 05:35:06
+282428,111WAFFROL,Wessex,0,Flood alert,3,2025-03-02 11:38:23,2025-02-20 16:57:00,Dorset Council,River Frome,50.69446,-2.26258,2025-03-03 05:35:06
+282454,112WAFYPM,Wessex,0,Warning no longer in force,4,2025-03-03 08:30:47,2025-03-03 08:30:00,Somerset,River Yeo,51.01274,-2.81017,2025-03-03 05:35:06
+282535,061WAF21PangSulm,Thames,0,Flood alert,3,2025-03-03 10:01:09,2025-01-24 13:33:00,"Oxfordshire, West Berkshire","River Pang, Sulham Brook",51.46413,-1.14301,2025-03-03 05:35:06
+282617,063WAT23West,"Kent, South London and East Sussex",1,Flood alert,3,2025-03-03 08:34:06,2025-02-27 08:31:00,"Greater London, Hammersmith and Fulham, Hounslow, Richmond upon Thames, Wandsworth",River Thames,51.46896,-0.28707,2025-03-03 05:35:06
+282706,111WAFBOU,Wessex,0,Flood alert,3,2025-03-02 11:38:38,2025-01-26 13:38:00,"Hampshire, Wiltshire",River Bourne,51.11638,-1.74306,2025-03-03 05:35:06
+282787,111WAFPIDD,Wessex,0,Flood alert,3,2025-03-02 11:38:27,2025-02-21 11:05:00,Dorset Council,"River Piddle, River Trent",50.72881,-2.22205,2025-03-03 05:35:06
+282840,061WAF22UpperKen,Thames,0,Flood alert,3,2025-03-03 10:00:51,2025-01-26 18:07:00,"Swindon, West Berkshire, Wiltshire","River Kennet, River Og, River Aldbourne, Froxfield Stream, River Dun, River Shalbourne",51.43469,-1.844,2025-03-03 05:35:06
+282921,061WAF22Lambourn,Thames,0,Flood alert,3,2025-03-03 10:00:44,2025-01-26 14:19:00,West Berkshire,"River Lambourn, Great Shefford Stream, Winterbourne Stream",51.42427,-1.34231,2025-03-03 05:35:06
+291325,065FAG009,Solent and South Downs,0,Flood alert,3,2025-03-03 17:02:23,2024-12-17 10:50:00,Hampshire,Groundwater,51.16015,-1.15241,2025-03-04 01:35:15
+291649,065FAG006,Solent and South Downs,0,Flood alert,3,2025-03-03 16:56:01,2025-01-20 14:45:00,Hampshire,Groundwater,51.02491,-1.39121,2025-03-04 01:35:15
+291730,065FAG003,Solent and South Downs,0,Flood alert,3,2025-03-03 16:48:03,2025-01-06 10:18:00,"Hampshire, Wiltshire",Groundwater,51.22809,-1.5584,2025-03-04 01:35:15
+291811,065FAG001,Solent and South Downs,0,Flood alert,3,2025-03-03 16:40:54,2025-01-13 14:51:00,Hampshire,Groundwater,51.24617,-1.22369,2025-03-04 01:35:15
+292054,065FAG004,Solent and South Downs,0,Flood alert,3,2025-03-03 16:51:36,2025-02-03 11:30:00,"Hampshire, Wiltshire",Groundwater,51.08458,-1.69604,2025-03-04 01:35:15
+298276,061WAF10Windrush,Thames,0,Flood alert,3,2025-03-04 10:23:14,2024-11-24 18:30:00,"Gloucestershire, Oxfordshire",River Windrush,51.8284,-1.65082,2025-03-05 04:12:43
+298392,111WAFAVOL,Wessex,0,Flood alert,3,2025-03-04 11:53:11,2025-01-23 17:32:00,"Bournemouth, Christchurch and Poole, Dorset Council, Hampshire",Avon,50.79544,-1.78686,2025-03-05 04:12:43
+298473,062WAF28LowColne,Hertfordshire and North London,0,Warning no longer in force,4,2025-03-05 08:39:37,2025-03-05 08:39:00,"Buckinghamshire, Greater London, Hertfordshire, Hillingdon, Slough, Surrey, Windsor and Maidenhead",River Colne,51.52882,-0.49476,2025-03-05 04:12:43
+298515,061WAF29Chertsey,Thames,0,Flood alert,3,2025-03-05 08:56:22,2025-02-22 07:09:00,"Bracknell Forest, Surrey, Windsor and Maidenhead","Chertsey Bourne, The Moat, Moat",51.40163,-0.54411,2025-03-05 04:12:43
+298588,111WAFFROL,Wessex,0,Flood alert,3,2025-03-04 11:52:56,2025-02-20 16:57:00,Dorset Council,River Frome,50.69446,-2.26258,2025-03-05 04:12:43
+298614,061WAF21PangSulm,Thames,0,Flood alert,3,2025-03-04 10:23:21,2025-01-24 13:33:00,"Oxfordshire, West Berkshire","River Pang, Sulham Brook",51.46413,-1.14301,2025-03-05 04:12:43
+298696,063WAT23West,"Kent, South London and East Sussex",1,Warning no longer in force,4,2025-03-05 08:33:19,2025-03-05 08:33:00,"Greater London, Hammersmith and Fulham, Hounslow, Richmond upon Thames, Wandsworth",River Thames,51.46896,-0.28707,2025-03-05 04:12:43
+298704,111FAGCCGW,Wessex,0,Flood alert,3,2025-03-04 11:52:47,2025-01-16 16:31:00,"Dorset Council, Hampshire, Wiltshire",Groundwater,50.94754,-1.97717,2025-03-05 04:12:43
+298785,111WAFBOU,Wessex,0,Flood alert,3,2025-03-04 11:53:19,2025-01-26 13:38:00,"Hampshire, Wiltshire",River Bourne,51.11638,-1.74306,2025-03-05 04:12:43
+298866,111WAFPIDD,Wessex,0,Flood alert,3,2025-03-04 11:53:04,2025-02-21 11:05:00,Dorset Council,"River Piddle, River Trent",50.72881,-2.22205,2025-03-05 04:12:43
+298919,061WAF22UpperKen,Thames,0,Flood alert,3,2025-03-04 10:23:02,2025-01-26 18:07:00,"Swindon, West Berkshire, Wiltshire","River Kennet, River Og, River Aldbourne, Froxfield Stream, River Dun, River Shalbourne",51.43469,-1.844,2025-03-05 04:12:43
+299000,061WAF22Lambourn,Thames,0,Flood alert,3,2025-03-04 10:22:53,2025-01-26 14:19:00,West Berkshire,"River Lambourn, Great Shefford Stream, Winterbourne Stream",51.42427,-1.34231,2025-03-05 04:12:43
+299081,111FAGSPGW,Wessex,0,Flood alert,3,2025-03-04 11:52:52,2024-11-28 08:59:00,"Hampshire, Wiltshire",Groundwater,51.2084,-1.9029,2025-03-05 04:12:43
+299162,061FAG22GtSheff,Thames,0,Flood alert,3,2025-03-04 10:28:20,2024-12-10 13:24:00,West Berkshire,Groundwater,51.49656,-1.43231,2025-03-05 04:12:43
+299243,061FAG22LamVal,Thames,0,Flood alert,3,2025-03-04 10:28:28,2024-12-10 13:23:00,"Oxfordshire, West Berkshire",Groundwater,51.53046,-1.52636,2025-03-05 04:12:43
+299567,061FAG21IlsComp,Thames,0,Flood alert,3,2025-03-04 10:28:06,2024-12-30 11:57:00,West Berkshire,Groundwater,51.52859,-1.28811,2025-03-05 04:12:43
+299891,061FAG23HenAssen,Thames,0,Flood alert,3,2025-03-04 10:28:13,2025-01-21 15:50:00,"Buckinghamshire, Oxfordshire",Groundwater,51.5669,-0.93169,2025-03-05 04:12:43
+300134,111FWGBOU3,Wessex,0,Flood warning,2,2025-03-04 11:52:39,2025-02-03 16:27:00,"Hampshire, Wiltshire",Groundwater,51.14297,-1.71344,2025-03-05 04:12:43
+300215,061WAF10Windrush,Thames,0,Flood alert,3,2025-03-05 09:27:13,2024-11-24 18:30:00,"Gloucestershire, Oxfordshire",River Windrush,51.8284,-1.65082,2025-03-05 04:48:26
+300295,061WAF19Thame,Thames,0,Warning no longer in force,4,2025-03-05 09:26:37,2025-03-05 09:26:00,"Buckinghamshire, Hertfordshire, Oxfordshire","River Thame, Horsenden Stream, Chalgrove Brook",51.76251,-0.9771,2025-03-05 04:48:26
+300553,061WAF21PangSulm,Thames,0,Flood alert,3,2025-03-05 09:27:10,2025-01-24 13:33:00,"Oxfordshire, West Berkshire","River Pang, Sulham Brook",51.46413,-1.14301,2025-03-05 04:48:26
+300858,061WAF22UpperKen,Thames,0,Flood alert,3,2025-03-05 09:26:46,2025-01-26 18:07:00,"Swindon, West Berkshire, Wiltshire","River Kennet, River Og, River Aldbourne, Froxfield Stream, River Dun, River Shalbourne",51.43469,-1.844,2025-03-05 04:48:26
+300939,061WAF22Lambourn,Thames,0,Flood alert,3,2025-03-05 09:26:43,2025-01-26 14:19:00,West Berkshire,"River Lambourn, Great Shefford Stream, Winterbourne Stream",51.42427,-1.34231,2025-03-05 04:48:26
+306193,061WAF29Chertsey,Thames,0,Flood alert,3,2025-03-06 09:23:53,2025-02-22 07:09:00,"Bracknell Forest, Surrey, Windsor and Maidenhead","Chertsey Bourne, The Moat, Moat",51.40163,-0.54411,2025-03-06 07:31:12
+307075,062FAGFlamstdGW,Hertfordshire and North London,0,Flood alert,3,2025-03-05 16:42:27,2024-12-19 12:12:00,Hertfordshire,Groundwater,51.81632,-0.44172,2025-03-06 07:31:12
+307156,062FAGKimptonGW,Hertfordshire and North London,0,Flood alert,3,2025-03-05 16:38:48,2024-12-19 12:11:00,Hertfordshire,Groundwater,51.86138,-0.30576,2025-03-06 07:31:12
+307642,062WAF47Mimram,Hertfordshire and North London,0,Flood alert,3,2025-03-05 14:46:22,2025-01-29 17:28:00,Hertfordshire,Mimram,51.8234,-0.19101,2025-03-06 07:31:12
+313605,061WAF29Chertsey,Thames,0,Warning no longer in force,4,2025-03-07 08:34:14,2025-03-07 08:34:00,"Bracknell Forest, Surrey, Windsor and Maidenhead","Chertsey Bourne, The Moat, Moat",51.40163,-0.54411,2025-03-07 04:32:16
+319083,111WAFAVOL,Wessex,0,Flood alert,3,2025-03-07 10:49:52,2025-01-23 17:32:00,"Bournemouth, Christchurch and Poole, Dorset Council, Hampshire",Avon,50.79544,-1.78686,2025-03-07 06:11:02
+319237,111WAFFROL,Wessex,0,Warning no longer in force,4,2025-03-07 10:49:58,2025-03-07 10:49:00,Dorset Council,River Frome,50.69446,-2.26258,2025-03-07 06:11:02
+319426,111WAFBOU,Wessex,0,Flood alert,3,2025-03-07 10:49:38,2025-01-26 13:38:00,"Hampshire, Wiltshire",River Bourne,51.11638,-1.74306,2025-03-07 06:11:02
+319507,111WAFPIDD,Wessex,0,Flood alert,3,2025-03-07 10:49:44,2025-02-21 11:05:00,Dorset Council,"River Piddle, River Trent",50.72881,-2.22205,2025-03-07 06:11:02
+321099,111FAGWDGW,Wessex,0,Flood alert,3,2025-03-07 12:14:54,2025-03-07 12:14:00,Dorset Council,Groundwater,50.76313,-2.37422,2025-03-08 07:22:58
+329946,111WAFAVOL,Wessex,0,Flood alert,3,2025-03-09 12:16:57,2025-01-23 17:32:00,"Bournemouth, Christchurch and Poole, Dorset Council, Hampshire",Avon,50.79544,-1.78686,2025-03-09 08:51:46
+330238,111WAFBOU,Wessex,0,Flood alert,3,2025-03-09 12:16:51,2025-01-26 13:38:00,"Hampshire, Wiltshire",River Bourne,51.11638,-1.74306,2025-03-09 08:51:46
+330319,111WAFPIDD,Wessex,0,Flood alert,3,2025-03-09 12:17:05,2025-02-21 11:05:00,Dorset Council,"River Piddle, River Trent",50.72881,-2.22205,2025-03-09 08:51:46
+336294,031WAT122,West Midlands,1,Flood alert,3,2025-02-28 16:01:05,2025-02-28 16:00:00,Gloucestershire,Wye Estuary,51.69981,-2.66784,2025-02-28 16:08:03
+336434,031WAT122,West Midlands,1,Flood alert,3,2025-03-01 12:19:07,2025-02-28 16:00:00,Gloucestershire,Wye Estuary,51.69981,-2.66784,2025-03-01 07:43:16
+336534,031WAT122,West Midlands,1,Flood alert,3,2025-03-02 13:04:28,2025-02-28 16:00:00,Gloucestershire,Wye Estuary,51.69981,-2.66784,2025-03-03 05:35:06
+336614,031WAT122,West Midlands,1,Warning no longer in force,4,2025-03-03 14:07:28,2025-03-03 14:07:00,Gloucestershire,Wye Estuary,51.69981,-2.66784,2025-03-04 01:35:15
+336634,122WAT957,Yorkshire,1,Flood alert,3,2025-03-03 21:35:11,2025-03-03 12:36:00,East Riding of Yorkshire,"Humber Estuary, Winestead Drain",53.64361,0.07667,2025-03-04 01:35:15
+337386,052WAFLOCAM,East Anglia,0,Warning no longer in force,4,2025-02-25 17:06:07,2025-02-25 17:05:00,Cambridgeshire,River Cam,52.18939,0.11392,2025-02-25 12:22:15
+337930,052WAFLOCAM,East Anglia,0,Flood alert,3,2025-02-26 16:21:59,2025-02-26 16:21:00,Cambridgeshire,River Cam,52.18939,0.11392,2025-02-26 15:31:47
+338134,052WAFLOCAM,East Anglia,0,Flood alert,3,2025-02-27 15:53:30,2025-02-26 16:21:00,Cambridgeshire,River Cam,52.18939,0.11392,2025-02-27 16:33:34
+338315,052WAFLOCAM,East Anglia,0,Flood alert,3,2025-02-28 08:10:52,2025-02-26 16:21:00,Cambridgeshire,River Cam,52.18939,0.11392,2025-02-28 06:23:14
+338427,052WAFLOCAM,East Anglia,0,Flood alert,3,2025-02-28 15:50:39,2025-02-26 16:21:00,Cambridgeshire,River Cam,52.18939,0.11392,2025-02-28 16:08:03
+338539,052WAFLOCAM,East Anglia,0,Warning no longer in force,4,2025-03-01 09:05:46,2025-03-01 09:03:00,Cambridgeshire,River Cam,52.18939,0.11392,2025-03-01 05:44:30
+338891,114WACT1T1BA00,"Devon, Cornwall and the Isles of Scilly",1,Flood alert,3,2025-03-01 13:02:30,2025-03-01 13:02:00,Cornwall,South Cornwall Coast,50.35387,-4.70175,2025-03-02 04:48:09
+338927,114WACT1T1BA00,"Devon, Cornwall and the Isles of Scilly",1,Flood alert,3,2025-03-02 11:21:53,2025-03-01 13:02:00,Cornwall,South Cornwall Coast,50.35387,-4.70175,2025-03-02 06:38:46
+338951,114WACT1T1BA00,"Devon, Cornwall and the Isles of Scilly",1,Warning no longer in force,4,2025-03-03 11:00:45,2025-03-03 11:00:00,Cornwall,South Cornwall Coast,50.35387,-4.70175,2025-03-03 06:10:35
+339649,111FWFBRT150,Wessex,0,Warning no longer in force,4,2025-02-26 19:00:52,2025-02-26 19:00:00,Dorset Council,River Brit,50.71347,-2.76221,2025-02-26 15:31:47
+339993,061FWF30Woking,Thames,0,Flood warning,2,2025-02-24 21:23:33,2025-02-24 21:23:00,Surrey,Hoe Stream,51.30979,-0.52711,2025-02-24 17:10:36
+340133,061FWF30Woking,Thames,0,Warning no longer in force,4,2025-02-25 09:59:47,2025-02-25 09:59:00,Surrey,Hoe Stream,51.30979,-0.52711,2025-02-25 12:22:15
+340342,122WAT962,Yorkshire,1,Flood alert,3,2025-03-01 11:43:01,2025-03-01 11:42:00,East Riding of Yorkshire,The Humber,53.72714,-0.61369,2025-03-01 07:02:48
+340354,122WAT962,Yorkshire,1,Warning no longer in force,4,2025-03-01 20:31:07,2025-03-01 20:30:00,East Riding of Yorkshire,The Humber,53.72714,-0.61369,2025-03-02 04:48:09
+342521,052WAFIVEL,East Anglia,0,Warning no longer in force,4,2025-02-27 14:28:22,2025-02-27 14:28:00,"Cambridgeshire, Central Bedfordshire, Hertfordshire",River Ivel,52.07809,-0.31011,2025-02-27 16:33:34
+345560,012WACHC,Cumbria and Lancashire,1,Flood alert,3,2025-03-01 07:57:49,2025-03-01 07:57:00,Lancashire,Irish Sea,53.96197,-2.85287,2025-03-01 05:44:30
+345736,012WACHC,Cumbria and Lancashire,1,Flood alert,3,2025-03-02 08:19:48,2025-03-01 07:57:00,Lancashire,Irish Sea,53.96197,-2.85287,2025-03-02 04:48:09
+345800,012WACHC,Cumbria and Lancashire,1,Flood alert,3,2025-03-03 08:16:49,2025-03-01 07:57:00,Lancashire,Irish Sea,53.96197,-2.85287,2025-03-03 05:35:06
+345864,012WACHC,Cumbria and Lancashire,1,Warning no longer in force,4,2025-03-03 15:40:17,2025-03-03 15:40:00,Lancashire,Irish Sea,53.96197,-2.85287,2025-03-04 01:35:15
+352524,052WAFRISELEYB,East Anglia,0,Flood alert,3,2025-02-26 16:18:48,2025-02-26 16:18:00,"Bedford, Cambridgeshire",Riseley Brook,52.27263,-0.41898,2025-02-26 15:31:47
+352844,052WAFRISELEYB,East Anglia,0,Warning no longer in force,4,2025-02-27 14:28:02,2025-02-27 14:27:00,"Bedford, Cambridgeshire",Riseley Brook,52.27263,-0.41898,2025-02-27 16:33:34
+356871,065FAG011,Solent and South Downs,0,Flood alert,3,2025-03-06 10:59:02,2025-03-06 10:58:00,Hampshire,Groundwater,51.01751,-1.31688,2025-03-06 07:31:12
+363978,061WAF23WallGor,Thames,0,Flood alert,3,2025-02-26 11:00:39,2025-02-26 10:58:00,"Oxfordshire, West Berkshire","River Thames, Lady Brook, Ewelme Stream, Mill Brook, West Hagbourne Stream, Hakkas Brook, Cholsey Brook, Kibble Ditch",51.58915,-1.135,2025-02-26 15:31:47
+363986,052WAFRHEE,East Anglia,0,Flood alert,3,2025-02-26 16:18:49,2025-02-26 16:18:00,"Cambridgeshire, Central Bedfordshire, Hertfordshire",River Rhee,52.0979,-0.05706,2025-02-26 15:31:47
+364362,061WAF23WallGor,Thames,0,Warning no longer in force,4,2025-02-27 09:30:04,2025-02-27 09:29:00,"Oxfordshire, West Berkshire","River Thames, Lady Brook, Ewelme Stream, Mill Brook, West Hagbourne Stream, Hakkas Brook, Cholsey Brook, Kibble Ditch",51.58915,-1.135,2025-02-27 16:33:34
+364370,052WAFRHEE,East Anglia,0,Flood alert,3,2025-02-27 15:41:15,2025-02-26 16:18:00,"Cambridgeshire, Central Bedfordshire, Hertfordshire",River Rhee,52.0979,-0.05706,2025-02-27 16:33:34
+364746,052WAFRHEE,East Anglia,0,Flood alert,3,2025-02-28 08:11:03,2025-02-26 16:18:00,"Cambridgeshire, Central Bedfordshire, Hertfordshire",River Rhee,52.0979,-0.05706,2025-02-28 06:23:14
+365098,052WAFRHEE,East Anglia,0,Flood alert,3,2025-02-28 15:49:28,2025-02-26 16:18:00,"Cambridgeshire, Central Bedfordshire, Hertfordshire",River Rhee,52.0979,-0.05706,2025-02-28 16:08:03
+365450,052WAFRHEE,East Anglia,0,Warning no longer in force,4,2025-03-01 09:05:47,2025-03-01 09:04:00,"Cambridgeshire, Central Bedfordshire, Hertfordshire",River Rhee,52.0979,-0.05706,2025-03-01 05:44:30
+374544,061WAF23Abingdon,Thames,0,Flood alert,3,2025-02-26 12:40:46,2025-02-26 12:40:00,Oxfordshire,River Thames,51.65324,-1.23758,2025-02-26 15:31:47
+374896,061WAF23Abingdon,Thames,0,Flood alert,3,2025-02-27 09:45:58,2025-02-26 12:40:00,Oxfordshire,River Thames,51.65324,-1.23758,2025-02-27 16:33:34
+375248,061WAF23Abingdon,Thames,0,Flood alert,3,2025-02-28 10:22:49,2025-02-26 12:40:00,Oxfordshire,River Thames,51.65324,-1.23758,2025-02-28 06:23:14
+375952,061WAF23Abingdon,Thames,0,Warning no longer in force,4,2025-03-01 10:02:38,2025-03-01 10:02:00,Oxfordshire,River Thames,51.65324,-1.23758,2025-03-01 05:44:30
+375973,012WATWE,Cumbria and Lancashire,1,Flood alert,3,2025-03-01 07:49:28,2025-03-01 07:49:00,Lancashire,Wyre Estuary,53.8766,-2.98009,2025-03-01 05:44:30
+376389,012WATWE,Cumbria and Lancashire,1,Flood alert,3,2025-03-02 08:25:05,2025-03-01 07:49:00,Lancashire,Wyre Estuary,53.8766,-2.98009,2025-03-02 04:48:09
+376721,012WATWE,Cumbria and Lancashire,1,Flood alert,3,2025-03-03 08:21:05,2025-03-01 07:49:00,Lancashire,Wyre Estuary,53.8766,-2.98009,2025-03-03 05:35:06
+377053,012WATWE,Cumbria and Lancashire,1,Warning no longer in force,4,2025-03-03 15:41:58,2025-03-03 15:41:00,Lancashire,Wyre Estuary,53.8766,-2.98009,2025-03-04 01:35:15
+397329,061WAF23CalcLech,Thames,0,Flood alert,3,2025-02-24 20:50:19,2025-02-24 20:50:00,"Gloucestershire, Oxfordshire, Swindon, Wiltshire","River Thames, Blunsdon Brook, Water Eaton Brook, Marston Meysey Brook, Share Ditch, Bydemill Brook, Westrop Brook, Downington Brook",51.66236,-1.77349,2025-02-24 16:18:44
+397959,061WAF23CalcLech,Thames,0,Flood alert,3,2025-02-25 07:45:05,2025-02-24 20:50:00,"Gloucestershire, Oxfordshire, Swindon, Wiltshire","River Thames, Blunsdon Brook, Water Eaton Brook, Marston Meysey Brook, Share Ditch, Bydemill Brook, Westrop Brook, Downington Brook",51.66236,-1.77349,2025-02-25 12:22:15
+398743,061WAF23CalcLech,Thames,0,Flood alert,3,2025-02-26 08:08:28,2025-02-24 20:50:00,"Gloucestershire, Oxfordshire, Swindon, Wiltshire","River Thames, Blunsdon Brook, Water Eaton Brook, Marston Meysey Brook, Share Ditch, Bydemill Brook, Westrop Brook, Downington Brook",51.66236,-1.77349,2025-02-26 15:31:47
+399135,061WAF23CalcLech,Thames,0,Flood alert,3,2025-02-27 09:46:43,2025-02-24 20:50:00,"Gloucestershire, Oxfordshire, Swindon, Wiltshire","River Thames, Blunsdon Brook, Water Eaton Brook, Marston Meysey Brook, Share Ditch, Bydemill Brook, Westrop Brook, Downington Brook",51.66236,-1.77349,2025-02-27 16:33:34
+399527,061WAF23CalcLech,Thames,0,Flood alert,3,2025-02-28 10:23:16,2025-02-24 20:50:00,"Gloucestershire, Oxfordshire, Swindon, Wiltshire","River Thames, Blunsdon Brook, Water Eaton Brook, Marston Meysey Brook, Share Ditch, Bydemill Brook, Westrop Brook, Downington Brook",51.66236,-1.77349,2025-02-28 06:23:14
+400127,061WAF23CalcLech,Thames,0,Warning no longer in force,4,2025-03-01 10:03:00,2025-03-01 10:02:00,"Gloucestershire, Oxfordshire, Swindon, Wiltshire","River Thames, Blunsdon Brook, Water Eaton Brook, Marston Meysey Brook, Share Ditch, Bydemill Brook, Westrop Brook, Downington Brook",51.66236,-1.77349,2025-03-01 05:44:30
+401238,062WAB36TidCrane,Hertfordshire and North London,0,Warning no longer in force,4,2025-02-27 17:53:20,2025-02-27 17:53:00,"Greater London, Hounslow, Richmond upon Thames",River Crane,51.46332,-0.32499,2025-02-27 16:33:34
+415259,052WAFBOURN,East Anglia,0,Flood alert,3,2025-02-26 16:19:20,2025-02-26 16:19:00,Cambridgeshire,Bourn Brook,52.18203,-0.01634,2025-02-26 15:31:47
+415438,052WAFBOURN,East Anglia,0,Warning no longer in force,4,2025-02-27 14:28:14,2025-02-27 14:28:00,Cambridgeshire,Bourn Brook,52.18203,-0.01634,2025-02-27 16:33:34
+415579,113WACT2A,"Devon, Cornwall and the Isles of Scilly",1,Flood alert,3,2025-02-28 12:25:20,2025-02-28 12:25:00,Devon,Bristol Channel,51.07162,-4.1577,2025-02-28 07:45:31
+415977,113WACT2A,"Devon, Cornwall and the Isles of Scilly",1,Warning no longer in force,4,2025-03-03 11:42:28,2025-03-03 11:42:00,Devon,Bristol Channel,51.07162,-4.1577,2025-03-03 07:26:37
+423206,111FWFBRT120,Wessex,0,Warning no longer in force,4,2025-02-26 19:01:05,2025-02-26 19:00:00,Dorset Council,River Brit,50.78744,-2.7502,2025-02-26 15:31:47
+435924,114WACT1T1CA00,"Devon, Cornwall and the Isles of Scilly",1,Flood alert,3,2025-03-01 13:15:50,2025-03-01 13:15:00,Cornwall,South Cornwall Coast,50.3715,-4.45951,2025-03-02 04:48:09
+436164,114WACT1T1CA00,"Devon, Cornwall and the Isles of Scilly",1,Flood alert,3,2025-03-02 11:24:37,2025-03-01 13:15:00,Cornwall,South Cornwall Coast,50.3715,-4.45951,2025-03-02 06:38:46
+436324,114WACT1T1CA00,"Devon, Cornwall and the Isles of Scilly",1,Warning no longer in force,4,2025-03-03 11:00:35,2025-03-03 11:00:00,Cornwall,South Cornwall Coast,50.3715,-4.45951,2025-03-03 06:10:35
+442216,111FWFSTOL800,Wessex,0,Flood warning,2,2025-02-24 21:02:18,2025-02-24 21:02:00,"Bournemouth, Christchurch and Poole, Dorset Council",River Stour,50.7728,-1.88091,2025-02-24 16:18:44
+444430,111FWFSTOL800,Wessex,0,Warning no longer in force,4,2025-02-27 18:20:31,2025-02-27 18:20:00,"Bournemouth, Christchurch and Poole, Dorset Council",River Stour,50.7728,-1.88091,2025-02-27 16:33:34
+457245,061WAF14LChrwell,Thames,0,Flood alert,3,2025-02-26 13:49:50,2025-02-26 13:49:00,Oxfordshire,"River Cherwell, Woodeaton Brook, Bayswater Brook, Marston Brook, Peasmoor Brook",51.82472,-1.26471,2025-02-26 15:31:47
+457437,061WAF14LChrwell,Thames,0,Flood alert,3,2025-02-27 09:45:24,2025-02-26 13:49:00,Oxfordshire,"River Cherwell, Woodeaton Brook, Bayswater Brook, Marston Brook, Peasmoor Brook",51.82472,-1.26471,2025-02-27 16:33:34
+457629,061WAF14LChrwell,Thames,0,Flood alert,3,2025-02-28 10:22:44,2025-02-26 13:49:00,Oxfordshire,"River Cherwell, Woodeaton Brook, Bayswater Brook, Marston Brook, Peasmoor Brook",51.82472,-1.26471,2025-02-28 06:23:14
+457845,061WAF14LChrwell,Thames,0,Flood alert,3,2025-03-01 11:05:05,2025-02-26 13:49:00,Oxfordshire,"River Cherwell, Woodeaton Brook, Bayswater Brook, Marston Brook, Peasmoor Brook",51.82472,-1.26471,2025-03-01 06:21:13
+457917,061WAF14LChrwell,Thames,0,Warning no longer in force,4,2025-03-02 08:49:59,2025-03-02 08:49:00,Oxfordshire,"River Cherwell, Woodeaton Brook, Bayswater Brook, Marston Brook, Peasmoor Brook",51.82472,-1.26471,2025-03-02 04:48:09
+459929,054WATBT1,East Anglia,1,Warning no longer in force,4,2025-03-03 09:38:29,2025-03-03 09:38:00,Norfolk,"Bure, Ant, Thurne",52.70167,1.56221,2025-03-03 05:35:06
+460025,054WATBT1,East Anglia,1,Flood alert,3,2025-03-03 16:15:14,2025-03-03 16:14:00,Norfolk,"Bure, Ant, Thurne",52.70167,1.56221,2025-03-04 01:35:15
+460121,054WATBT1,East Anglia,1,Flood alert,3,2025-03-04 12:00:31,2025-03-04 12:00:00,Norfolk,"Bure, Ant, Thurne",52.70167,1.56221,2025-03-05 04:12:43
+460145,054WATBT1,East Anglia,1,Warning no longer in force,4,2025-03-05 09:16:47,2025-03-05 09:16:00,Norfolk,"Bure, Ant, Thurne",52.70167,1.56221,2025-03-05 04:48:26
+460217,054WATBT1,East Anglia,1,Flood alert,3,2025-03-05 16:21:26,2025-03-05 16:21:00,Norfolk,"Bure, Ant, Thurne",52.70167,1.56221,2025-03-06 07:31:12
+460241,065FAG010,Solent and South Downs,0,Flood alert,3,2025-03-06 10:59:43,2025-03-06 10:59:00,Hampshire,Groundwater,51.05015,-1.15091,2025-03-06 07:31:12
+460257,054WATBT1,East Anglia,1,Flood alert,3,2025-03-06 12:42:53,2025-03-05 16:21:00,Norfolk,"Bure, Ant, Thurne",52.70167,1.56221,2025-03-06 08:05:53
+460537,054WATBT1,East Anglia,1,Warning no longer in force,4,2025-03-08 11:11:04,2025-03-08 11:10:00,Norfolk,"Bure, Ant, Thurne",52.70167,1.56221,2025-03-08 07:22:58
+462005,061WAF29Addstne,Thames,0,Flood alert,3,2025-02-25 08:14:55,2025-02-25 08:14:00,"Bracknell Forest, Surrey","Windle Brook, Hale Bourne, Mill Bourne, Addlestone Bourne",51.34813,-0.58896,2025-02-25 12:22:15
+462629,061WAF29Addstne,Thames,0,Flood alert,3,2025-02-26 08:49:51,2025-02-25 08:14:00,"Bracknell Forest, Surrey","Windle Brook, Hale Bourne, Mill Bourne, Addlestone Bourne",51.34813,-0.58896,2025-02-26 15:31:47
+462891,052WAFHFW,East Anglia,0,Flood alert,3,2025-02-27 17:02:48,2025-02-27 17:02:00,"Cambridgeshire, Norfolk","Old Bedford River, New Bedford River, Hundred Foot Drain, River Delph",52.47542,0.20182,2025-02-27 16:33:34
+462948,061WAF29Addstne,Thames,0,Flood alert,3,2025-02-27 10:08:00,2025-02-25 08:14:00,"Bracknell Forest, Surrey","Windle Brook, Hale Bourne, Mill Bourne, Addlestone Bourne",51.34813,-0.58896,2025-02-27 16:33:34
+463231,052WAFHFW,East Anglia,0,Flood alert,3,2025-02-28 07:35:49,2025-02-27 17:02:00,"Cambridgeshire, Norfolk","Old Bedford River, New Bedford River, Hundred Foot Drain, River Delph",52.47542,0.20182,2025-02-28 06:23:14
+463288,061WAF29Addstne,Thames,0,Flood alert,3,2025-02-28 09:45:01,2025-02-25 08:14:00,"Bracknell Forest, Surrey","Windle Brook, Hale Bourne, Mill Bourne, Addlestone Bourne",51.34813,-0.58896,2025-02-28 06:23:14
+463571,052WAFHFW,East Anglia,0,Flood alert,3,2025-02-28 15:45:04,2025-02-27 17:02:00,"Cambridgeshire, Norfolk","Old Bedford River, New Bedford River, Hundred Foot Drain, River Delph",52.47542,0.20182,2025-02-28 16:08:03
+463911,052WAFHFW,East Anglia,0,Flood alert,3,2025-03-01 07:37:46,2025-02-27 17:02:00,"Cambridgeshire, Norfolk","Old Bedford River, New Bedford River, Hundred Foot Drain, River Delph",52.47542,0.20182,2025-03-01 05:44:30
+463937,061WAF29Addstne,Thames,0,Warning no longer in force,4,2025-03-01 09:24:56,2025-03-01 09:24:00,"Bracknell Forest, Surrey","Windle Brook, Hale Bourne, Mill Bourne, Addlestone Bourne",51.34813,-0.58896,2025-03-01 05:44:30
+464127,052WAFHFW,East Anglia,0,Flood alert,3,2025-03-02 07:32:31,2025-02-27 17:02:00,"Cambridgeshire, Norfolk","Old Bedford River, New Bedford River, Hundred Foot Drain, River Delph",52.47542,0.20182,2025-03-02 04:48:09
+464231,052WAFHFW,East Anglia,0,Warning no longer in force,4,2025-03-03 07:30:44,2025-03-03 07:30:00,"Cambridgeshire, Norfolk","Old Bedford River, New Bedford River, Hundred Foot Drain, River Delph",52.47542,0.20182,2025-03-03 05:35:06
+465477,111FWFBRT110,Wessex,0,Warning no longer in force,4,2025-02-26 19:01:18,2025-02-26 19:01:00,Dorset Council,River Brit,50.80985,-2.72496,2025-02-26 15:31:47
+465509,061WAF23HenMed,Thames,0,Flood alert,3,2025-02-26 13:30:35,2025-02-26 13:30:00,"Buckinghamshire, Oxfordshire, Windsor and Maidenhead, Wokingham","River Thames, Assendon Stream, Hambledon Brook",51.54875,-0.87291,2025-02-26 15:31:47
+465818,061WAF23HenMed,Thames,0,Flood alert,3,2025-02-27 10:07:11,2025-02-26 13:30:00,"Buckinghamshire, Oxfordshire, Windsor and Maidenhead, Wokingham","River Thames, Assendon Stream, Hambledon Brook",51.54875,-0.87291,2025-02-27 16:33:34
+466058,061WAF23HenMed,Thames,0,Flood alert,3,2025-02-28 09:44:11,2025-02-26 13:30:00,"Buckinghamshire, Oxfordshire, Windsor and Maidenhead, Wokingham","River Thames, Assendon Stream, Hambledon Brook",51.54875,-0.87291,2025-02-28 06:23:14
+466270,031WAT217,West Midlands,1,Flood alert,3,2025-02-28 16:01:13,2025-02-28 16:00:00,Gloucestershire,Severn Estuary,51.69439,-2.56551,2025-02-28 16:08:03
+466478,011WACN6,Cumbria and Lancashire,1,Flood alert,3,2025-03-01 07:48:14,2025-03-01 07:47:00,"Lancashire, Westmorland and Furness",Irish Sea,54.20247,-2.91313,2025-03-01 05:44:30
+466518,061WAF23HenMed,Thames,0,Flood alert,3,2025-03-01 09:23:58,2025-02-26 13:30:00,"Buckinghamshire, Oxfordshire, Windsor and Maidenhead, Wokingham","River Thames, Assendon Stream, Hambledon Brook",51.54875,-0.87291,2025-03-01 05:44:30
+466714,031WAT217,West Midlands,1,Flood alert,3,2025-03-01 12:18:59,2025-02-28 16:00:00,Gloucestershire,Severn Estuary,51.69439,-2.56551,2025-03-01 07:43:16
+466766,011WACN6,Cumbria and Lancashire,1,Flood alert,3,2025-03-02 07:57:46,2025-03-01 07:47:00,"Lancashire, Westmorland and Furness",Irish Sea,54.20247,-2.91313,2025-03-02 04:48:09
+466878,061WAF23HenMed,Thames,0,Flood alert,3,2025-03-02 09:37:29,2025-02-26 13:30:00,"Buckinghamshire, Oxfordshire, Windsor and Maidenhead, Wokingham","River Thames, Assendon Stream, Hambledon Brook",51.54875,-0.87291,2025-03-02 05:24:51
+467054,011WACN6,Cumbria and Lancashire,1,Flood alert,3,2025-03-03 08:10:09,2025-03-01 07:47:00,"Lancashire, Westmorland and Furness",Irish Sea,54.20247,-2.91313,2025-03-03 05:35:06
+467074,031WAT217,West Midlands,1,Flood alert,3,2025-03-02 13:04:20,2025-02-28 16:00:00,Gloucestershire,Severn Estuary,51.69439,-2.56551,2025-03-03 05:35:06
+467094,061WAF23HenMed,Thames,0,Warning no longer in force,4,2025-03-03 09:10:03,2025-03-03 09:09:00,"Buckinghamshire, Oxfordshire, Windsor and Maidenhead, Wokingham","River Thames, Assendon Stream, Hambledon Brook",51.54875,-0.87291,2025-03-03 05:35:06
+467342,011WACN6,Cumbria and Lancashire,1,Flood alert,3,2025-03-03 16:34:41,2025-03-01 07:47:00,"Lancashire, Westmorland and Furness",Irish Sea,54.20247,-2.91313,2025-03-04 01:35:15
+467362,031WAT217,West Midlands,1,Warning no longer in force,4,2025-03-03 14:07:21,2025-03-03 14:07:00,Gloucestershire,Severn Estuary,51.69439,-2.56551,2025-03-04 01:35:15
+467630,011WACN6,Cumbria and Lancashire,1,Warning no longer in force,4,2025-03-04 17:52:03,2025-03-04 17:51:00,"Lancashire, Westmorland and Furness",Irish Sea,54.20247,-2.91313,2025-03-05 04:12:43
+469348,052WATKLN,East Anglia,1,Flood alert,3,2025-03-01 09:03:44,2025-03-01 09:02:00,Norfolk,"River Great Ouse, North Sea",52.7643,0.32927,2025-03-01 05:44:30
+469568,052WATKLN,East Anglia,1,Flood alert,3,2025-03-02 09:04:50,2025-03-02 09:04:00,Norfolk,"River Great Ouse, North Sea",52.7643,0.32927,2025-03-02 04:48:09
+469749,052WATKLN,East Anglia,1,Flood alert,3,2025-03-03 09:31:47,2025-03-03 09:31:00,Norfolk,"River Great Ouse, North Sea",52.7643,0.32927,2025-03-03 05:35:06
+474465,061WAF23ShipWar,Thames,0,Flood alert,3,2025-02-25 17:22:51,2025-02-25 17:22:00,"Oxfordshire, Wokingham",River Thames,51.50295,-0.88309,2025-02-25 13:07:28
+475226,061WAF23ShipWar,Thames,0,Flood alert,3,2025-02-26 08:49:13,2025-02-25 17:22:00,"Oxfordshire, Wokingham",River Thames,51.50295,-0.88309,2025-02-26 15:31:47
+475606,061WAF23ShipWar,Thames,0,Flood alert,3,2025-02-27 10:07:14,2025-02-25 17:22:00,"Oxfordshire, Wokingham",River Thames,51.50295,-0.88309,2025-02-27 16:33:34
+475986,061WAF23ShipWar,Thames,0,Flood alert,3,2025-02-28 09:44:19,2025-02-25 17:22:00,"Oxfordshire, Wokingham",River Thames,51.50295,-0.88309,2025-02-28 06:23:14
+476746,061WAF23ShipWar,Thames,0,Warning no longer in force,4,2025-03-01 09:24:31,2025-03-01 09:24:00,"Oxfordshire, Wokingham",River Thames,51.50295,-0.88309,2025-03-01 05:44:30
+488464,065WAC404,Solent and South Downs,1,Flood alert,3,2025-03-01 10:12:15,2025-03-01 10:11:00,West Sussex,English Channel,50.80291,-0.56745,2025-03-01 05:44:30
+489168,065WAC404,Solent and South Downs,1,Flood alert,3,2025-03-02 15:04:51,2025-03-01 10:11:00,West Sussex,English Channel,50.80291,-0.56745,2025-03-03 05:35:06
+489432,065WAC404,Solent and South Downs,1,Flood alert,3,2025-03-03 11:39:38,2025-03-01 10:11:00,West Sussex,English Channel,50.80291,-0.56745,2025-03-03 07:26:37
+489872,065WAC404,Solent and South Downs,1,Warning no longer in force,4,2025-03-04 11:41:53,2025-03-04 11:41:00,West Sussex,English Channel,50.80291,-0.56745,2025-03-05 04:12:43
+505056,061WAF23Shepprtn,Thames,0,Flood alert,3,2025-02-25 11:40:53,2025-02-25 11:40:00,"Greater London, Richmond upon Thames, Surrey",River Thames,51.39538,-0.41831,2025-02-25 12:22:15
+505832,061WAF23Shepprtn,Thames,0,Flood alert,3,2025-02-26 08:49:20,2025-02-25 11:40:00,"Greater London, Richmond upon Thames, Surrey",River Thames,51.39538,-0.41831,2025-02-26 15:31:47
+506156,061WAF23Shepprtn,Thames,0,Flood alert,3,2025-02-27 10:07:22,2025-02-25 11:40:00,"Greater London, Richmond upon Thames, Surrey",River Thames,51.39538,-0.41831,2025-02-27 16:33:34
+506480,061WAF23Shepprtn,Thames,0,Flood alert,3,2025-02-28 09:44:32,2025-02-25 11:40:00,"Greater London, Richmond upon Thames, Surrey",River Thames,51.39538,-0.41831,2025-02-28 06:23:14
+507128,061WAF23Shepprtn,Thames,0,Flood alert,3,2025-03-01 09:24:07,2025-02-25 11:40:00,"Greater London, Richmond upon Thames, Surrey",River Thames,51.39538,-0.41831,2025-03-01 05:44:30
+507533,061WAF23Shepprtn,Thames,0,Flood alert,3,2025-03-02 09:37:38,2025-02-25 11:40:00,"Greater London, Richmond upon Thames, Surrey",River Thames,51.39538,-0.41831,2025-03-02 05:24:51
+507776,061WAF23Shepprtn,Thames,0,Flood alert,3,2025-03-03 09:09:48,2025-02-25 11:40:00,"Greater London, Richmond upon Thames, Surrey",River Thames,51.39538,-0.41831,2025-03-03 05:35:06
+508104,061WAF23Shepprtn,Thames,0,Warning no longer in force,4,2025-03-04 09:21:16,2025-03-04 09:21:00,"Greater London, Richmond upon Thames, Surrey",River Thames,51.39538,-0.41831,2025-03-05 04:12:43
+509536,061WAF23Hampton,Thames,0,Flood alert,3,2025-02-27 09:09:48,2025-02-27 09:06:00,"Greater London, Kingston upon Thames, Richmond upon Thames, Surrey",River Thames,51.40777,-0.31813,2025-02-27 16:33:34
+509860,061WAF23Hampton,Thames,0,Flood alert,3,2025-02-28 09:43:53,2025-02-27 09:06:00,"Greater London, Kingston upon Thames, Richmond upon Thames, Surrey",River Thames,51.40777,-0.31813,2025-02-28 06:23:14
+510198,061WAF23Hampton,Thames,0,Flood alert,3,2025-03-01 08:42:38,2025-02-27 09:06:00,"Greater London, Kingston upon Thames, Richmond upon Thames, Surrey",River Thames,51.40777,-0.31813,2025-03-01 05:44:30
+510343,061WAF23Hampton,Thames,0,Flood alert,3,2025-03-02 09:37:14,2025-02-27 09:06:00,"Greater London, Kingston upon Thames, Richmond upon Thames, Surrey",River Thames,51.40777,-0.31813,2025-03-02 05:24:51
+510430,061WAF23Hampton,Thames,0,Flood alert,3,2025-03-03 09:09:33,2025-02-27 09:06:00,"Greater London, Kingston upon Thames, Richmond upon Thames, Surrey",River Thames,51.40777,-0.31813,2025-03-03 05:35:06
+510662,061WAF23Hampton,Thames,0,Warning no longer in force,4,2025-03-04 09:21:08,2025-03-04 09:21:00,"Greater London, Kingston upon Thames, Richmond upon Thames, Surrey",River Thames,51.40777,-0.31813,2025-03-05 04:12:43
+530138,065FAG002,Solent and South Downs,0,Flood alert,3,2025-03-06 16:34:59,2025-03-06 16:34:00,Hampshire,Groundwater,51.28076,-1.4554,2025-03-07 04:32:16
+532186,111FWFWYL115,Wessex,0,Flood warning,2,2025-02-26 13:46:53,2025-02-26 13:46:00,Wiltshire,River Wylye,51.08142,-1.86145,2025-02-26 15:31:47
+532222,111FWFWYL115,Wessex,0,Warning no longer in force,4,2025-02-27 11:45:14,2025-02-27 11:45:00,Wiltshire,River Wylye,51.08142,-1.86145,2025-02-27 16:33:34
+532267,013WATMEW,"Greater Manchester, Merseyside and Cheshire",1,Flood alert,3,2025-03-01 07:16:19,2025-03-01 07:15:00,"Halton, Warrington",Mersey Estuary,53.36908,-2.64631,2025-03-01 05:44:30
+532331,013WATMEW,"Greater Manchester, Merseyside and Cheshire",1,Flood alert,3,2025-03-02 07:09:58,2025-03-01 07:15:00,"Halton, Warrington",Mersey Estuary,53.36908,-2.64631,2025-03-02 04:48:09
+532395,013WATMEW,"Greater Manchester, Merseyside and Cheshire",1,Flood alert,3,2025-03-03 07:11:03,2025-03-01 07:15:00,"Halton, Warrington",Mersey Estuary,53.36908,-2.64631,2025-03-03 05:35:06
+532459,013WATMEW,"Greater Manchester, Merseyside and Cheshire",1,Warning no longer in force,4,2025-03-03 16:48:03,2025-03-03 16:47:00,"Halton, Warrington",Mersey Estuary,53.36908,-2.64631,2025-03-04 01:35:15
+540480,111FWFFROU210,Wessex,0,Flood warning,2,2025-02-24 21:13:47,2025-02-24 21:13:00,Dorset Council,Dorset Frome,50.73673,-2.48506,2025-02-24 17:10:36
+541585,111FWFFROU210,Wessex,0,Warning no longer in force,4,2025-02-26 08:58:25,2025-02-26 08:58:00,Dorset Council,Dorset Frome,50.73673,-2.48506,2025-02-26 15:31:47
+556314,061WAF14RayOxon,Thames,0,Flood alert,3,2025-02-26 17:21:56,2025-02-26 17:21:00,"Buckinghamshire, Oxfordshire","River Ray, Wootten Brook, Doddershall Brook, Tetchwick Brook, Lugershall Brook, Murswell Hill Brook, Cutters Brook, Piddington Brook, Blackthorn Brook, Panshill Brook, Studley Wood Brook, Beckley Brook, Oddington Brook, Gallos Brook, Chipping Farm Stream",51.85354,-1.11856,2025-02-26 15:31:47
+556706,061WAF14RayOxon,Thames,0,Flood alert,3,2025-02-28 10:22:36,2025-02-26 17:21:00,"Buckinghamshire, Oxfordshire","River Ray, Wootten Brook, Doddershall Brook, Tetchwick Brook, Lugershall Brook, Murswell Hill Brook, Cutters Brook, Piddington Brook, Blackthorn Brook, Panshill Brook, Studley Wood Brook, Beckley Brook, Oddington Brook, Gallos Brook, Chipping Farm Stream",51.85354,-1.11856,2025-02-28 06:23:14
+556802,112WATAVN1,Wessex,1,Flood alert,3,2025-02-28 11:48:18,2025-02-28 11:48:00,"City of Bristol, North Somerset, South Gloucestershire",River Avon,51.46764,-2.63762,2025-02-28 07:45:31
+557148,061WAF14RayOxon,Thames,0,Flood alert,3,2025-03-01 11:04:56,2025-02-26 17:21:00,"Buckinghamshire, Oxfordshire","River Ray, Wootten Brook, Doddershall Brook, Tetchwick Brook, Lugershall Brook, Murswell Hill Brook, Cutters Brook, Piddington Brook, Blackthorn Brook, Panshill Brook, Studley Wood Brook, Beckley Brook, Oddington Brook, Gallos Brook, Chipping Farm Stream",51.85354,-1.11856,2025-03-01 06:21:13
+557180,112WATAVN1,Wessex,1,Flood alert,3,2025-03-01 11:03:21,2025-02-28 11:48:00,"City of Bristol, North Somerset, South Gloucestershire",River Avon,51.46764,-2.63762,2025-03-01 06:21:13
+557310,061WAF14RayOxon,Thames,0,Flood alert,3,2025-03-02 09:13:46,2025-02-26 17:21:00,"Buckinghamshire, Oxfordshire","River Ray, Wootten Brook, Doddershall Brook, Tetchwick Brook, Lugershall Brook, Murswell Hill Brook, Cutters Brook, Piddington Brook, Blackthorn Brook, Panshill Brook, Studley Wood Brook, Beckley Brook, Oddington Brook, Gallos Brook, Chipping Farm Stream",51.85354,-1.11856,2025-03-02 04:48:09
+557396,112WATAVN1,Wessex,1,Flood alert,3,2025-03-02 10:01:56,2025-02-28 11:48:00,"City of Bristol, North Somerset, South Gloucestershire",River Avon,51.46764,-2.63762,2025-03-02 05:24:51
+557526,061WAF14RayOxon,Thames,0,Warning no longer in force,4,2025-03-03 09:52:50,2025-03-03 09:52:00,"Buckinghamshire, Oxfordshire","River Ray, Wootten Brook, Doddershall Brook, Tetchwick Brook, Lugershall Brook, Murswell Hill Brook, Cutters Brook, Piddington Brook, Blackthorn Brook, Panshill Brook, Studley Wood Brook, Beckley Brook, Oddington Brook, Gallos Brook, Chipping Farm Stream",51.85354,-1.11856,2025-03-03 05:35:06
+557612,112WATAVN1,Wessex,1,Warning no longer in force,4,2025-03-03 10:30:09,2025-03-03 10:30:00,"City of Bristol, North Somerset, South Gloucestershire",River Avon,51.46764,-2.63762,2025-03-03 06:10:35
+558357,052WATCSTHKL,East Anglia,1,Flood alert,3,2025-03-01 09:03:45,2025-03-01 09:03:00,Norfolk,North Sea,52.84757,0.45026,2025-03-01 05:44:30
+558421,052WATCSTHKL,East Anglia,1,Flood alert,3,2025-03-02 09:04:29,2025-03-02 09:04:00,Norfolk,North Sea,52.84757,0.45026,2025-03-02 04:48:09
+558485,052WATCSTHKL,East Anglia,1,Flood alert,3,2025-03-03 09:31:32,2025-03-03 09:31:00,Norfolk,North Sea,52.84757,0.45026,2025-03-03 05:35:06
+571155,052WAFMIDOUSE,East Anglia,0,Flood alert,3,2025-02-27 15:53:21,2025-02-27 09:05:00,"Bedford, Central Bedfordshire, Milton Keynes",River Great Ouse,52.14273,-0.54902,2025-02-27 16:33:34
+571727,052WAFMIDOUSE,East Anglia,0,Flood alert,3,2025-02-28 08:10:45,2025-02-27 09:05:00,"Bedford, Central Bedfordshire, Milton Keynes",River Great Ouse,52.14273,-0.54902,2025-02-28 06:23:14
+572299,052WAFMIDOUSE,East Anglia,0,Warning no longer in force,4,2025-02-28 15:41:12,2025-02-28 15:41:00,"Bedford, Central Bedfordshire, Milton Keynes",River Great Ouse,52.14273,-0.54902,2025-02-28 16:08:03
+572887,012WATLE,Cumbria and Lancashire,1,Flood alert,3,2025-03-01 07:54:05,2025-03-01 07:53:00,Lancashire,Lune estuary,54.01522,-2.84689,2025-03-01 05:44:30
+573507,012WATLE,Cumbria and Lancashire,1,Flood alert,3,2025-03-02 08:22:56,2025-03-01 07:53:00,Lancashire,Lune estuary,54.01522,-2.84689,2025-03-02 04:48:09
+574079,012WATLE,Cumbria and Lancashire,1,Flood alert,3,2025-03-03 08:19:31,2025-03-01 07:53:00,Lancashire,Lune estuary,54.01522,-2.84689,2025-03-03 05:35:06
+574651,012WATLE,Cumbria and Lancashire,1,Warning no longer in force,4,2025-03-03 15:41:00,2025-03-03 15:40:00,Lancashire,Lune estuary,54.01522,-2.84689,2025-03-04 01:35:15
+588892,061WAF22LowerKen,Thames,0,Flood alert,3,2025-02-24 20:47:16,2025-02-24 20:46:00,"Reading, West Berkshire, Wokingham",River Kennet,51.41445,-1.10409,2025-02-24 15:57:15
+589354,061WAF22LowerKen,Thames,0,Flood alert,3,2025-02-25 07:45:10,2025-02-24 20:46:00,"Reading, West Berkshire, Wokingham",River Kennet,51.41445,-1.10409,2025-02-25 12:22:15
+589401,061WAF24Twyford,Thames,0,Flood alert,3,2025-02-25 10:13:55,2025-02-25 10:13:00,"Oxfordshire, Wokingham","River Loddon, River Thames",51.48807,-0.88215,2025-02-25 12:22:15
+590138,061WAF22LowerKen,Thames,0,Flood alert,3,2025-02-26 08:08:38,2025-02-24 20:46:00,"Reading, West Berkshire, Wokingham",River Kennet,51.41445,-1.10409,2025-02-26 15:31:47
+590185,061WAF24Twyford,Thames,0,Flood alert,3,2025-02-26 08:49:30,2025-02-25 10:13:00,"Oxfordshire, Wokingham","River Loddon, River Thames",51.48807,-0.88215,2025-02-26 15:31:47
+590511,052WAFLOBE,East Anglia,0,Flood alert,3,2025-02-27 15:53:13,2025-02-27 09:04:00,Cambridgeshire,River Great Ouse,52.3167,-0.04736,2025-02-27 16:33:34
+590527,061WAF22LowerKen,Thames,0,Flood alert,3,2025-02-27 09:47:52,2025-02-24 20:46:00,"Reading, West Berkshire, Wokingham",River Kennet,51.41445,-1.10409,2025-02-27 16:33:34
+590574,061WAF24Twyford,Thames,0,Flood alert,3,2025-02-27 10:07:40,2025-02-25 10:13:00,"Oxfordshire, Wokingham","River Loddon, River Thames",51.48807,-0.88215,2025-02-27 16:33:34
+590891,052WAFLOBE,East Anglia,0,Flood alert,3,2025-02-28 08:10:41,2025-02-27 09:04:00,Cambridgeshire,River Great Ouse,52.3167,-0.04736,2025-02-28 06:23:14
+590907,061WAF22LowerKen,Thames,0,Flood alert,3,2025-02-28 10:23:34,2025-02-24 20:46:00,"Reading, West Berkshire, Wokingham",River Kennet,51.41445,-1.10409,2025-02-28 06:23:14
+590954,061WAF24Twyford,Thames,0,Flood alert,3,2025-02-28 09:44:38,2025-02-25 10:13:00,"Oxfordshire, Wokingham","River Loddon, River Thames",51.48807,-0.88215,2025-02-28 06:23:14
+591271,052WAFLOBE,East Anglia,0,Warning no longer in force,4,2025-02-28 15:43:07,2025-02-28 15:42:00,Cambridgeshire,River Great Ouse,52.3167,-0.04736,2025-02-28 16:08:03
+591714,061WAF24Twyford,Thames,0,Flood alert,3,2025-03-01 09:24:09,2025-02-25 10:13:00,"Oxfordshire, Wokingham","River Loddon, River Thames",51.48807,-0.88215,2025-03-01 05:44:30
+591762,061WAF22LowerKen,Thames,0,Flood alert,3,2025-03-01 11:05:14,2025-02-24 20:46:00,"Reading, West Berkshire, Wokingham",River Kennet,51.41445,-1.10409,2025-03-01 06:21:13
+592031,061WAF22LowerKen,Thames,0,Flood alert,3,2025-03-02 09:13:53,2025-02-24 20:46:00,"Reading, West Berkshire, Wokingham",River Kennet,51.41445,-1.10409,2025-03-02 04:48:09
+592078,061WAF24Twyford,Thames,0,Warning no longer in force,4,2025-03-02 09:16:16,2025-03-02 09:16:00,"Oxfordshire, Wokingham","River Loddon, River Thames",51.48807,-0.88215,2025-03-02 04:48:09
+592347,061WAF22LowerKen,Thames,0,Warning no longer in force,4,2025-03-03 09:52:53,2025-03-03 09:52:00,"Reading, West Berkshire, Wokingham",River Kennet,51.41445,-1.10409,2025-03-03 05:35:06
+607748,052WAFWISSEY,East Anglia,0,Flood alert,3,2025-02-25 16:41:37,2025-02-25 09:25:00,Norfolk,River Wissey,52.5465,0.49506,2025-02-25 12:22:15
+609308,052WAFWISSEY,East Anglia,0,Flood alert,3,2025-02-26 14:57:11,2025-02-25 09:25:00,Norfolk,River Wissey,52.5465,0.49506,2025-02-26 15:31:47
+610088,052WAFWISSEY,East Anglia,0,Flood alert,3,2025-02-27 15:41:18,2025-02-25 09:25:00,Norfolk,River Wissey,52.5465,0.49506,2025-02-27 16:33:34
+610844,052WAFWISSEY,East Anglia,0,Flood alert,3,2025-02-28 08:11:09,2025-02-25 09:25:00,Norfolk,River Wissey,52.5465,0.49506,2025-02-28 06:23:14
+611528,052WAFWISSEY,East Anglia,0,Flood alert,3,2025-02-28 15:49:37,2025-02-25 09:25:00,Norfolk,River Wissey,52.5465,0.49506,2025-02-28 16:08:03
+612212,052WAFWISSEY,East Anglia,0,Flood alert,3,2025-03-01 07:50:14,2025-02-25 09:25:00,Norfolk,River Wissey,52.5465,0.49506,2025-03-01 05:44:30
+612896,052WAFWISSEY,East Anglia,0,Flood alert,3,2025-03-02 07:32:23,2025-02-25 09:25:00,Norfolk,River Wissey,52.5465,0.49506,2025-03-02 04:48:09
+613580,052WAFWISSEY,East Anglia,0,Warning no longer in force,4,2025-03-02 15:37:12,2025-03-02 15:37:00,Norfolk,River Wissey,52.5465,0.49506,2025-03-03 05:35:06
+620277,061FWF30Eashing,Thames,0,Warning no longer in force,4,2025-02-25 12:28:40,2025-02-25 12:28:00,Surrey,River Wey,51.18732,-0.69068,2025-02-25 12:22:15
+620341,061WAF23Hurley,Thames,0,Flood alert,3,2025-02-26 16:35:53,2025-02-26 16:35:00,"Buckinghamshire, Windsor and Maidenhead",River Thames,51.55892,-0.74784,2025-02-26 15:31:47
+620469,061WAF23Hurley,Thames,0,Flood alert,3,2025-02-27 10:07:03,2025-02-26 16:35:00,"Buckinghamshire, Windsor and Maidenhead",River Thames,51.55892,-0.74784,2025-02-27 16:33:34
+620597,061WAF23Hurley,Thames,0,Flood alert,3,2025-02-28 09:44:02,2025-02-26 16:35:00,"Buckinghamshire, Windsor and Maidenhead",River Thames,51.55892,-0.74784,2025-02-28 06:23:14
+620853,061WAF23Hurley,Thames,0,Flood alert,3,2025-03-01 09:23:52,2025-02-26 16:35:00,"Buckinghamshire, Windsor and Maidenhead",River Thames,51.55892,-0.74784,2025-03-01 05:44:30
+621013,061WAF23Hurley,Thames,0,Flood alert,3,2025-03-02 09:37:24,2025-02-26 16:35:00,"Buckinghamshire, Windsor and Maidenhead",River Thames,51.55892,-0.74784,2025-03-02 05:24:51
+621109,061WAF23Hurley,Thames,0,Warning no longer in force,4,2025-03-03 09:09:57,2025-03-03 09:09:00,"Buckinghamshire, Windsor and Maidenhead",River Thames,51.55892,-0.74784,2025-03-03 05:35:06
+635045,052WAFBINBROOK,East Anglia,0,Flood alert,3,2025-02-26 16:19:06,2025-02-26 16:18:00,Cambridgeshire,Bin Brook,52.20064,0.08318,2025-02-26 15:31:47
+635721,052WAFBINBROOK,East Anglia,0,Warning no longer in force,4,2025-02-27 08:52:58,2025-02-27 08:52:00,Cambridgeshire,Bin Brook,52.20064,0.08318,2025-02-27 16:33:34
+649528,061WAB23Trowlock,Thames,0,Flood alert,3,2025-02-27 09:09:49,2025-02-27 09:06:00,"Greater London, Richmond upon Thames",River Thames,51.42515,-0.30981,2025-02-27 16:33:34
+649972,061WAB23Trowlock,Thames,0,Flood alert,3,2025-02-28 09:43:59,2025-02-27 09:06:00,"Greater London, Richmond upon Thames",River Thames,51.42515,-0.30981,2025-02-28 06:23:14
+650764,061WAB23Trowlock,Thames,0,Flood alert,3,2025-03-01 08:42:41,2025-02-27 09:06:00,"Greater London, Richmond upon Thames",River Thames,51.42515,-0.30981,2025-03-01 05:44:30
+651259,061WAB23Trowlock,Thames,0,Flood alert,3,2025-03-02 09:37:21,2025-02-27 09:06:00,"Greater London, Richmond upon Thames",River Thames,51.42515,-0.30981,2025-03-02 05:24:51
+651556,061WAB23Trowlock,Thames,0,Flood alert,3,2025-03-03 09:09:40,2025-02-27 09:06:00,"Greater London, Richmond upon Thames",River Thames,51.42515,-0.30981,2025-03-03 05:35:06
+652348,061WAB23Trowlock,Thames,0,Warning no longer in force,4,2025-03-05 08:56:14,2025-03-05 08:56:00,"Greater London, Richmond upon Thames",River Thames,51.42515,-0.30981,2025-03-05 04:12:43
+660597,061WAF30LowerWey,Thames,0,Flood alert,3,2025-02-25 11:40:26,2025-02-25 11:40:00,Surrey,"River Wey, East Clandon Stream",51.32102,-0.49809,2025-02-25 12:22:15
+661653,061WAF30LowerWey,Thames,0,Flood alert,3,2025-02-26 08:49:24,2025-02-25 11:40:00,Surrey,"River Wey, East Clandon Stream",51.32102,-0.49809,2025-02-26 15:31:47
+661769,061WAF25Wye,Thames,0,Flood alert,3,2025-02-26 14:45:35,2025-02-26 11:39:00,Buckinghamshire,"River Wye, Hughenden Stream",51.59284,-0.69865,2025-02-26 15:31:47
+662149,061WAF30LowerWey,Thames,0,Flood alert,3,2025-02-27 10:07:31,2025-02-25 11:40:00,Surrey,"River Wey, East Clandon Stream",51.32102,-0.49809,2025-02-27 16:33:34
+662245,061WAF25Wye,Thames,0,Warning no longer in force,4,2025-02-27 09:29:56,2025-02-27 09:29:00,Buckinghamshire,"River Wye, Hughenden Stream",51.59284,-0.69865,2025-02-27 16:33:34
+662565,061WAF30LowerWey,Thames,0,Flood alert,3,2025-02-28 09:44:29,2025-02-25 11:40:00,Surrey,"River Wey, East Clandon Stream",51.32102,-0.49809,2025-02-28 06:23:14
+663333,061WAF30LowerWey,Thames,0,Warning no longer in force,4,2025-03-01 09:24:40,2025-03-01 09:24:00,Surrey,"River Wey, East Clandon Stream",51.32102,-0.49809,2025-03-01 05:44:30
+663649,054WACDV2A,East Anglia,1,Flood alert,3,2025-03-01 12:27:56,2025-03-01 12:27:00,Norfolk,North Sea,52.96255,0.77216,2025-03-01 07:43:16
+663658,054WACDV2A12,East Anglia,1,Flood alert,3,2025-03-01 12:27:40,2025-03-01 12:27:00,Norfolk,North Sea,52.95673,1.07526,2025-03-01 07:43:16
+663735,054WACDV2A,East Anglia,1,Warning no longer in force,4,2025-03-02 09:30:31,2025-03-02 09:30:00,Norfolk,North Sea,52.96255,0.77216,2025-03-02 04:48:09
+663744,054WACDV2A12,East Anglia,1,Warning no longer in force,4,2025-03-02 09:30:23,2025-03-02 09:30:00,Norfolk,North Sea,52.95673,1.07526,2025-03-02 04:48:09
+664351,054WACDV2A,East Anglia,1,Flood alert,3,2025-03-03 14:02:54,2025-03-03 14:02:00,Norfolk,North Sea,52.96255,0.77216,2025-03-04 01:35:15
+664360,054WACDV2A12,East Anglia,1,Flood alert,3,2025-03-03 14:02:51,2025-03-03 14:02:00,Norfolk,North Sea,52.95673,1.07526,2025-03-04 01:35:15
+666418,122FWT029,Yorkshire,1,Flood warning,2,2025-03-01 11:49:09,2025-03-01 11:48:00,East Riding of Yorkshire,The Humber,53.71697,-0.43667,2025-03-01 07:43:16
+666423,122FWT029,Yorkshire,1,Warning no longer in force,4,2025-03-01 20:31:19,2025-03-01 20:31:00,East Riding of Yorkshire,The Humber,53.71697,-0.43667,2025-03-02 04:48:09
+666886,111FWFSTOL823,Wessex,0,Flood warning,2,2025-02-25 15:09:47,2025-02-25 15:09:00,"Bournemouth, Christchurch and Poole, Dorset Council",River Stour,50.76365,-1.8748,2025-02-25 12:22:15
+667210,111FWFSTOL823,Wessex,0,Warning no longer in force,4,2025-02-27 18:20:40,2025-02-27 18:20:00,"Bournemouth, Christchurch and Poole, Dorset Council",River Stour,50.76365,-1.8748,2025-02-27 16:33:34
+667415,052WATCSTHUN,East Anglia,1,Flood alert,3,2025-03-01 09:04:59,2025-03-01 09:03:00,Norfolk,North Sea,52.92924,0.48414,2025-03-01 05:44:30
+667479,052WATCSTHUN,East Anglia,1,Flood alert,3,2025-03-02 09:04:21,2025-03-02 09:04:00,Norfolk,North Sea,52.92924,0.48414,2025-03-02 04:48:09
+667543,052WATCSTHUN,East Anglia,1,Flood alert,3,2025-03-03 09:31:17,2025-03-03 09:30:00,Norfolk,North Sea,52.92924,0.48414,2025-03-03 05:35:06
+669065,052WAFUPOUSE,East Anglia,0,Flood alert,3,2025-02-27 15:52:59,2025-02-27 09:04:00,"Buckinghamshire, Milton Keynes, Oxfordshire, West Northamptonshire",River Great Ouse,52.02635,-0.9472,2025-02-27 16:33:34
+669278,052WAFUPOUSE,East Anglia,0,Warning no longer in force,4,2025-02-28 07:59:51,2025-02-28 07:59:00,"Buckinghamshire, Milton Keynes, Oxfordshire, West Northamptonshire",River Great Ouse,52.02635,-0.9472,2025-02-28 06:23:14
+669338,121WAT913,North East,1,Flood alert,3,2025-02-28 16:16:01,2025-02-28 16:15:00,"Gateshead, Newcastle upon Tyne, North Tyneside, South Tyneside",River Tyne,54.97733,-1.55736,2025-02-28 16:08:03
+669534,121WAT913,North East,1,Flood alert,3,2025-03-01 18:24:51,2025-02-28 16:15:00,"Gateshead, Newcastle upon Tyne, North Tyneside, South Tyneside",River Tyne,54.97733,-1.55736,2025-03-02 04:48:09
+669614,121WAT913,North East,1,Flood alert,3,2025-03-02 18:01:53,2025-02-28 16:15:00,"Gateshead, Newcastle upon Tyne, North Tyneside, South Tyneside",River Tyne,54.97733,-1.55736,2025-03-03 05:35:06
+669694,121WAT913,North East,1,Warning no longer in force,4,2025-03-03 19:00:22,2025-03-03 19:00:00,"Gateshead, Newcastle upon Tyne, North Tyneside, South Tyneside",River Tyne,54.97733,-1.55736,2025-03-04 01:35:15
